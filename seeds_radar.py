@@ -48,7 +48,7 @@ BASE = Path(__file__).resolve().parent
 MIDIA = Path(r"C:\Users\f8069391\OneDrive - TIM\Área de Trabalho\Seeds\Mídia")
 UA = {"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36"}
 INTERVALO_HORAS = 5
-CTA_ASSINE_URL = ""  # link de assinatura (Canal do WhatsApp, formulário etc.) — preencher quando existir
+CTA_ASSINE_URL = "https://tally.so/r/GxjVGp"  # formulário de cadastro (nome, e-mail, WhatsApp)
 
 # ---------------------------------------------------------------- categorias
 
@@ -1163,6 +1163,23 @@ main{max-width:1280px;margin:0 auto;padding:0 28px 60px;position:relative;z-inde
 .assine-btn:hover{transform:translateY(-2px);box-shadow:0 10px 22px rgba(37,99,235,.35)}
 .assine-btn.mini{margin-top:0;padding:8px 16px;font-size:12.5px}
 
+/* ---- portão de cadastro (gate) ---- */
+#gate{position:fixed;inset:0;z-index:300;display:none;align-items:center;justify-content:center;background:var(--bg);padding:24px}
+#gate::before{content:"";position:absolute;inset:0;pointer-events:none;background:
+  radial-gradient(ellipse 70% 60% at 15% 10%,rgba(37,99,235,.10),transparent 55%),
+  radial-gradient(ellipse 60% 55% at 90% 90%,rgba(20,184,166,.08),transparent 55%)}
+.gate-card{position:relative;max-width:480px;width:100%;background:var(--surface);border:1px solid var(--line);border-radius:22px;padding:40px 36px;text-align:center;box-shadow:var(--sh-2);display:flex;flex-direction:column;align-items:center;gap:14px}
+.gate-logo{width:60px;height:60px;object-fit:contain}
+.gate-title{font-family:'Fraunces',serif;font-weight:400;font-size:clamp(22px,3.4vw,30px);color:var(--blue-900);line-height:1.3}
+.gate-title em{font-style:italic;color:var(--blue-500);font-weight:500}
+.gate-sub{font-size:14px;color:var(--mute);line-height:1.6}
+.gate-list{list-style:none;text-align:left;width:100%;display:flex;flex-direction:column;gap:9px;margin:4px 0;padding:16px 18px;background:var(--blue-50);border-radius:14px}
+.gate-list li{font-size:13px;color:var(--ink-2);padding-left:22px;position:relative}
+.gate-list li::before{content:"✓";position:absolute;left:0;color:var(--leaf);font-weight:700}
+.gate-cta{display:inline-flex;align-items:center;gap:8px;margin-top:4px;padding:14px 28px;border-radius:999px;background:var(--grad-blue);color:#fff;font-weight:600;font-size:14px;text-decoration:none;box-shadow:0 8px 20px rgba(37,99,235,.3);transition:.2s}
+.gate-cta:hover{transform:translateY(-2px);box-shadow:0 12px 26px rgba(37,99,235,.38)}
+.gate-note{font-size:11.5px;color:var(--soft)}
+
 /* ---- mosaico bento ---- */
 .sec-head{display:flex;align-items:baseline;justify-content:space-between;margin:20px 0 16px}
 .bento{display:grid;grid-template-columns:repeat(6,1fr);grid-auto-rows:152px;gap:16px;grid-auto-flow:dense}
@@ -1284,6 +1301,23 @@ footer{border-top:1px solid var(--line);position:relative;z-index:1}
   <div class="tag">SEEDS · INTELIGÊNCIA QUE CRESCE</div>
 </div>
 
+<div id="gate">
+  <div class="gate-card">
+    <img class="gate-logo" src="data:image/png;base64,__LOGO__" alt="SeeDs">
+    <div class="eyebrow">Acesso gratuito · MVP</div>
+    <h1 class="gate-title">O radar que liga <em>uma notícia</em> à outra</h1>
+    <p class="gate-sub">Clima, petróleo, juros, política, bolsa — a SeeDs mostra a corrente escondida entre elas, com leitura estratégica em cada matéria.</p>
+    <ul class="gate-list">
+      <li>Correlação econômica entre as notícias do dia</li>
+      <li>Leitura do que está por trás, resumida</li>
+      <li>Acesso direto à reportagem completa na fonte</li>
+    </ul>
+    <a class="gate-cta" id="gate-cta-btn" href="#" target="_blank" rel="noopener">Quero acesso — cadastro rápido</a>
+    <div class="gate-note">Leva 30 segundos · depois disso o acesso fica liberado neste navegador</div>
+  </div>
+</div>
+
+<div id="app">
 <header>
   <div class="top">
     <div class="brand">
@@ -1329,6 +1363,7 @@ footer{border-top:1px solid var(--line);position:relative;z-index:1}
     <div id="prox"></div>
   </div>
 </footer>
+</div>
 
 <div id="overlay"><div id="modal"></div></div>
 
@@ -1339,6 +1374,30 @@ let filtro = DATA.itens.some(i => i.top) ? "top" : "todas", busca = "";
 let traduz = localStorage.getItem('seedsPT') !== '0';
 let lastModal = null;
 const T = it => (traduz && it.pt && it.pt.titulo) ? it.pt.titulo : it.titulo;
+
+/* ---------- portão de cadastro ---------- */
+const GATE_KEY = 'seedsRadarRegistrado';
+function verificarAcesso(){
+  const gate = document.getElementById('gate');
+  const app = document.getElementById('app');
+  const ativo = DATA.publico && !!DATA.ctaUrl;
+  if(!ativo){ gate.style.display = 'none'; app.style.display = ''; return true; }
+  const params = new URLSearchParams(location.search);
+  if(params.get('ok') === '1'){
+    localStorage.setItem(GATE_KEY, '1');
+    params.delete('ok');
+    const q = params.toString();
+    history.replaceState({}, '', location.pathname + (q ? '?'+q : ''));
+  }
+  const liberado = localStorage.getItem(GATE_KEY) === '1';
+  gate.style.display = liberado ? 'none' : 'flex';
+  app.style.display = liberado ? '' : 'none';
+  if(!liberado){
+    document.getElementById('gate-cta-btn').href = DATA.ctaUrl;
+  }
+  return liberado;
+}
+const acessoLiberado = verificarAcesso();
 
 /* ---------- intro ---------- */
 const intro = document.getElementById('intro');
@@ -1562,7 +1621,7 @@ if(DATA.publico){
     '<b>SeeDs.AI</b> · Curadoria e interpretação SeeDs.AI · os direitos das matérias pertencem às fontes citadas';
   if(DATA.ctaUrl){
     document.getElementById('cta-wrap').innerHTML =
-      '<a class="assine-btn" href="'+esc(DATA.ctaUrl)+'" target="_blank" rel="noopener">Assine o Radar — receba as próximas edições →</a>';
+      '<a class="assine-btn" href="'+esc(DATA.ctaUrl)+'" target="_blank" rel="noopener">Indique um amigo para o Radar →</a>';
   }
 }
 
