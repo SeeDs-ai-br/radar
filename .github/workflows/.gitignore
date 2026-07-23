@@ -1,0 +1,6 @@
+/index.html
+/data/noticias.json
+
+__pycache__/
+*.pyc
+.DS_Store
