@@ -1,0 +1,35 @@
+name: Atualizar SeeDs Radar
+
+on:
+  schedule:
+    - cron: "0 */5 * * *"
+  workflow_dispatch: {}
+
+permissions:
+  contents: write
+
+concurrency:
+  group: seeds-radar-publicacao
+  cancel-in-progress: false
+
+jobs:
+  atualizar:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Baixar o repositório
+        uses: actions/checkout@v4
+      - name: Preparar Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: Instalar dependências
+        run: pip install requests pillow
+      - name: Gerar a edição pública (sem essência copiada — só citação com crédito)
+        run: python seeds_radar.py --publico
+      - name: Publicar no repositório (GitHub Pages pega daqui)
+        run: |
+          git config user.name "SeeDs Radar Bot"
+          git config user.email "actions@github.com"
+          git add docs data/trad_cache.json
+          git diff --cached --quiet || git commit -m "Edição automática $(date -u +'%Y-%m-%d %H:%M UTC')"
+          git push
