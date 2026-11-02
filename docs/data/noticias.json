@@ -1,6 +1,6 @@
 {
- "geradoTs": 1793575400051,
- "geradoLabel": "1 de novembro · 23h23",
+ "geradoTs": 1793594563496,
+ "geradoLabel": "2 de novembro · 04h42",
  "intervaloHoras": 5,
  "publico": true,
  "ctaUrl": "https://tally.so/r/GxjVGp",
@@ -49,6 +49,833 @@
  "itens": [
   {
    "id": 0,
+   "cat": "mundo",
+   "catLabel": "Mundo",
+   "fonte": "G1 Mundo",
+   "titulo": "Como as listas de eleitores não cidadãos de Trump podem afetar eleições nos EUA",
+   "resumo": "O presidente dos EUA, Donald Trump, participa de um comício de campanha para as eleições de meio de mandato no Five Flags Center em Dubuque, Iowa, EUA, em 1º de novembro de 2026 REUTERS/Evan Vucci As listas compiladas pelo governo de Donald Trump com possíveis eleitores não…",
+   "link": "https://g1.globo.com/mundo/noticia/2026/11/02/como-as-listas-de-eleitores-nao-cidadaos-de-trump-podem-afetar-eleicoes-nos-eua.ghtml",
+   "img": "https://s2-g1.glbimg.com/7aUaatU4hAByslx4mb0e0x5N3Cs=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/0/2/bUhpMyT8mDxEcYjxmFKg/2026-11-01t222402z-1168170325-rc28foa6b7f1-rtrmadp-3-usa-trump.jpg",
+   "imgAlt": "",
+   "ts": 1793594025000,
+   "lang": "pt",
+   "top": false,
+   "pt": null,
+   "temas": [],
+   "digest": {
+    "diz": "«Veja a seguir como essas listas podem afetar o pleito.» — trecho de: G1 Mundo",
+    "portras": "Evento global com efeito em cadeia potencial: câmbio, commodities, supply chain. Qual das três pontas toca o seu negócio primeiro?",
+    "conexao": "Dialoga com «Trump se inclina para a islamofobia e a conspiração em comícios de…» (Al Jazeera), nas conexões abaixo — mesmo tabuleiro. Compare os dois movimentos antes de fechar opinião.",
+    "numeros": []
+   },
+   "leitura": [],
+   "correl": [],
+   "rel": [
+    1,
+    2,
+    3
+   ]
+  },
+  {
+   "id": 1,
+   "cat": "mundo",
+   "catLabel": "Mundo",
+   "fonte": "Al Jazeera",
+   "titulo": "Trump leans into Islamophobia and conspiracy in last-ditch campaign rallies",
+   "resumo": "Trump attacks Muslim politicians Abdul El-Sayed and Ilhan Omar in his two last rallies on the campaign trail.",
+   "link": "https://www.aljazeera.com/news/2026/11/2/trump-leans-into-islamophobia-and-conspiracy-in-last-ditch-campaign-rallies?traffic_source=rss",
+   "img": "https://www.aljazeera.com/wp-content/uploads/2026/11/afp_6ae8021e915a-1793589790.jpg",
+   "imgAlt": "https://www.aljazeera.com/wp-content/uploads/2026/11/afp_6ae8021e915a-1793589790.jpg?resize=1920%2C1440",
+   "ts": 1793592534000,
+   "lang": "en",
+   "top": false,
+   "pt": {
+    "titulo": "Trump se inclina para a islamofobia e a conspiração em comícios de campanha de última hora",
+    "resumo": "Trump ataca os políticos muçulmanos Abdul El-Sayed e Ilhan Omar em seus dois últimos comícios durante a campanha.",
+    "diz": "«Os dois comícios foram cancelados na semana passada, mas foram subitamente remarcados.» — trecho de: Al Jazeera",
+    "leitura": []
+   },
+   "temas": [],
+   "digest": {
+    "diz": "«The two rallies were cancelled last week but were suddenly rescheduled .» — trecho de: Al Jazeera",
+    "portras": "Evento global com efeito em cadeia potencial: câmbio, commodities, supply chain. Qual das três pontas toca o seu negócio primeiro?",
+    "conexao": "Dialoga com «Como as listas de eleitores não cidadãos de Trump podem afetar eleições…» (G1 Mundo), nas conexões abaixo — mesmo tabuleiro. Compare os dois movimentos antes de fechar opinião.",
+    "numeros": []
+   },
+   "leitura": [],
+   "correl": [],
+   "rel": [
+    0,
+    2,
+    3
+   ]
+  },
+  {
+   "id": 2,
+   "cat": "mundo",
+   "catLabel": "Mundo",
+   "fonte": "G1 Mundo",
+   "titulo": "Os principais números das eleições de meio de mandato nos EUA",
+   "resumo": "Trump diz que vai respeitar resultado das midterms nos EUA 'se votação for honesta' Cerca de 250 milhões de americanos devem ir às urnas em 3 de novembro para definir a composição do Congresso nas eleições de meio de mandato dos Estados Unidos. ✅ Siga o canal de notícias…",
+   "link": "https://g1.globo.com/mundo/noticia/2026/11/02/os-principais-numeros-das-eleicoes-de-meio-de-mandato-nos-eua.ghtml",
+   "img": "https://s2-g1.glbimg.com/Cs9hYlh2o8HTkBXCpTUFb4TJsFU=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2024/L/H/cfqEwpQByteAywKos6mw/ap24311018610322.jpg",
+   "imgAlt": "",
+   "ts": 1793592001000,
+   "lang": "pt",
+   "top": false,
+   "pt": null,
+   "temas": [],
+   "digest": {
+    "diz": "«Cerca de 250 milhões de americanos devem ir às urnas em 3 de novembro para definir a composição do Congresso nas eleições de meio de mandato dos Estados Unidos .» — trecho de: G1 Mundo",
+    "portras": "Evento global com efeito em cadeia potencial: câmbio, commodities, supply chain. Qual das três pontas toca o seu negócio primeiro?",
+    "conexao": "Dialoga com «Como as listas de eleitores não cidadãos de Trump podem afetar eleições…» (G1 Mundo), nas conexões abaixo — mesmo tabuleiro. Compare os dois movimentos antes de fechar opinião.",
+    "numeros": []
+   },
+   "leitura": [],
+   "correl": [],
+   "rel": [
+    0,
+    1,
+    3
+   ]
+  },
+  {
+   "id": 3,
+   "cat": "mundo",
+   "catLabel": "Mundo",
+   "fonte": "Al Jazeera",
+   "titulo": "US midterms: What to know about independent voters and candidates",
+   "resumo": "Despite a record number of independents, third-party candidates and voters struggle to penetrate the two-party system.",
+   "link": "https://www.aljazeera.com/news/2026/11/2/us-midterms-what-to-know-about-independent-voters-and-candidates?traffic_source=rss",
+   "img": "https://www.aljazeera.com/wp-content/uploads/2026/10/reuters_6ae41b5f-1793334111.jpg",
+   "imgAlt": "https://www.aljazeera.com/wp-content/uploads/2026/10/reuters_6ae41b5f-1793334111.jpg?resize=1200%2C675",
+   "ts": 1793591622000,
+   "lang": "en",
+   "top": false,
+   "pt": {
+    "titulo": "Meios de mandato nos EUA: o que saber sobre eleitores e candidatos independentes",
+    "resumo": "Apesar de um número recorde de independentes, os candidatos e eleitores de terceiros partidos lutam para penetrar no sistema bipartidário.",
+    "diz": "«Ao mesmo tempo, candidatos independentes ou de terceiros ganham poucos assentos federais ou estaduais.» — trecho de: Al Jazeera",
+    "leitura": []
+   },
+   "temas": [],
+   "digest": {
+    "diz": "«At the same time, independent or third-party candidates win few federal or state seats.» — trecho de: Al Jazeera",
+    "portras": "Evento global com efeito em cadeia potencial: câmbio, commodities, supply chain. Qual das três pontas toca o seu negócio primeiro?",
+    "conexao": "Dialoga com «Como as listas de eleitores não cidadãos de Trump podem afetar eleições…» (G1 Mundo), nas conexões abaixo — mesmo tabuleiro. Compare os dois movimentos antes de fechar opinião.",
+    "numeros": []
+   },
+   "leitura": [],
+   "correl": [],
+   "rel": [
+    0,
+    1,
+    2
+   ]
+  },
+  {
+   "id": 4,
+   "cat": "mundo",
+   "catLabel": "Mundo",
+   "fonte": "Al Jazeera",
+   "titulo": "Kimi Antonelli becomes Formula One’s youngest world champion in Mexico City",
+   "resumo": "Italian wonderkid wins drivers' championship at 20 years and 68 days, finishing third at the Mexico City Grand Prix.",
+   "link": "https://www.aljazeera.com/sports/2026/11/2/kimi-antonelli-becomes-formula-ones-youngest-world-champion-in-mexico-city?traffic_source=rss",
+   "img": "https://www.aljazeera.com/wp-content/uploads/2026/11/AFP__20261101__D64A4UN__v1__HighRes__AutoPrixF1MexRace-1793590846.jpg",
+   "imgAlt": "https://www.aljazeera.com/wp-content/uploads/2026/11/AFP__20261101__D64A4UN__v1__HighRes__AutoPrixF1MexRace-1793590846.jpg?resize=1920%2C1440",
+   "ts": 1793591517000,
+   "lang": "en",
+   "top": false,
+   "pt": {
+    "titulo": "Kimi Antonelli se torna o mais jovem campeão mundial de Fórmula 1 na Cidade do México",
+    "resumo": "O garoto-prodígio italiano vence o campeonato de pilotos aos 20 anos e 68 dias, terminando em terceiro no Grande Prêmio da Cidade do México.",
+    "diz": "«⁠Kimi Antonelli se tornou o mais jovem campeão mundial de Fórmula 1 ⁠aos 20 anos e 68 dias de idade, com seu terceiro lugar pela Mercedes no Grande Prêmio da Cidade do México.» — trecho de: Al Jazeera",
+    "leitura": []
+   },
+   "temas": [],
+   "digest": {
+    "diz": "«⁠Kimi Antonelli has become Formula One’s youngest world champion ⁠at 20 years and 68 days old with his third-place finish for Mercedes at the Mexico City Grand Prix.» — trecho de: Al Jazeera",
+    "portras": "Evento global com efeito em cadeia potencial: câmbio, commodities, supply chain. Qual das três pontas toca o seu negócio primeiro?",
+    "conexao": "Dialoga com «Como as listas de eleitores não cidadãos de Trump podem afetar eleições…» (G1 Mundo), nas conexões abaixo — mesmo tabuleiro. Compare os dois movimentos antes de fechar opinião.",
+    "numeros": []
+   },
+   "leitura": [],
+   "correl": [],
+   "rel": [
+    0,
+    1,
+    2
+   ]
+  },
+  {
+   "id": 5,
+   "cat": "economia",
+   "catLabel": "Economia",
+   "fonte": "BBC Business",
+   "titulo": "Binance users withdraw $3.6bn after record crypto hack",
+   "resumo": "The exchange froze transactions in the wake of the incident, which impacted $6.3bn worth of digital assets.",
+   "link": "https://www.bbc.co.uk/news/articles/cwj34gdmnly4o?at_medium=RSS&at_campaign=rss",
+   "img": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/3a7f/live/ad865b20-d64f-11f1-a701-fddedf244c16.jpg",
+   "imgAlt": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3a7f/live/ad865b20-d64f-11f1-a701-fddedf244c16.jpg",
+   "ts": 1793590334000,
+   "lang": "en",
+   "top": false,
+   "pt": {
+    "titulo": "Usuários da Binance sacam US$ 3,6 bilhões após hack recorde de criptografia",
+    "resumo": "A bolsa congelou as transações após o incidente, que impactou US$ 6,3 bilhões em ativos digitais.",
+    "diz": "«Os clientes da Binance retiraram US$ 3,64 bilhões (£ 2,72 bilhões) em ativos da maior bolsa de criptomoedas do mundo quando ela reabriu no domingo, após um hack recorde na semana passada.» — trecho de: BBC Business",
+    "leitura": []
+   },
+   "temas": [
+    "Cripto & ativos digitais"
+   ],
+   "digest": {
+    "diz": "«Binance customers withdrew $3.64bn (Â£2.72bn) of assets from the world's largest cryptocurrency exchange as it reopened on Sunday following a record hack last week .» — trecho de: BBC Business",
+    "portras": "Cripto funciona como medidor de apetite de risco global: rali acompanha liquidez farta; queda brusca antecipa aversão a risco que respinga em orçamento de inovação. Leia como termômetro, não como tese.",
+    "conexao": "Dialoga com «Não seja pego pelas novas regras Compre agora e pague depois» (BBC Business), nas conexões abaixo — mesmo tabuleiro. Compare os dois movimentos antes de fechar opinião.",
+    "numeros": [
+     "$3.6bn",
+     "$6.3bn",
+     "$3.64bn",
+     "£2.72bn"
+    ]
+   },
+   "leitura": [],
+   "correl": [
+    {
+     "tema": "Juros & liquidez",
+     "efeito": "O ciclo de liquidez do Fed é o principal vetor do preço de ativos de risco.",
+     "onde": [
+      {
+       "nome": "CoinDesk",
+       "url": "https://www.coindesk.com"
+      },
+      {
+       "nome": "FRED",
+       "url": "https://fred.stlouisfed.org"
+      }
+     ]
+    }
+   ],
+   "rel": [
+    18,
+    21,
+    23
+   ]
+  },
+  {
+   "id": 6,
+   "cat": "mundo",
+   "catLabel": "Mundo",
+   "fonte": "Al Jazeera",
+   "titulo": "Muhammad Ali’s daughter and grandson endorse El-Sayed",
+   "resumo": "Daughter of the late champion boxer Muhammad Ali, and her son, have endorsed Abdul El-Sayed’s runs for the US Senate",
+   "link": "https://www.aljazeera.com/video/newsfeed/2026/11/2/muhammad-alis-daughter-and-grandson-endorse-el-sayed?traffic_source=rss",
+   "img": "https://www.aljazeera.com/wp-content/uploads/2026/11/2_11_CLIP_M-Ali-daughter-Grandson-endorse-El-Sayed_%E2%80%A8WIDE-THUMB-1793589440.jpg",
+   "imgAlt": "https://www.aljazeera.com/wp-content/uploads/2026/11/2_11_CLIP_M-Ali-daughter-Grandson-endorse-El-Sayed_%E2%80%A8WIDE-THUMB-1793589440.jpg?resize=1920%2C1080&quality=80",
+   "ts": 1793589461000,
+   "lang": "en",
+   "top": false,
+   "pt": {
+    "titulo": "A filha e o neto de Muhammad Ali apoiam El-Sayed",
+    "resumo": "Filha do falecido campeão de boxe Muhammad Ali e seu filho endossaram a candidatura de Abdul El-Sayed ao Senado dos EUA",
+    "diz": "«A filha do falecido campeão de boxe Muhammad Ali e seu filho endossaram as candidaturas de Abdul El-Sayed ao Senado dos EUA em um culto religioso em Detroit.» — trecho de: Al Jazeera",
+    "leitura": []
+   },
+   "temas": [],
+   "digest": {
+    "diz": "«The daughter of the late champion boxer Muhammad Ali, and her son, have endorsed Abdul El-Sayed’s runs for the US Senate at church service in Detroit.» — trecho de: Al Jazeera",
+    "portras": "Evento global com efeito em cadeia potencial: câmbio, commodities, supply chain. Qual das três pontas toca o seu negócio primeiro?",
+    "conexao": "Dialoga com «Como as listas de eleitores não cidadãos de Trump podem afetar eleições…» (G1 Mundo), nas conexões abaixo — mesmo tabuleiro. Compare os dois movimentos antes de fechar opinião.",
+    "numeros": []
+   },
+   "leitura": [],
+   "correl": [],
+   "rel": [
+    0,
+    1,
+    2
+   ]
+  },
+  {
+   "id": 7,
+   "cat": "vendas",
+   "catLabel": "Vendas & Growth",
+   "fonte": "TradingView",
+   "titulo": "Japan Airlines: Higher fuel costs cut H1 EBIT despite revenue growth and resilient non-aviation earnings",
+   "resumo": "Japan Airlines: Higher fuel costs cut H1 EBIT despite revenue growth and resilient non-aviation earnings TradingView",
+   "link": "https://news.google.com/rss/articles/CBMilAJBVV95cUxNTFhOZFNuWnVDVkczcHdOeG1ZeGV2bTRNUF8tUy0tQk9DZmppdDhER1ZJbXB4OHNoV0dQR2hXa3RJVWxsV2tSdlIydjBkc2VHeDM2ajdlMEk5U1FNcTJKeFJSVGw0dE54QzVsNnlYZlJoOXJWNUtWV1BScld6YldPWFgyNWduckJibGpvNEhuVVVzbWtyQ3RlQXhXNUtvUDY4M092NE8zRDgzUHh2LWdHVFUweDVxRU5PT3RlUnZxWGpqTGxFbEhUcWFrTkk2UW5wazJqYmZ6Ui13b2wzSG5iblg0Qk13cjNhdlVFSGZjcldfRDA5QnVuTkJMZHZ1WEZ0Si1rdFp4ZlIxOXZ2Zm56SW1hek0?oc=5",
+   "img": "",
+   "imgAlt": "",
+   "ts": 1793588514000,
+   "lang": "en",
+   "top": false,
+   "pt": {
+    "titulo": "Japan Airlines: Custos mais elevados de combustível reduziram o EBIT do primeiro semestre, apesar do crescimento da receita e dos ganhos resilientes não relacionados à aviação",
+    "resumo": "Japan Airlines: Custos mais elevados de combustível reduziram o EBIT do primeiro semestre, apesar do crescimento da receita e dos ganhos resilientes não relacionados à aviação TradingView",
+    "diz": "",
+    "leitura": []
+   },
+   "temas": [
+    "Vendas & growth",
+    "Mercados"
+   ],
+   "digest": {
+    "diz": "",
+    "portras": "Crescimento de vendas raramente é sorte: por trás há uma alavanca — canal, preço, proposta ou tecnologia. Identifique qual delas moveu esse resultado e pergunte o que a mesma alavanca faria no seu contexto.",
+    "conexao": "Leia em par com «Acordo Mercosul-UE eleva as exportações brasileiras em 21% e vendas…» (Gazeta Digital), nas conexões abaixo: os dois puxam o mesmo fio — mercados. Valuation de tech é o ativo mais sensível à curva de juros.",
+    "numeros": []
+   },
+   "leitura": [],
+   "correl": [
+    {
+     "tema": "Tecnologia comercial",
+     "efeito": "Os ganhos de conversão atuais vêm de dado + IA no funil, não de mais gente no time.",
+     "onde": [
+      {
+       "nome": "HubSpot Sales",
+       "url": "https://blog.hubspot.com/sales"
+      },
+      {
+       "nome": "Salesforce Blog",
+       "url": "https://www.salesforce.com/blog/"
+      }
+     ]
+    },
+    {
+     "tema": "Consumo & juros",
+     "efeito": "Resultado de vendas forte sustenta a tese de consumo resiliente — e recalibra a régua de metas do próximo ciclo.",
+     "onde": [
+      {
+       "nome": "InfoMoney",
+       "url": "https://www.infomoney.com.br"
+      },
+      {
+       "nome": "CNC",
+       "url": "https://portaldocomercio.org.br"
+      }
+     ]
+    },
+    {
+     "tema": "Juros",
+     "efeito": "Valuation de tech é o ativo mais sensível à curva de juros.",
+     "onde": [
+      {
+       "nome": "Investing",
+       "url": "https://br.investing.com"
+      },
+      {
+       "nome": "Status Invest",
+       "url": "https://statusinvest.com.br"
+      }
+     ]
+    }
+   ],
+   "rel": [
+    76,
+    61,
+    66
+   ]
+  },
+  {
+   "id": 8,
+   "cat": "mundo",
+   "catLabel": "Mundo",
+   "fonte": "G1 Mundo",
+   "titulo": "Nove pessoas morrem em acidente de avião na Flórida; veja o que se sabe",
+   "resumo": "Um jato particular caiu em um bairro da Flórida neste domingo (1/11), matando as nove pessoas a bordo, informou o secretário de Transportes dos Estados Unidos. Imagens da área mostram grandes pedaços do asfalto arrancados e lançados para o alto no local em que a aeronave, um…",
+   "link": "https://g1.globo.com/mundo/noticia/2026/11/02/nove-pessoas-morrem-em-acidente-de-aviao-na-florida-veja-o-que-se-sabe.ghtml",
+   "img": "https://s2-g1.glbimg.com/VcvW0h3gf0BBvZ7fZzrUeVyTtSU=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/z/Y/bdOwxeQKmhrWb9O3XNnw/2026-11-01t214712z-953262712-rc29foaqdajo-rtrmadp-3-usa-plane-crash-ugc.jpg",
+   "imgAlt": "",
+   "ts": 1793588401000,
+   "lang": "pt",
+   "top": false,
+   "pt": null,
+   "temas": [],
+   "digest": {
+    "diz": "«Um jato particular caiu em um bairro da Flórida neste domingo (1/11), matando as nove pessoas a bordo, informou o secretário de Transportes dos Estados Unidos.» — trecho de: G1 Mundo",
+    "portras": "Evento global com efeito em cadeia potencial: câmbio, commodities, supply chain. Qual das três pontas toca o seu negócio primeiro?",
+    "conexao": "Dialoga com «Como as listas de eleitores não cidadãos de Trump podem afetar eleições…» (G1 Mundo), nas conexões abaixo — mesmo tabuleiro. Compare os dois movimentos antes de fechar opinião.",
+    "numeros": []
+   },
+   "leitura": [],
+   "correl": [],
+   "rel": [
+    0,
+    1,
+    2
+   ]
+  },
+  {
+   "id": 9,
+   "cat": "mundo",
+   "catLabel": "Mundo",
+   "fonte": "G1 Mundo",
+   "titulo": "'Mayday... vamos bater no chão': áudio mostra conversa de piloto com torre durante queda de avião nos EUA",
+   "resumo": "Áudio mostra conversa de piloto com torre durante queda de avião nos EUA Um áudio da comunicação entre uma piloto de avião e os controladores de tráfego aéreo mostra os momentos de desespero da tripulação antes da queda de uma aeronave nos Estados Unidos, neste domingo (1º).…",
+   "link": "https://g1.globo.com/mundo/noticia/2026/11/02/mayday-vamos-bater-no-chao-audio-mostra-conversa-de-piloto-com-torre-durante-queda-de-aviao-nos-eua.ghtml",
+   "img": "https://s2-g1.glbimg.com/jizq2Jb9aweCHNJD7nJ8DGrDKD4=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/S/3/FyZADKTWiavkR2lmGanw/2026-11-01t214237z-318289359-owanapaavideo2026110142938471-rtrmadp-baseimage-960x540-jet-crash-usa-florida.jpg",
+   "imgAlt": "",
+   "ts": 1793588400000,
+   "lang": "pt",
+   "top": false,
+   "pt": null,
+   "temas": [],
+   "digest": {
+    "diz": "«Durante a conversa, a piloto relata problemas com gelo e turbulência, declara emergência e diz: \"Vamos bater no chão\".» — trecho de: G1 Mundo",
+    "portras": "Evento global com efeito em cadeia potencial: câmbio, commodities, supply chain. Qual das três pontas toca o seu negócio primeiro?",
+    "conexao": "Dialoga com «Como as listas de eleitores não cidadãos de Trump podem afetar eleições…» (G1 Mundo), nas conexões abaixo — mesmo tabuleiro. Compare os dois movimentos antes de fechar opinião.",
+    "numeros": []
+   },
+   "leitura": [],
+   "correl": [],
+   "rel": [
+    0,
+    1,
+    2
+   ]
+  },
+  {
+   "id": 10,
+   "cat": "politica",
+   "catLabel": "Política",
+   "fonte": "G1 Política",
+   "titulo": "Presidência do Senado: PL deve ter candidato próprio, mesmo com aproximação de Alcolumbre",
+   "resumo": "Apesar das tratativas do presidente do Senado, Davi Alcolumbre (União-AP), com senadores de todos os partidos, o PL deve anunciar, na próxima quarta-feira (4), Rogério Marinho (RN) como candidato à presidência do Senado em fevereiro de 2027. O partido terá a maior bancada do…",
+   "link": "https://g1.globo.com/politica/noticia/2026/11/02/presidencia-do-senado-pl-deve-ter-candidato-proprio-mesmo-com-aproximacao-de-alcolumbre.ghtml",
+   "img": "https://s2-g1.glbimg.com/s2IyKXU4bxZ6pKwobPxN2_aOHPs=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/l/w/llmiKrRe63KcVLWOtlzw/55591942863-1c52361d4f-b.jpg",
+   "imgAlt": "",
+   "ts": 1793588400000,
+   "lang": "pt",
+   "top": false,
+   "pt": null,
+   "temas": [],
+   "digest": {
+    "diz": "«Presidência do Senado: eleição será só em 2027, mas já movimenta articulações em Brasília; saiba por quê Alcolumbre tenta se reeleger ao cargo.» — trecho de: G1 Política",
+    "portras": "Decisão política redesenha regras e orçamentos. Quem ganha mandato ou verba com isso — e o que essa pessoa vai precisar comprar?",
+    "conexao": "Dialoga com «Protestos contra o custo de vida na Alemanha terminam em violência e…» (BBC Brasil), nas conexões abaixo — mesmo tabuleiro. Compare os dois movimentos antes de fechar opinião.",
+    "numeros": []
+   },
+   "leitura": [],
+   "correl": [],
+   "rel": [
+    26,
+    30,
+    34
+   ]
+  },
+  {
+   "id": 11,
+   "cat": "mundo",
+   "catLabel": "Mundo",
+   "fonte": "Al Jazeera",
+   "titulo": "El-Sayed dismisses Stevens’ backing of Republican Senate candidate",
+   "resumo": "El-Sayed dismisses Stevens’ backing of Republican Senate candidate",
+   "link": "https://www.aljazeera.com/video/newsfeed/2026/11/2/el-sayed-dismisses-haley-stevens-for-backing-of-republican-rival?traffic_source=rss",
+   "img": "https://www.aljazeera.com/wp-content/uploads/2026/11/image-1793587293.jpg",
+   "imgAlt": "https://www.aljazeera.com/wp-content/uploads/2026/11/image-1793587293.jpg?resize=1626%2C1080&quality=80",
+   "ts": 1793587300000,
+   "lang": "en",
+   "top": false,
+   "pt": {
+    "titulo": "El-Sayed rejeita o apoio de Stevens ao candidato republicano ao Senado",
+    "resumo": "El-Sayed rejeita o apoio de Stevens ao candidato republicano ao Senado",
+    "diz": "",
+    "leitura": []
+   },
+   "temas": [],
+   "digest": {
+    "diz": "",
+    "portras": "Evento global com efeito em cadeia potencial: câmbio, commodities, supply chain. Qual das três pontas toca o seu negócio primeiro?",
+    "conexao": "Dialoga com «Como as listas de eleitores não cidadãos de Trump podem afetar eleições…» (G1 Mundo), nas conexões abaixo — mesmo tabuleiro. Compare os dois movimentos antes de fechar opinião.",
+    "numeros": []
+   },
+   "leitura": [],
+   "correl": [],
+   "rel": [
+    0,
+    1,
+    2
+   ]
+  },
+  {
+   "id": 12,
+   "cat": "mundo",
+   "catLabel": "Mundo",
+   "fonte": "BBC World",
+   "titulo": "Democrat endorses Republican candidate in key Michigan Senate race as party spat erupts",
+   "resumo": "The move by Haley Stevens, who lost out on the Democratic Senate nomination to Abdul El-Sayed, was called a \"despicable betrayal\" by one top Democrat.",
+   "link": "https://www.bbc.co.uk/news/articles/c95ynzv88n68o?at_medium=RSS&at_campaign=rss",
+   "img": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/228a/live/b46d8f40-d676-11f1-93e1-3b657b665bcf.jpg",
+   "imgAlt": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/228a/live/b46d8f40-d676-11f1-93e1-3b657b665bcf.jpg",
+   "ts": 1793583942000,
+   "lang": "en",
+   "top": false,
+   "pt": {
+    "titulo": "Democrata endossa candidato republicano na disputa importante para o Senado de Michigan enquanto a disputa partidária irrompe",
+    "resumo": "A decisão de Haley Stevens, que perdeu a nomeação democrata para o Senado para Abdul El-Sayed, foi considerada uma \"traição desprezível\" por um importante democrata.",
+    "diz": "«A disputa pública entre Stevens, um democrata centrista, e El-Sayed, que representa a esquerda do partido, explodiu nos últimos dias.» — trecho de: BBC World",
+    "leitura": []
+   },
+   "temas": [],
+   "digest": {
+    "diz": "«The public feud between Stevens, a centrist Democrat, and El-Sayed, who represents the party's left-wing, has boiled over in recent days.» — trecho de: BBC World",
+    "portras": "Evento global com efeito em cadeia potencial: câmbio, commodities, supply chain. Qual das três pontas toca o seu negócio primeiro?",
+    "conexao": "Dialoga com «Como as listas de eleitores não cidadãos de Trump podem afetar eleições…» (G1 Mundo), nas conexões abaixo — mesmo tabuleiro. Compare os dois movimentos antes de fechar opinião.",
+    "numeros": []
+   },
+   "leitura": [],
+   "correl": [],
+   "rel": [
+    0,
+    1,
+    2
+   ]
+  },
+  {
+   "id": 13,
+   "cat": "mundo",
+   "catLabel": "Mundo",
+   "fonte": "Al Jazeera",
+   "titulo": "Russia, Ukraine air raid alert apps hit by cyberattacks after truce ends",
+   "resumo": "Ukrainian users receive fake warnings of nuclear threats, while Moscow reports 'false information' on its app.",
+   "link": "https://www.aljazeera.com/news/2026/11/2/ukraine-blames-russia-after-air-alert-app-sends-out-false-warnings?traffic_source=rss",
+   "img": "https://www.aljazeera.com/wp-content/uploads/2026/10/ap_6adb4c25b56c1-1792756773.jpg",
+   "imgAlt": "https://www.aljazeera.com/wp-content/uploads/2026/10/ap_6adb4c25b56c1-1792756773.jpg?resize=1920%2C1440",
+   "ts": 1793583650000,
+   "lang": "en",
+   "top": false,
+   "pt": {
+    "titulo": "Aplicativos de alerta de ataques aéreos da Rússia e da Ucrânia atingidos por ataques cibernéticos após o fim da trégua",
+    "resumo": "Os utilizadores ucranianos recebem avisos falsos sobre ameaças nucleares, enquanto Moscovo reporta “informações falsas” na sua aplicação.",
+    "diz": "«A Rússia disse que seu aplicativo de alerta de emergência sofreu um “ataque cibernético massivo”, horas depois do anúncio de Kiev de que o aplicativo de alerta de ataques aéreos da Ucrânia foi hackeado.» — trecho de: Al Jazeera",
+    "leitura": []
+   },
+   "temas": [
+    "Geopolítica & comércio"
+   ],
+   "digest": {
+    "diz": "«Russia has said its emergency warnings app came under a “massive cyberattack”, hours after Kyiv’s announcement that Ukraine’s air raid alert app was hacked.» — trecho de: Al Jazeera",
+    "portras": "Geopolítica virou variável de supply chain: tarifa, sanção e conflito redesenham rotas e custos — e criam janela para quem vende resiliência e eficiência. A pergunta é qual cadeia do seu cliente passa pelo ponto de tensão da manchete.",
+    "conexao": "Leia em par com «Por que esse metal de terras raras é 346 vezes mais caro na América do…» (OilPrice), nas conexões abaixo: os dois puxam o mesmo fio — geopolítica & comércio. Tensões em rotas de comércio mexem com frete, grãos, metais e petróleo simultaneamente.",
+    "numeros": []
+   },
+   "leitura": [],
+   "correl": [
+    {
+     "tema": "Commodities",
+     "efeito": "Tensões em rotas de comércio mexem com frete, grãos, metais e petróleo simultaneamente.",
+     "onde": [
+      {
+       "nome": "Trading Economics",
+       "url": "https://tradingeconomics.com/commodities"
+      },
+      {
+       "nome": "Al Jazeera",
+       "url": "https://www.aljazeera.com"
+      }
+     ]
+    },
+    {
+     "tema": "Semicondutores",
+     "efeito": "Restrições de exportação de chips definem quem consegue treinar IA de fronteira.",
+     "onde": [
+      {
+       "nome": "CSIS",
+       "url": "https://www.csis.org"
+      },
+      {
+       "nome": "Reuters Tech",
+       "url": "https://www.reuters.com/technology/"
+      }
+     ]
+    }
+   ],
+   "rel": [
+    15,
+    54,
+    57
+   ]
+  },
+  {
+   "id": 14,
+   "cat": "mundo",
+   "catLabel": "Mundo",
+   "fonte": "Al Jazeera",
+   "titulo": "Tens of thousands build 108 Buddhist stupas for Bhutan ‘mindfulness’ city",
+   "resumo": "Bhutan is building a 'mindfulness' city to drive economic growth and persuade more young people to stay.",
+   "link": "https://www.aljazeera.com/news/2026/11/2/tens-of-thousands-build-108-buddhist-stupas-for-bhutan-mindfulness-city?traffic_source=rss",
+   "img": "https://www.aljazeera.com/wp-content/uploads/2026/11/AFP__20261101__D6396NZ__v1__HighRes__BhutanPoliticsInfrastructureBuddhism-1793577536.jpg",
+   "imgAlt": "https://www.aljazeera.com/wp-content/uploads/2026/11/AFP__20261101__D6396NZ__v1__HighRes__BhutanPoliticsInfrastructureBuddhism-1793577536.jpg?resize=1200%2C675",
+   "ts": 1793583081000,
+   "lang": "en",
+   "top": false,
+   "pt": {
+    "titulo": "Dezenas de milhares constroem 108 estupas budistas para a cidade de “atenção plena” no Butão",
+    "resumo": "O Butão está a construir uma cidade de “atenção plena” para impulsionar o crescimento económico e persuadir mais jovens a permanecer.",
+    "diz": "«Eu estava preocupado que a construção de 108 estupas em um único dia pudesse não ter sucesso”, disse o rei do Butão, Jigme Khesar Namgyel Wangchuck, em um discurso na cerimônia.» — trecho de: Al Jazeera",
+    "leitura": []
+   },
+   "temas": [],
+   "digest": {
+    "diz": "«I was worried that raising 108 stupas in a single day might not succeed,” Bhutan’s King Jigme Khesar Namgyel Wangchuck said in a speech at the ceremony.» — trecho de: Al Jazeera",
+    "portras": "Evento global com efeito em cadeia potencial: câmbio, commodities, supply chain. Qual das três pontas toca o seu negócio primeiro?",
+    "conexao": "Dialoga com «Como as listas de eleitores não cidadãos de Trump podem afetar eleições…» (G1 Mundo), nas conexões abaixo — mesmo tabuleiro. Compare os dois movimentos antes de fechar opinião.",
+    "numeros": []
+   },
+   "leitura": [],
+   "correl": [],
+   "rel": [
+    0,
+    1,
+    2
+   ]
+  },
+  {
+   "id": 15,
+   "cat": "energia",
+   "catLabel": "Energia & Clima",
+   "fonte": "OilPrice",
+   "titulo": "Why Is This Rare Earth Metal 346 Times More Expensive In America Than in China?",
+   "resumo": "Samarium sells for as much as 346 times more in North America than in China, and that price is just a preview of what American industry would pay the day Beijing stops exporting. Jet engines, industrial motors, EVs, wind turbines and medical scanners all run on rare earth…",
+   "link": "https://oilprice.com/Energy/Energy-General/Why-Is-This-Rare-Earth-Metal-346-Times-More-Expensive-In-America-Than-in-China.html",
+   "img": "https://d32r1sh890xpii.cloudfront.net/article/1200x675/2026-10-30_nvvg93stps.jpg",
+   "imgAlt": "",
+   "ts": 1793581200000,
+   "lang": "en",
+   "top": false,
+   "pt": {
+    "titulo": "Por que esse metal de terras raras é 346 vezes mais caro na América do que na China?",
+    "resumo": "O samário é vendido por até 346 vezes mais na América do Norte do que na China, e esse preço é apenas uma prévia do que a indústria americana pagaria no dia em que Pequim parasse de exportar. Motores a jato, motores industriais, veículos elétricos, turbinas eólicas e scanners médicos funcionam em terras raras…",
+    "diz": "«Para os fabricantes de ímãs, os óxidos de terras raras primeiro precisam ser reduzidos a metal, depois derretidos com outros materiais e fundidos na tira de liga que alimenta a linha magnética.» — trecho de: OilPrice",
+    "leitura": []
+   },
+   "temas": [
+    "Geopolítica & comércio"
+   ],
+   "digest": {
+    "diz": "«For magnet manufacturers, rare earth oxides first have to be reduced to metal, then melted with other materials and cast into the alloy strip that feeds the magnet line.» — trecho de: OilPrice",
+    "portras": "Geopolítica virou variável de supply chain: tarifa, sanção e conflito redesenham rotas e custos — e criam janela para quem vende resiliência e eficiência. A pergunta é qual cadeia do seu cliente passa pelo ponto de tensão da manchete.",
+    "conexao": "Leia em par com «Laboratórios dos EUA buscam novos materiais para fechar a liderança…» (OilPrice), nas conexões abaixo: os dois puxam o mesmo fio — geopolítica & comércio. Tensões em rotas de comércio mexem com frete, grãos, metais e petróleo simultaneamente.",
+    "numeros": [
+     "$110",
+     "90%",
+     "80%",
+     "15%"
+    ]
+   },
+   "leitura": [],
+   "correl": [
+    {
+     "tema": "Commodities",
+     "efeito": "Tensões em rotas de comércio mexem com frete, grãos, metais e petróleo simultaneamente.",
+     "onde": [
+      {
+       "nome": "Trading Economics",
+       "url": "https://tradingeconomics.com/commodities"
+      },
+      {
+       "nome": "Al Jazeera",
+       "url": "https://www.aljazeera.com"
+      }
+     ]
+    },
+    {
+     "tema": "Semicondutores",
+     "efeito": "Restrições de exportação de chips definem quem consegue treinar IA de fronteira.",
+     "onde": [
+      {
+       "nome": "CSIS",
+       "url": "https://www.csis.org"
+      },
+      {
+       "nome": "Reuters Tech",
+       "url": "https://www.reuters.com/technology/"
+      }
+     ]
+    }
+   ],
+   "rel": [
+    57,
+    94,
+    13
+   ]
+  },
+  {
+   "id": 16,
+   "cat": "energia",
+   "catLabel": "Energia & Clima",
+   "fonte": "Guardian Environment",
+   "titulo": "Cryosphere faces permanent damage when world overshoots 1.5C, scientists warn",
+   "resumo": "UN-backed report finds even temporary rises above Paris agreement target could cause harm to glaciers and polar ice sheets Earth’s icy regions face such dangerous melting that global heating should be brought back below 1C after an inevitable period of overshooting global…",
+   "link": "https://www.theguardian.com/science/2026/nov/02/permanent-damage-crysophere-overshoots-15c-scientists-warn",
+   "img": "https://i.guim.co.uk/img/media/bdfe2e53d77196debfc20774540788bb736b8e62/431_0_4263_3411/master/4263.jpg?width=1200&quality=85&auto=format&fit=max&s=dbd5c0ebd7ce37cda53b2f63f5b73ad2",
+   "imgAlt": "https://i.guim.co.uk/img/media/bdfe2e53d77196debfc20774540788bb736b8e62/431_0_4263_3411/master/4263.jpg?width=700&quality=85&auto=format&fit=max&s=dbd5c0ebd7ce37cda53b2f63f5b73ad2",
+   "ts": 1793577685000,
+   "lang": "en",
+   "top": false,
+   "pt": {
+    "titulo": "A criosfera enfrenta danos permanentes quando o mundo ultrapassa 1,5°C, alertam cientistas",
+    "resumo": "Relatório apoiado pela ONU conclui que mesmo aumentos temporários acima da meta do acordo de Paris podem causar danos às geleiras e aos mantos de gelo polares. As regiões geladas da Terra enfrentam um derretimento tão perigoso que o aquecimento global deveria ser trazido de volta abaixo de 1°C após um período inevitável de superação global...",
+    "diz": "«Além disso, deveria ser removido da atmosfera uma quantidade suficiente de carbono que aquece o planeta para reduzir ainda mais o aquecimento a longo prazo, idealmente abaixo de 1ºC até 2150.» — trecho de: Guardian Environment",
+    "leitura": []
+   },
+   "temas": [
+    "Clima"
+   ],
+   "digest": {
+    "diz": "«Added to this, enough planet-heating carbon should be removed from the atmosphere to bring long-term warming down much further, ideally below 1C by 2150.» — trecho de: Guardian Environment",
+    "portras": "Clima é variável econômica: seca mexe com energia e alimentos, enchente mexe com logística e seguros. O evento climático de hoje é a linha de custo do próximo trimestre — e bancos já precificam esse risco no crédito.",
+    "conexao": "Leia em par com «O boom das energias renováveis do Azerbaijão está a transformar o seu…» (OilPrice), nas conexões abaixo: os dois puxam o mesmo fio — clima. Hidrologia define preço de energia no Brasil; safra define inflação de alimentos.",
+    "numeros": []
+   },
+   "leitura": [],
+   "correl": [
+    {
+     "tema": "Energia & alimentos",
+     "efeito": "Hidrologia define preço de energia no Brasil; safra define inflação de alimentos.",
+     "onde": [
+      {
+       "nome": "ONS",
+       "url": "https://www.ons.org.br"
+      },
+      {
+       "nome": "Conab",
+       "url": "https://www.conab.gov.br"
+      }
+     ]
+    },
+    {
+     "tema": "Seguros & crédito",
+     "efeito": "Eventos extremos reprecificam seguros e crédito rural em cascata.",
+     "onde": [
+      {
+       "nome": "Swiss Re Institute",
+       "url": "https://www.swissre.com/institute/"
+      }
+     ]
+    }
+   ],
+   "rel": [
+    64,
+    32,
+    53
+   ]
+  },
+  {
+   "id": 17,
+   "cat": "energia",
+   "catLabel": "Energia & Clima",
+   "fonte": "OilPrice",
+   "titulo": "Oil Prices No Longer Follow Headlines",
+   "resumo": "A month ago, a series of news reports said oil flows out of Hormuz had recovered to pre-war levels, pushing oil prices lower. However, the rout did not last. Benchmarks are set for their fourth monthly gain in a row, and no amount of repeating that Gulf states are exporting even…",
+   "link": "https://oilprice.com/Energy/Oil-Prices/Oil-Prices-No-Longer-Follow-Headlines.html",
+   "img": "https://d32r1sh890xpii.cloudfront.net/article/1200x675/2026-10-30_dxomyftqn6.jpg",
+   "imgAlt": "",
+   "ts": 1793577600000,
+   "lang": "en",
+   "top": false,
+   "pt": {
+    "titulo": "Os preços do petróleo não acompanham mais as manchetes",
+    "resumo": "Há um mês, uma série de notícias diziam que os fluxos de petróleo provenientes de Ormuz tinham recuperado para os níveis anteriores à guerra, empurrando os preços do petróleo para baixo. Porém, a goleada não durou. Os benchmarks estão definidos para o seu quarto ganho mensal consecutivo, e não é preciso repetir que os estados do Golfo estão exportando, mesmo…",
+    "diz": "«Há um mês, uma série de notícias diziam que os fluxos de petróleo provenientes de Ormuz tinham recuperado para os níveis anteriores à guerra, empurrando os preços do petróleo para baixo.» — trecho de: OilPrice",
+    "leitura": []
+   },
+   "temas": [
+    "Petróleo & energia"
+   ],
+   "digest": {
+    "diz": "«A month ago, a series of news reports said oil flows out of Hormuz had recovered to pre-war levels, pushing oil prices lower.» — trecho de: OilPrice",
+    "portras": "Energia é a variável que conecta clima, geopolítica e inflação. Choque no barril chega ao frete, do frete ao preço, do preço ao juro — e do juro ao orçamento do seu cliente. É essa cadeia que vale mapear, não o preço do dia.",
+    "conexao": "Leia em par com «Enorme data center de IA provoca reação apesar das promessas de energia…» (OilPrice), nas conexões abaixo: os dois puxam o mesmo fio — petróleo & energia. Eventos climáticos extremos mexem com oferta de energia e commodities agrícolas ao mesmo tempo.",
+    "numeros": [
+     "$94",
+     "$116"
+    ]
+   },
+   "leitura": [],
+   "correl": [
+    {
+     "tema": "Clima",
+     "efeito": "Eventos climáticos extremos mexem com oferta de energia e commodities agrícolas ao mesmo tempo.",
+     "onde": [
+      {
+       "nome": "NOAA",
+       "url": "https://www.noaa.gov"
+      },
+      {
+       "nome": "Guardian Environment",
+       "url": "https://www.theguardian.com/environment"
+      }
+     ]
+    },
+    {
+     "tema": "Inflação & juros",
+     "efeito": "Petróleo caro pressiona inflação global e adia cortes de juros.",
+     "onde": [
+      {
+       "nome": "OilPrice",
+       "url": "https://oilprice.com"
+      },
+      {
+       "nome": "Trading Economics",
+       "url": "https://tradingeconomics.com"
+      }
+     ]
+    },
+    {
+     "tema": "Data centers de IA",
+     "efeito": "A conta de energia da IA já disputa capacidade de geração em vários países.",
+     "onde": [
+      {
+       "nome": "IEA",
+       "url": "https://www.iea.org/topics/data-centres-and-data-transmission-networks"
+      }
+     ]
+    }
+   ],
+   "rel": [
+    43,
+    57,
+    64
+   ]
+  },
+  {
+   "id": 18,
+   "cat": "economia",
+   "catLabel": "Economia",
+   "fonte": "BBC Business",
+   "titulo": "Don't get caught out by new Buy Now Pay Later rules",
+   "resumo": "New affordability checks mean you could be blocked from using Buy Now Pay Later but here are ways to avoid it.",
+   "link": "https://www.bbc.co.uk/news/articles/crpdgp4y017go?at_medium=RSS&at_campaign=rss",
+   "img": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/c3c9/live/8607fcf0-d462-11f1-ab12-eb0c94f5b382.jpg",
+   "imgAlt": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c3c9/live/8607fcf0-d462-11f1-ab12-eb0c94f5b382.jpg",
+   "ts": 1793576089000,
+   "lang": "en",
+   "top": false,
+   "pt": {
+    "titulo": "Não seja pego pelas novas regras Compre agora e pague depois",
+    "resumo": "Novas verificações de acessibilidade significam que você pode ser impedido de usar Compre agora, pague depois, mas aqui estão algumas maneiras de evitá-lo.",
+    "diz": "«Se você comprou algo via Compre Agora, Pague Depois (BNPL) desde o verão, então você terá sido testado para ver se pode pagar.» — trecho de: BBC Business",
+    "leitura": []
+   },
+   "temas": [],
+   "digest": {
+    "diz": "«If you've bought something via Buy Now Pay Later (BNPL) since the summer, then you'll have been tested to see if you can afford it.» — trecho de: BBC Business",
+    "portras": "Sinal macro que altera o ambiente de decisão dos seus clientes. Ajuste timing e argumento ao ciclo — ROI curto em aperto, transformação em afrouxamento.",
+    "conexao": "Dialoga com «Usuários da Binance sacam US$ 3,6 bilhões após hack recorde de…» (BBC Business), nas conexões abaixo — mesmo tabuleiro. Compare os dois movimentos antes de fechar opinião.",
+    "numeros": []
+   },
+   "leitura": [],
+   "correl": [],
+   "rel": [
+    5,
+    21,
+    23
+   ]
+  },
+  {
+   "id": 19,
    "cat": "ia_negocios",
    "catLabel": "Empresas de IA",
    "fonte": "PYMNTS.com",
@@ -138,13 +965,13 @@
     }
    ],
    "rel": [
-    70,
-    79,
-    94
+    73,
+    81,
+    95
    ]
   },
   {
-   "id": 1,
+   "id": 20,
    "cat": "tecnologia",
    "catLabel": "Tecnologia",
    "fonte": "Canaltech",
@@ -167,13 +994,13 @@
    "leitura": [],
    "correl": [],
    "rel": [
-    10,
-    21,
-    25
+    25,
+    31,
+    33
    ]
   },
   {
-   "id": 2,
+   "id": 21,
    "cat": "economia",
    "catLabel": "Economia",
    "fonte": "InfoMoney",
@@ -190,84 +1017,19 @@
    "digest": {
     "diz": "«Para Kassab, Lula precisa “empoderar” os nomes da área de economia dentro do governo.» — trecho de: InfoMoney",
     "portras": "Sinal macro que altera o ambiente de decisão dos seus clientes. Ajuste timing e argumento ao ciclo — ROI curto em aperto, transformação em afrouxamento.",
-    "conexao": "Dialoga com «Nove pessoas morrem após queda de avião em bairro residencial na Flórida» (InfoMoney), nas conexões abaixo — mesmo tabuleiro. Compare os dois movimentos antes de fechar opinião.",
+    "conexao": "Dialoga com «Usuários da Binance sacam US$ 3,6 bilhões após hack recorde de…» (BBC Business), nas conexões abaixo — mesmo tabuleiro. Compare os dois movimentos antes de fechar opinião.",
     "numeros": []
    },
    "leitura": [],
    "correl": [],
    "rel": [
-    7,
-    9,
-    16
+    5,
+    18,
+    23
    ]
   },
   {
-   "id": 3,
-   "cat": "mundo",
-   "catLabel": "Mundo",
-   "fonte": "Al Jazeera",
-   "titulo": "High-ranking US Democratic senator suffers stroke",
-   "resumo": "Senator Chris Murphy, a fierce Trump critic who is not up for re-election in the midterms, is 'alert' after a stroke.",
-   "link": "https://www.aljazeera.com/news/2026/11/1/high-ranking-us-democratic-senator-suffers-stroke?traffic_source=rss",
-   "img": "https://www.aljazeera.com/wp-content/uploads/2026/09/murphy-1790357086.jpg",
-   "imgAlt": "https://www.aljazeera.com/wp-content/uploads/2026/09/murphy-1790357086.jpg?resize=1920%2C1440",
-   "ts": 1793572374000,
-   "lang": "en",
-   "top": false,
-   "pt": {
-    "titulo": "Senador democrata de alto escalão dos EUA sofre acidente vascular cerebral",
-    "resumo": "O senador Chris Murphy, um crítico ferrenho de Trump que não se candidata à reeleição nas eleições intercalares, está “alerta” após um acidente vascular cerebral.",
-    "diz": "«O senador dos Estados Unidos Chris Murphy, um legislador democrata de alto escalão, sofreu um derrame, mas está “acordado e alerta”, disse seu assessor sênior.» — trecho de: Al Jazeera",
-    "leitura": []
-   },
-   "temas": [
-    "Geopolítica & comércio"
-   ],
-   "digest": {
-    "diz": "«United States Senator Chris Murphy , a high-ranking Democratic legislator, has suffered a stroke but is “awake and alert”, his senior aide said.» — trecho de: Al Jazeera",
-    "portras": "Geopolítica virou variável de supply chain: tarifa, sanção e conflito redesenham rotas e custos — e criam janela para quem vende resiliência e eficiência. A pergunta é qual cadeia do seu cliente passa pelo ponto de tensão da manchete.",
-    "conexao": "Leia em par com «Kherson se prepara para o retorno da guerra com o fim da trégua…» (Al Jazeera), nas conexões abaixo: os dois puxam o mesmo fio — geopolítica & comércio. Tensões em rotas de comércio mexem com frete, grãos, metais e petróleo simultaneamente.",
-    "numeros": []
-   },
-   "leitura": [],
-   "correl": [
-    {
-     "tema": "Commodities",
-     "efeito": "Tensões em rotas de comércio mexem com frete, grãos, metais e petróleo simultaneamente.",
-     "onde": [
-      {
-       "nome": "Trading Economics",
-       "url": "https://tradingeconomics.com/commodities"
-      },
-      {
-       "nome": "Al Jazeera",
-       "url": "https://www.aljazeera.com"
-      }
-     ]
-    },
-    {
-     "tema": "Semicondutores",
-     "efeito": "Restrições de exportação de chips definem quem consegue treinar IA de fronteira.",
-     "onde": [
-      {
-       "nome": "CSIS",
-       "url": "https://www.csis.org"
-      },
-      {
-       "nome": "Reuters Tech",
-       "url": "https://www.reuters.com/technology/"
-      }
-     ]
-    }
-   ],
-   "rel": [
-    8,
-    13,
-    19
-   ]
-  },
-  {
-   "id": 4,
+   "id": 22,
    "cat": "empreendedorismo",
    "catLabel": "Empreendedorismo",
    "fonte": "Diário do Grande ABC",
@@ -287,7 +1049,7 @@
    "digest": {
     "diz": "",
     "portras": "História de empreendedor é laboratório aberto: modelo de negócio, tração e erro alheio de graça. O exercício útil é extrair o padrão replicável — não a inspiração — e testar uma hipótese dessas na SeeDs ainda este mês.",
-    "conexao": "Leia em par com «High Tech Course aposta no empreendedorismo e amplia oportunidades de…» (Agência Brasília), nas conexões abaixo: os dois puxam o mesmo fio — startups & empreendedorismo. Funding aquecido significa concorrência subsidiada; ciclo seco significa consolidação e clientes órfãos de fornecedor — dois cenários, duas jogadas comerciais.",
+    "conexao": "Leia em par com «A onda de fusões e aquisições da Salesforce continua com um acordo…» (TechCrunch Startups), nas conexões abaixo: os dois puxam o mesmo fio — startups & empreendedorismo. Funding aquecido significa concorrência subsidiada; ciclo seco significa consolidação e clientes órfãos de fornecedor — dois cenários, duas jogadas comerciais.",
     "numeros": []
    },
    "leitura": [],
@@ -322,76 +1084,13 @@
     }
    ],
    "rel": [
-    32,
-    110,
-    45
+    109,
+    7,
+    52
    ]
   },
   {
-   "id": 5,
-   "cat": "mundo",
-   "catLabel": "Mundo",
-   "fonte": "The Guardian",
-   "titulo": "UK was ‘vehement’ slavery reparations should not be on Commonwealth summit agenda",
-   "resumo": "British prime minister has now agreed to structured dialogue on reparatory justice but issue remains off formal Chogm agenda British officials reportedly insisted that discussions of reparations for slavery should not be on the agenda of the Commonwealth leaders’ summit in…",
-   "link": "https://www.theguardian.com/world/2026/nov/01/uk-was-vehement-slavery-reparations-should-not-be-on-commonwealth-summit-agenda",
-   "img": "https://i.guim.co.uk/img/media/3aa8217e3ba513aa013ca78934624c405592db3a/825_27_4852_3884/master/4852.jpg?width=1200&quality=85&auto=format&fit=max&s=df90f4275aaf4f9db10408039b514f06",
-   "imgAlt": "https://i.guim.co.uk/img/media/3aa8217e3ba513aa013ca78934624c405592db3a/825_27_4852_3884/master/4852.jpg?width=700&quality=85&auto=format&fit=max&s=df90f4275aaf4f9db10408039b514f06",
-   "ts": 1793571971000,
-   "lang": "en",
-   "top": false,
-   "pt": {
-    "titulo": "O Reino Unido foi “veemente” que as reparações por escravatura não deveriam estar na agenda da cimeira da Commonwealth",
-    "resumo": "O primeiro-ministro britânico concordou agora com um diálogo estruturado sobre justiça reparatória, mas a questão permanece fora da agenda formal do Chogm. As autoridades britânicas alegadamente insistiram que as discussões sobre reparações pela escravatura não deveriam estar na agenda da cimeira dos líderes da Commonwealth em…",
-    "diz": "«Atualmente, as reparações da escravatura não estão na agenda oficial da cimeira dos Chefes de Governo da Commonwealth (Chogm), que começa no domingo.» — trecho de: The Guardian",
-    "leitura": []
-   },
-   "temas": [],
-   "digest": {
-    "diz": "«Currently, slavery reparations is not on the official agenda of the Commonwealth Heads of Government (Chogm) summit, which begins on Sunday.» — trecho de: The Guardian",
-    "portras": "Evento global com efeito em cadeia potencial: câmbio, commodities, supply chain. Qual das três pontas toca o seu negócio primeiro?",
-    "conexao": "Dialoga com «Senador democrata de alto escalão dos EUA sofre acidente vascular…» (Al Jazeera), nas conexões abaixo — mesmo tabuleiro. Compare os dois movimentos antes de fechar opinião.",
-    "numeros": []
-   },
-   "leitura": [],
-   "correl": [],
-   "rel": [
-    3,
-    8,
-    13
-   ]
-  },
-  {
-   "id": 6,
-   "cat": "politica",
-   "catLabel": "Política",
-   "fonte": "BBC Brasil",
-   "titulo": "Nove pessoas morrem em acidente de avião na Flórida; veja o que se sabe",
-   "resumo": "O secretário de Transportes dos Estados Unidos, Sean Duffy, classifica como uma \"tragédia horrível\" o acidente ocorrido a cerca de 14 km do resort Mar-a-Lago, do presidente Donald Trump",
-   "link": "https://www.bbc.com/portuguese/articles/cm9qz2289dvyo?at_medium=RSS&at_campaign=rss",
-   "img": "https://ichef.bbci.co.uk/news/976/branded_portuguese/d55d/live/79dfd4d0-d63c-11f1-8675-51d7bbc7c8d5.jpg",
-   "imgAlt": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/d55d/live/79dfd4d0-d63c-11f1-8675-51d7bbc7c8d5.jpg",
-   "ts": 1793571528000,
-   "lang": "pt",
-   "top": false,
-   "pt": null,
-   "temas": [],
-   "digest": {
-    "diz": "«Um jato particular caiu em um bairro da Flórida neste domingo (1/11), matando as nove pessoas a bordo, informou o secretário de Transportes dos Estados Unidos.» — trecho de: BBC Brasil",
-    "portras": "Decisão política redesenha regras e orçamentos. Quem ganha mandato ou verba com isso — e o que essa pessoa vai precisar comprar?",
-    "conexao": "Dialoga com «Protestos contra o custo de vida na Alemanha terminam em violência e…» (BBC Brasil), nas conexões abaixo — mesmo tabuleiro. Compare os dois movimentos antes de fechar opinião.",
-    "numeros": []
-   },
-   "leitura": [],
-   "correl": [],
-   "rel": [
-    11,
-    20,
-    24
-   ]
-  },
-  {
-   "id": 7,
+   "id": 23,
    "cat": "economia",
    "catLabel": "Economia",
    "fonte": "InfoMoney",
@@ -408,84 +1107,19 @@
    "digest": {
     "diz": "«Não se soube imediatamente se alguém a bordo do Learjet 60 ou no solo, no bairro do condado de Palm Beach, ficou ferido ou morreu.» — trecho de: InfoMoney",
     "portras": "Sinal macro que altera o ambiente de decisão dos seus clientes. Ajuste timing e argumento ao ciclo — ROI curto em aperto, transformação em afrouxamento.",
-    "conexao": "Dialoga com «Lula precisa encontrar dupla como Palocci e Meirelles e empoderar,…» (InfoMoney), nas conexões abaixo — mesmo tabuleiro. Compare os dois movimentos antes de fechar opinião.",
+    "conexao": "Dialoga com «Usuários da Binance sacam US$ 3,6 bilhões após hack recorde de…» (BBC Business), nas conexões abaixo — mesmo tabuleiro. Compare os dois movimentos antes de fechar opinião.",
     "numeros": []
    },
    "leitura": [],
    "correl": [],
    "rel": [
-    2,
-    9,
-    16
+    5,
+    18,
+    21
    ]
   },
   {
-   "id": 8,
-   "cat": "mundo",
-   "catLabel": "Mundo",
-   "fonte": "Al Jazeera",
-   "titulo": "Kherson braces for return of war as localised Russia-Ukraine truce ends",
-   "resumo": "Moscow and Kyiv continue strikes elsewhere, but no reported violations in Kherson region during the six-day ceasefire.",
-   "link": "https://www.aljazeera.com/news/2026/11/1/ukraine-evacuates-civilians-in-kherson-region-as-localised-ceasefire-ends?traffic_source=rss",
-   "img": "https://www.aljazeera.com/wp-content/uploads/2026/11/afp_6ae7ab5a84eb-1793567578.jpg",
-   "imgAlt": "https://www.aljazeera.com/wp-content/uploads/2026/11/afp_6ae7ab5a84eb-1793567578.jpg?resize=1920%2C1440",
-   "ts": 1793571314000,
-   "lang": "en",
-   "top": false,
-   "pt": {
-    "titulo": "Kherson se prepara para o retorno da guerra com o fim da trégua localizada entre Rússia e Ucrânia",
-    "resumo": "Moscou e Kiev continuam os ataques em outros lugares, mas não há relatos de violações na região de Kherson durante o cessar-fogo de seis dias.",
-    "diz": "«Os ataques russos em outras partes da Ucrânia no domingo deixaram centenas de milhares de famílias sem energia, disse o presidente ucraniano, Volodymyr Zelenskyy.» — trecho de: Al Jazeera",
-    "leitura": []
-   },
-   "temas": [
-    "Geopolítica & comércio"
-   ],
-   "digest": {
-    "diz": "«Russian strikes elsewhere in Ukraine on Sunday left hundreds of thousands of households without power, Ukrainian President Volodymyr Zelenskyy said.» — trecho de: Al Jazeera",
-    "portras": "Cada movimento EUA–China reprecifica tecnologia, chips e commodities. Ler o tabuleiro é ler o custo futuro da sua cadeia — e a agenda de risco que vai dominar a mesa do seu cliente no próximo trimestre.",
-    "conexao": "Leia em par com «Senador democrata de alto escalão dos EUA sofre acidente vascular…» (Al Jazeera), nas conexões abaixo: os dois puxam o mesmo fio — geopolítica & comércio. Tensões em rotas de comércio mexem com frete, grãos, metais e petróleo simultaneamente.",
-    "numeros": []
-   },
-   "leitura": [],
-   "correl": [
-    {
-     "tema": "Commodities",
-     "efeito": "Tensões em rotas de comércio mexem com frete, grãos, metais e petróleo simultaneamente.",
-     "onde": [
-      {
-       "nome": "Trading Economics",
-       "url": "https://tradingeconomics.com/commodities"
-      },
-      {
-       "nome": "Al Jazeera",
-       "url": "https://www.aljazeera.com"
-      }
-     ]
-    },
-    {
-     "tema": "Semicondutores",
-     "efeito": "Restrições de exportação de chips definem quem consegue treinar IA de fronteira.",
-     "onde": [
-      {
-       "nome": "CSIS",
-       "url": "https://www.csis.org"
-      },
-      {
-       "nome": "Reuters Tech",
-       "url": "https://www.reuters.com/technology/"
-      }
-     ]
-    }
-   ],
-   "rel": [
-    3,
-    13,
-    19
-   ]
-  },
-  {
-   "id": 9,
+   "id": 24,
    "cat": "economia",
    "catLabel": "Economia",
    "fonte": "InfoMoney",
@@ -502,19 +1136,19 @@
    "digest": {
     "diz": "«O caso é investigado pelo 77º Distrito Policial (Santa Cecília), com apoio da Central Especializada de Repressão a Crimes e Ocorrências Diversas (Cerco).» — trecho de: InfoMoney",
     "portras": "Sinal macro que altera o ambiente de decisão dos seus clientes. Ajuste timing e argumento ao ciclo — ROI curto em aperto, transformação em afrouxamento.",
-    "conexao": "Dialoga com «Lula precisa encontrar dupla como Palocci e Meirelles e empoderar,…» (InfoMoney), nas conexões abaixo — mesmo tabuleiro. Compare os dois movimentos antes de fechar opinião.",
+    "conexao": "Dialoga com «Usuários da Binance sacam US$ 3,6 bilhões após hack recorde de…» (BBC Business), nas conexões abaixo — mesmo tabuleiro. Compare os dois movimentos antes de fechar opinião.",
     "numeros": []
    },
    "leitura": [],
    "correl": [],
    "rel": [
-    2,
-    7,
-    16
+    5,
+    18,
+    21
    ]
   },
   {
-   "id": 10,
+   "id": 25,
    "cat": "tecnologia",
    "catLabel": "Tecnologia",
    "fonte": "Canaltech",
@@ -537,13 +1171,13 @@
    "leitura": [],
    "correl": [],
    "rel": [
-    1,
-    21,
-    25
+    20,
+    31,
+    33
    ]
   },
   {
-   "id": 11,
+   "id": 26,
    "cat": "politica",
    "catLabel": "Política",
    "fonte": "BBC Brasil",
@@ -560,19 +1194,19 @@
    "digest": {
     "diz": "«Lojas foram saqueadas no centro de Frankfurt na noite de sábado (31/10), em meio a confrontos em cidades alemãs durante protestos contra o alto custo de vida.» — trecho de: BBC Brasil",
     "portras": "Decisão política redesenha regras e orçamentos. Quem ganha mandato ou verba com isso — e o que essa pessoa vai precisar comprar?",
-    "conexao": "Dialoga com «Nove pessoas morrem em acidente de avião na Flórida; veja o que se sabe» (BBC Brasil), nas conexões abaixo — mesmo tabuleiro. Compare os dois movimentos antes de fechar opinião.",
+    "conexao": "Dialoga com «Presidência do Senado: PL deve ter candidato próprio, mesmo com…» (G1 Política), nas conexões abaixo — mesmo tabuleiro. Compare os dois movimentos antes de fechar opinião.",
     "numeros": []
    },
    "leitura": [],
    "correl": [],
    "rel": [
-    6,
-    20,
-    24
+    10,
+    30,
+    34
    ]
   },
   {
-   "id": 12,
+   "id": 27,
    "cat": "ia",
    "catLabel": "Inteligência Artificial",
    "fonte": "TechCrunch AI",
@@ -598,7 +1232,7 @@
    "digest": {
     "diz": "",
     "portras": "Cada salto de modelo reprecifica o que é 'trabalho humano premium'. O movimento a observar: quais etapas da operação comercial ficam automatizáveis em 12 meses — e como ocupar o espaço consultivo que sobra, que é onde o valor migra.",
-    "conexao": "Leia em par com «Unicórnio de inteligência artificial Happy Robot estreia no Brasil» (VEJA), nas conexões abaixo: os dois puxam o mesmo fio — semicondutores. Tensão no estreito de Taiwan mexe com toda a cadeia de eletrônicos e com o preço de hardware no Brasil.",
+    "conexao": "Leia em par com «Google inaugura centro de dados no espaço e testa inteligência…» (CartaCapital), nas conexões abaixo: os dois puxam o mesmo fio — semicondutores. Tensão no estreito de Taiwan mexe com toda a cadeia de eletrônicos e com o preço de hardware no Brasil.",
     "numeros": []
    },
    "leitura": [],
@@ -661,146 +1295,13 @@
     }
    ],
    "rel": [
-    75,
+    71,
     78,
-    81
+    83
    ]
   },
   {
-   "id": 13,
-   "cat": "mundo",
-   "catLabel": "Mundo",
-   "fonte": "BBC World",
-   "titulo": "Russian strikes cut power to thousands in Ukraine as Kherson ceasefire ends",
-   "resumo": "A rare humanitarian ceasefire allowed civilians to evacuate the Russian-occupied city of Oleshky.",
-   "link": "https://www.bbc.co.uk/news/articles/c64g1y90p71eo?at_medium=RSS&at_campaign=rss",
-   "img": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/d8e6/live/7871d270-d627-11f1-a947-0507737f09b2.jpg",
-   "imgAlt": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d8e6/live/7871d270-d627-11f1-a947-0507737f09b2.jpg",
-   "ts": 1793570101000,
-   "lang": "en",
-   "top": false,
-   "pt": {
-    "titulo": "Ataques russos cortam energia para milhares de pessoas na Ucrânia com o fim do cessar-fogo em Kherson",
-    "resumo": "Um raro cessar-fogo humanitário permitiu que os civis evacuassem a cidade de Oleshky, ocupada pela Rússia.",
-    "diz": "«Terminou um raro cessar-fogo humanitário na região de Kherson, na linha da frente da Ucrânia, que permitiu aos civis evacuarem a cidade de Oleshky ocupada pela Rússia.» — trecho de: BBC World",
-    "leitura": []
-   },
-   "temas": [
-    "Geopolítica & comércio"
-   ],
-   "digest": {
-    "diz": "«A rare humanitarian ceasefire in Ukraine's front-line Kherson region that allowed civilians to evacuate the Russian-occupied city of Oleshky has ended.» — trecho de: BBC World",
-    "portras": "Geopolítica virou variável de supply chain: tarifa, sanção e conflito redesenham rotas e custos — e criam janela para quem vende resiliência e eficiência. A pergunta é qual cadeia do seu cliente passa pelo ponto de tensão da manchete.",
-    "conexao": "Leia em par com «Senador democrata de alto escalão dos EUA sofre acidente vascular…» (Al Jazeera), nas conexões abaixo: os dois puxam o mesmo fio — geopolítica & comércio. Tensões em rotas de comércio mexem com frete, grãos, metais e petróleo simultaneamente.",
-    "numeros": []
-   },
-   "leitura": [],
-   "correl": [
-    {
-     "tema": "Commodities",
-     "efeito": "Tensões em rotas de comércio mexem com frete, grãos, metais e petróleo simultaneamente.",
-     "onde": [
-      {
-       "nome": "Trading Economics",
-       "url": "https://tradingeconomics.com/commodities"
-      },
-      {
-       "nome": "Al Jazeera",
-       "url": "https://www.aljazeera.com"
-      }
-     ]
-    },
-    {
-     "tema": "Semicondutores",
-     "efeito": "Restrições de exportação de chips definem quem consegue treinar IA de fronteira.",
-     "onde": [
-      {
-       "nome": "CSIS",
-       "url": "https://www.csis.org"
-      },
-      {
-       "nome": "Reuters Tech",
-       "url": "https://www.reuters.com/technology/"
-      }
-     ]
-    }
-   ],
-   "rel": [
-    3,
-    8,
-    19
-   ]
-  },
-  {
-   "id": 14,
-   "cat": "mundo",
-   "catLabel": "Mundo",
-   "fonte": "Al Jazeera",
-   "titulo": "Democrat Haley Stevens heckled as she backs El-Sayed rival",
-   "resumo": "US Democrat Haley Stevens from Michigan was heckled as a ‘traitor’, after endorsing Republican Mike Rogers.",
-   "link": "https://www.aljazeera.com/video/newsfeed/2026/11/1/democrat-haley-stevens-heckled-as-she-backs-el-sayed-rival?traffic_source=rss",
-   "img": "https://www.aljazeera.com/wp-content/uploads/2026/11/image-1793568568.jpg",
-   "imgAlt": "https://www.aljazeera.com/wp-content/uploads/2026/11/image-1793568568.jpg?resize=1200%2C675",
-   "ts": 1793568583000,
-   "lang": "en",
-   "top": false,
-   "pt": {
-    "titulo": "A democrata Haley Stevens questionou ao apoiar o rival de El-Sayed",
-    "resumo": "A democrata norte-americana Haley Stevens, do Michigan, foi considerada uma “traidora”, depois de apoiar o republicano Mike Rogers.",
-    "diz": "«Stevens perdeu para El-Sayed nas primárias democratas.» — trecho de: Al Jazeera",
-    "leitura": []
-   },
-   "temas": [],
-   "digest": {
-    "diz": "«Stevens lost to El-Sayed in the Democratic primary contest.» — trecho de: Al Jazeera",
-    "portras": "Evento global com efeito em cadeia potencial: câmbio, commodities, supply chain. Qual das três pontas toca o seu negócio primeiro?",
-    "conexao": "Dialoga com «Senador democrata de alto escalão dos EUA sofre acidente vascular…» (Al Jazeera), nas conexões abaixo — mesmo tabuleiro. Compare os dois movimentos antes de fechar opinião.",
-    "numeros": []
-   },
-   "leitura": [],
-   "correl": [],
-   "rel": [
-    3,
-    5,
-    8
-   ]
-  },
-  {
-   "id": 15,
-   "cat": "mundo",
-   "catLabel": "Mundo",
-   "fonte": "Al Jazeera",
-   "titulo": "Thousands displaced from Hebron as Israel carries on siege",
-   "resumo": "Almost 5,000 people have been displaced as a result of Israel’s military siege on the city of Hebron in the West Bank.",
-   "link": "https://www.aljazeera.com/video/newsfeed/2026/11/1/thousands-displaced-from-hebron-as-israel-carries-on-siege?traffic_source=rss",
-   "img": "https://www.aljazeera.com/wp-content/uploads/2026/11/image-1793568515.jpg",
-   "imgAlt": "https://www.aljazeera.com/wp-content/uploads/2026/11/image-1793568515.jpg?resize=1920%2C1080&quality=80",
-   "ts": 1793568527000,
-   "lang": "en",
-   "top": false,
-   "pt": {
-    "titulo": "Milhares de pessoas deslocadas de Hebron enquanto Israel continua o cerco",
-    "resumo": "Quase 5.000 pessoas foram deslocadas como resultado do cerco militar de Israel à cidade de Hebron, na Cisjordânia.",
-    "diz": "«Quase 5.000 pessoas foram deslocadas como resultado do cerco militar de Israel à cidade de Hebron, na Cisjordânia ocupada.» — trecho de: Al Jazeera",
-    "leitura": []
-   },
-   "temas": [],
-   "digest": {
-    "diz": "«Almost 5,000 people have been displaced as a result of Israel’s military siege on the city of Hebron in the occupied West Bank.» — trecho de: Al Jazeera",
-    "portras": "Evento global com efeito em cadeia potencial: câmbio, commodities, supply chain. Qual das três pontas toca o seu negócio primeiro?",
-    "conexao": "Dialoga com «Senador democrata de alto escalão dos EUA sofre acidente vascular…» (Al Jazeera), nas conexões abaixo — mesmo tabuleiro. Compare os dois movimentos antes de fechar opinião.",
-    "numeros": []
-   },
-   "leitura": [],
-   "correl": [],
-   "rel": [
-    3,
-    5,
-    8
-   ]
-  },
-  {
-   "id": 16,
+   "id": 28,
    "cat": "economia",
    "catLabel": "Economia",
    "fonte": "InfoMoney",
@@ -817,19 +1318,19 @@
    "digest": {
     "diz": "«Tudo aquilo que foi prometido na campanha, pode ficar certo que vai acontecer”, declarou.» — trecho de: InfoMoney",
     "portras": "Sinal macro que altera o ambiente de decisão dos seus clientes. Ajuste timing e argumento ao ciclo — ROI curto em aperto, transformação em afrouxamento.",
-    "conexao": "Dialoga com «Lula precisa encontrar dupla como Palocci e Meirelles e empoderar,…» (InfoMoney), nas conexões abaixo — mesmo tabuleiro. Compare os dois movimentos antes de fechar opinião.",
+    "conexao": "Dialoga com «Usuários da Binance sacam US$ 3,6 bilhões após hack recorde de…» (BBC Business), nas conexões abaixo — mesmo tabuleiro. Compare os dois movimentos antes de fechar opinião.",
     "numeros": []
    },
    "leitura": [],
    "correl": [],
    "rel": [
-    2,
-    7,
-    9
+    5,
+    18,
+    21
    ]
   },
   {
-   "id": 17,
+   "id": 29,
    "cat": "economia",
    "catLabel": "Economia",
    "fonte": "InfoMoney",
@@ -846,138 +1347,19 @@
    "digest": {
     "diz": "«A Fuvest somou, ao todo, com 106,1 mil inscritos para a 1ª fase, incluindo 12,3 mil que estão participantes de treinamento.» — trecho de: InfoMoney",
     "portras": "Sinal macro que altera o ambiente de decisão dos seus clientes. Ajuste timing e argumento ao ciclo — ROI curto em aperto, transformação em afrouxamento.",
-    "conexao": "Dialoga com «Lula precisa encontrar dupla como Palocci e Meirelles e empoderar,…» (InfoMoney), nas conexões abaixo — mesmo tabuleiro. Compare os dois movimentos antes de fechar opinião.",
+    "conexao": "Dialoga com «Usuários da Binance sacam US$ 3,6 bilhões após hack recorde de…» (BBC Business), nas conexões abaixo — mesmo tabuleiro. Compare os dois movimentos antes de fechar opinião.",
     "numeros": []
    },
    "leitura": [],
    "correl": [],
    "rel": [
-    2,
-    7,
-    9
-   ]
-  },
-  {
-   "id": 18,
-   "cat": "mundo",
-   "catLabel": "Mundo",
-   "fonte": "BBC World",
-   "titulo": "Democrat endorses Republican candidate in key Michigan Senate race as party spat erupts",
-   "resumo": "Haley Stevens, who lost out on the Democratic Senate nomination to Abdul El-Sayed, endorses his opponent days before the vote.",
-   "link": "https://www.bbc.co.uk/news/articles/c95ynzv88n68o?at_medium=RSS&at_campaign=rss",
-   "img": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/6ea1/live/d9896430-d625-11f1-93e1-3b657b665bcf.jpg",
-   "imgAlt": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6ea1/live/d9896430-d625-11f1-93e1-3b657b665bcf.jpg",
-   "ts": 1793567805000,
-   "lang": "en",
-   "top": false,
-   "pt": {
-    "titulo": "Democrata endossa candidato republicano na disputa importante para o Senado de Michigan enquanto a disputa partidária irrompe",
-    "resumo": "Haley Stevens, que perdeu a nomeação democrata para o Senado para Abdul El-Sayed, apoia o seu oponente dias antes da votação.",
-    "diz": "«A disputa pública entre Stevens, um democrata centrista, e El-Sayed, que representa a esquerda do partido, explodiu nos últimos dias.» — trecho de: BBC World",
-    "leitura": []
-   },
-   "temas": [],
-   "digest": {
-    "diz": "«The public feud between Stevens, a centrist Democrat, and El-Sayed, who represents the party's left-wing, has boiled over in recent days.» — trecho de: BBC World",
-    "portras": "Evento global com efeito em cadeia potencial: câmbio, commodities, supply chain. Qual das três pontas toca o seu negócio primeiro?",
-    "conexao": "Dialoga com «Senador democrata de alto escalão dos EUA sofre acidente vascular…» (Al Jazeera), nas conexões abaixo — mesmo tabuleiro. Compare os dois movimentos antes de fechar opinião.",
-    "numeros": []
-   },
-   "leitura": [],
-   "correl": [],
-   "rel": [
-    3,
     5,
-    8
+    18,
+    21
    ]
   },
   {
-   "id": 19,
-   "cat": "mundo",
-   "catLabel": "Mundo",
-   "fonte": "G1 Mundo",
-   "titulo": "Moradores da Ucrânia recebem alertas de risco químico e nuclear; autoridades falam em ação hacker",
-   "resumo": "Notificações de alerta em Kiev após sistema ser hackeado Reprodução/X Moradores de Kiev, capital da Ucrânia, receberam alertas de risco químico e nuclear nos celulares neste domingo (1º). A Força Aérea ucraniana afirmou que as notificações foram emitidas após uma invasão hacker…",
-   "link": "https://g1.globo.com/mundo/ucrania-russia/noticia/2026/11/01/moradores-da-ucrania-recebem-alerta-de-risco-quimico-e-nuclear-autoridades-falam-em-acao-hacker.ghtml",
-   "img": "https://s2-g1.glbimg.com/YsECgyFcdNIYjopV6VM3W6ed6VI=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/k/A/FOMJEGTziwpUqIbU61AQ/hwecwupweaasqta.jpg",
-   "imgAlt": "",
-   "ts": 1793567787000,
-   "lang": "pt",
-   "top": false,
-   "pt": null,
-   "temas": [
-    "Petróleo & energia",
-    "Geopolítica & comércio"
-   ],
-   "digest": {
-    "diz": "«Moradores de Kiev, capital da Ucrânia , receberam alertas de risco químico e nuclear nos celulares neste domingo (1º).» — trecho de: G1 Mundo",
-    "portras": "A transição energética está reprecificando setores inteiros — e o boom de data centers é, no fundo, uma história de eletricidade. Quem lê o mapa de energia lê antes o mapa de investimento.",
-    "conexao": "Leia em par com «Laboratórios dos EUA buscam novos materiais para fechar a liderança…» (OilPrice), nas conexões abaixo: os dois puxam o mesmo fio — geopolítica & comércio. Tensões em rotas de comércio mexem com frete, grãos, metais e petróleo simultaneamente.",
-    "numeros": []
-   },
-   "leitura": [],
-   "correl": [
-    {
-     "tema": "Clima",
-     "efeito": "Eventos climáticos extremos mexem com oferta de energia e commodities agrícolas ao mesmo tempo.",
-     "onde": [
-      {
-       "nome": "NOAA",
-       "url": "https://www.noaa.gov"
-      },
-      {
-       "nome": "Guardian Environment",
-       "url": "https://www.theguardian.com/environment"
-      }
-     ]
-    },
-    {
-     "tema": "Inflação & juros",
-     "efeito": "Petróleo caro pressiona inflação global e adia cortes de juros.",
-     "onde": [
-      {
-       "nome": "OilPrice",
-       "url": "https://oilprice.com"
-      },
-      {
-       "nome": "Trading Economics",
-       "url": "https://tradingeconomics.com"
-      }
-     ]
-    },
-    {
-     "tema": "Data centers de IA",
-     "efeito": "A conta de energia da IA já disputa capacidade de geração em vários países.",
-     "onde": [
-      {
-       "nome": "IEA",
-       "url": "https://www.iea.org/topics/data-centres-and-data-transmission-networks"
-      }
-     ]
-    },
-    {
-     "tema": "Commodities",
-     "efeito": "Tensões em rotas de comércio mexem com frete, grãos, metais e petróleo simultaneamente.",
-     "onde": [
-      {
-       "nome": "Trading Economics",
-       "url": "https://tradingeconomics.com/commodities"
-      },
-      {
-       "nome": "Al Jazeera",
-       "url": "https://www.aljazeera.com"
-      }
-     ]
-    }
-   ],
-   "rel": [
-    49,
-    3,
-    8
-   ]
-  },
-  {
-   "id": 20,
+   "id": 30,
    "cat": "politica",
    "catLabel": "Política",
    "fonte": "BBC Brasil",
@@ -994,19 +1376,19 @@
    "digest": {
     "diz": "«Era pouco antes do amanhecer no Vale do Rio Grande, no Texas , e os fiéis chegavam para a missa de sexta-feira na pequena Capela Católica de La Lomita.» — trecho de: BBC Brasil",
     "portras": "Decisão política redesenha regras e orçamentos. Quem ganha mandato ou verba com isso — e o que essa pessoa vai precisar comprar?",
-    "conexao": "Dialoga com «Nove pessoas morrem em acidente de avião na Flórida; veja o que se sabe» (BBC Brasil), nas conexões abaixo — mesmo tabuleiro. Compare os dois movimentos antes de fechar opinião.",
+    "conexao": "Dialoga com «Presidência do Senado: PL deve ter candidato próprio, mesmo com…» (G1 Política), nas conexões abaixo — mesmo tabuleiro. Compare os dois movimentos antes de fechar opinião.",
     "numeros": []
    },
    "leitura": [],
    "correl": [],
    "rel": [
-    6,
-    11,
-    24
+    10,
+    26,
+    34
    ]
   },
   {
-   "id": 21,
+   "id": 31,
    "cat": "tecnologia",
    "catLabel": "Tecnologia",
    "fonte": "The Verge",
@@ -1034,119 +1416,69 @@
    "leitura": [],
    "correl": [],
    "rel": [
-    1,
-    10,
-    25
+    20,
+    25,
+    33
    ]
   },
   {
-   "id": 22,
-   "cat": "mundo",
-   "catLabel": "Mundo",
-   "fonte": "Al Jazeera",
-   "titulo": "Carney signals progress on Canada-US trade deal talks as midterms loom",
-   "resumo": "Canadian PM Mark Carney announces progress in Canada-US trade deal talks ahead of Tuesday's US midterm elections.",
-   "link": "https://www.aljazeera.com/news/2026/11/1/carney-signals-progress-on-canada-us-trade-deal-talks-as-midterms-loom?traffic_source=rss",
-   "img": "https://www.aljazeera.com/wp-content/uploads/2026/10/ap_6ae2ef6ef3bde-1793257327.jpg",
-   "imgAlt": "https://www.aljazeera.com/wp-content/uploads/2026/10/ap_6ae2ef6ef3bde-1793257327.jpg?resize=1200%2C675",
-   "ts": 1793566893000,
-   "lang": "en",
-   "top": false,
-   "pt": {
-    "titulo": "Carney sinaliza progresso nas negociações do acordo comercial Canadá-EUA à medida que as eleições intermediárias se aproximam",
-    "resumo": "O primeiro-ministro canadense, Mark Carney, anuncia o progresso nas negociações do acordo comercial Canadá-EUA antes das eleições intermediárias de terça-feira nos EUA.",
-    "diz": "«Boa conversa com o presidente dos EUA, Donald Trump, sobre o futuro do comércio Canadá-EUA”, postou Carney no X no domingo.» — trecho de: Al Jazeera",
-    "leitura": []
-   },
-   "temas": [],
-   "digest": {
-    "diz": "«Good conversation with US President Donald Trump on the future of Canada-U.S. trade,” Carney posted on X on Sunday.» — trecho de: Al Jazeera",
-    "portras": "Evento global com efeito em cadeia potencial: câmbio, commodities, supply chain. Qual das três pontas toca o seu negócio primeiro?",
-    "conexao": "Dialoga com «Senador democrata de alto escalão dos EUA sofre acidente vascular…» (Al Jazeera), nas conexões abaixo — mesmo tabuleiro. Compare os dois movimentos antes de fechar opinião.",
-    "numeros": [
-     "$20bn"
-    ]
-   },
-   "leitura": [],
-   "correl": [],
-   "rel": [
-    3,
-    5,
-    8
-   ]
-  },
-  {
-   "id": 23,
-   "cat": "mundo",
-   "catLabel": "Mundo",
-   "fonte": "Al Jazeera",
-   "titulo": "Why did Democrat Haley Stevens just endorse a Republican for US Senate?",
-   "resumo": "Stevens’s endorsement of Republican Mike Rogers comes after a bitter dispute with Democratic nominee Abdul El-Sayed.",
-   "link": "https://www.aljazeera.com/news/2026/11/1/why-did-democrat-haley-stevens-just-endorse-a-republican-for-us-senate?traffic_source=rss",
-   "img": "https://www.aljazeera.com/wp-content/uploads/2026/11/reuters_6ae79c48-1793563720.jpg",
-   "imgAlt": "https://www.aljazeera.com/wp-content/uploads/2026/11/reuters_6ae79c48-1793563720.jpg?resize=1920%2C1440",
-   "ts": 1793566852000,
-   "lang": "en",
-   "top": false,
-   "pt": {
-    "titulo": "Por que a democrata Haley Stevens acabou de endossar um republicano para o Senado dos EUA?",
-    "resumo": "O endosso de Stevens ao republicano Mike Rogers ocorre depois de uma disputa acirrada com o candidato democrata Abdul El-Sayed.",
-    "diz": "«Apesar de uma dura batalha nas primárias, Stevens prometeu apoiar El-Sayed e disse ainda na quarta-feira que ainda queria que ele vencesse.» — trecho de: Al Jazeera",
-    "leitura": []
-   },
-   "temas": [],
-   "digest": {
-    "diz": "«Despite a bitter primary battle, Stevens promised to support El-Sayed and said as recently as Wednesday that she still wanted him to win.» — trecho de: Al Jazeera",
-    "portras": "Evento global com efeito em cadeia potencial: câmbio, commodities, supply chain. Qual das três pontas toca o seu negócio primeiro?",
-    "conexao": "Dialoga com «Senador democrata de alto escalão dos EUA sofre acidente vascular…» (Al Jazeera), nas conexões abaixo — mesmo tabuleiro. Compare os dois movimentos antes de fechar opinião.",
-    "numeros": [
-     "$250,000"
-    ]
-   },
-   "leitura": [],
-   "correl": [],
-   "rel": [
-    3,
-    5,
-    8
-   ]
-  },
-  {
-   "id": 24,
-   "cat": "politica",
-   "catLabel": "Política",
-   "fonte": "Politico",
-   "titulo": "Democrats eye state supreme court races — this year and beyond",
-   "resumo": "National groups are spending money in battleground judicial races with the hope of liberal majorities in two years.",
-   "link": "https://www.politico.com/news/2026/11/01/state-supreme-court-midterm-elections-01144147",
-   "img": "https://static.politico.com/40/45/ba588fe748579b76c6999254f244/election-2026-north-carolina-83706.jpg",
+   "id": 32,
+   "cat": "negocios",
+   "catLabel": "Negócios & Estratégia",
+   "fonte": "Exame",
+   "titulo": "Novembro começa com previsão de ciclone extratropical e temporais no Brasil; veja a previsão",
+   "resumo": "Previsão indica chuva forte em diferentes estados e chegada de uma massa de ar polar a partir de quinta-feira, 5",
+   "link": "https://exame.com/brasil/novembro-comeca-com-previsao-de-ciclone-extratropical-e-temporais-no-brasil-veja-a-previsao/",
+   "img": "https://classic.exame.com/wp-content/uploads/2026/07/Chuva-e-vendaval-em-Sao-Paulo.png",
    "imgAlt": "",
-   "ts": 1793566800000,
-   "lang": "en",
+   "ts": 1793567195000,
+   "lang": "pt",
    "top": false,
-   "pt": {
-    "titulo": "Democratas estão de olho nas disputas pela Suprema Corte estadual – este ano e depois",
-    "resumo": "Os grupos nacionais estão a gastar dinheiro em disputas judiciais disputadas com a esperança de obterem maiorias liberais dentro de dois anos.",
-    "diz": "",
-    "leitura": []
-   },
-   "temas": [],
+   "pt": null,
+   "temas": [
+    "Clima"
+   ],
    "digest": {
-    "diz": "",
-    "portras": "Decisão política redesenha regras e orçamentos. Quem ganha mandato ou verba com isso — e o que essa pessoa vai precisar comprar?",
-    "conexao": "Dialoga com «Nove pessoas morrem em acidente de avião na Flórida; veja o que se sabe» (BBC Brasil), nas conexões abaixo — mesmo tabuleiro. Compare os dois movimentos antes de fechar opinião.",
+    "diz": "«Um ciclone extratropical deve se formar próximo ao litoral de Santa Catarina entre quarta-feira, 4, e quinta-feira, 5.» — trecho de: Exame",
+    "portras": "Clima é variável econômica: seca mexe com energia e alimentos, enchente mexe com logística e seguros. O evento climático de hoje é a linha de custo do próximo trimestre — e bancos já precificam esse risco no crédito.",
+    "conexao": "Leia em par com «A criosfera enfrenta danos permanentes quando o mundo ultrapassa 1,5°C,…» (Guardian Environment), nas conexões abaixo: os dois puxam o mesmo fio — clima. Hidrologia define preço de energia no Brasil; safra define inflação de alimentos.",
     "numeros": []
    },
    "leitura": [],
-   "correl": [],
+   "correl": [
+    {
+     "tema": "Energia & alimentos",
+     "efeito": "Hidrologia define preço de energia no Brasil; safra define inflação de alimentos.",
+     "onde": [
+      {
+       "nome": "ONS",
+       "url": "https://www.ons.org.br"
+      },
+      {
+       "nome": "Conab",
+       "url": "https://www.conab.gov.br"
+      }
+     ]
+    },
+    {
+     "tema": "Seguros & crédito",
+     "efeito": "Eventos extremos reprecificam seguros e crédito rural em cascata.",
+     "onde": [
+      {
+       "nome": "Swiss Re Institute",
+       "url": "https://www.swissre.com/institute/"
+      }
+     ]
+    }
+   ],
    "rel": [
-    6,
-    11,
-    20
+    16,
+    53,
+    64
    ]
   },
   {
-   "id": 25,
+   "id": 33,
    "cat": "tecnologia",
    "catLabel": "Tecnologia",
    "fonte": "Canaltech",
@@ -1169,13 +1501,47 @@
    "leitura": [],
    "correl": [],
    "rel": [
-    1,
-    10,
-    21
+    20,
+    25,
+    31
    ]
   },
   {
-   "id": 26,
+   "id": 34,
+   "cat": "politica",
+   "catLabel": "Política",
+   "fonte": "Politico",
+   "titulo": "Democrats eye state supreme court races — this year and beyond",
+   "resumo": "National groups are spending money in battleground judicial races with the hope of liberal majorities in two years.",
+   "link": "https://www.politico.com/news/2026/11/01/state-supreme-court-midterm-elections-01144147",
+   "img": "https://static.politico.com/40/45/ba588fe748579b76c6999254f244/election-2026-north-carolina-83706.jpg",
+   "imgAlt": "",
+   "ts": 1793566800000,
+   "lang": "en",
+   "top": false,
+   "pt": {
+    "titulo": "Democratas estão de olho nas disputas pela Suprema Corte estadual – este ano e depois",
+    "resumo": "Os grupos nacionais estão a gastar dinheiro em disputas judiciais disputadas com a esperança de obterem maiorias liberais dentro de dois anos.",
+    "diz": "",
+    "leitura": []
+   },
+   "temas": [],
+   "digest": {
+    "diz": "",
+    "portras": "Decisão política redesenha regras e orçamentos. Quem ganha mandato ou verba com isso — e o que essa pessoa vai precisar comprar?",
+    "conexao": "Dialoga com «Presidência do Senado: PL deve ter candidato próprio, mesmo com…» (G1 Política), nas conexões abaixo — mesmo tabuleiro. Compare os dois movimentos antes de fechar opinião.",
+    "numeros": []
+   },
+   "leitura": [],
+   "correl": [],
+   "rel": [
+    10,
+    26,
+    30
+   ]
+  },
+  {
+   "id": 35,
    "cat": "ia",
    "catLabel": "Inteligência Artificial",
    "fonte": "TechCrunch AI",
@@ -1203,76 +1569,42 @@
    "leitura": [],
    "correl": [],
    "rel": [
-    12,
-    55,
-    75
+    27,
+    60,
+    71
    ]
   },
   {
-   "id": 27,
-   "cat": "mundo",
-   "catLabel": "Mundo",
-   "fonte": "Al Jazeera",
-   "titulo": "Al Jazeera Director General hails 30 years of groundbreaking news",
-   "resumo": "Al Jazeera has marked 30 years since its first broadcast in 1996, with a ceremony in Doha attended by Qatar’s Emir.",
-   "link": "https://www.aljazeera.com/video/newsfeed/2026/11/1/al-jazeera-director-general-hails-30-years-of-groundbreaking-news?traffic_source=rss",
-   "img": "https://www.aljazeera.com/wp-content/uploads/2026/11/Screenshot-2026-11-01-at-20.42.42-1793565856.png",
-   "imgAlt": "https://www.aljazeera.com/wp-content/uploads/2026/11/Screenshot-2026-11-01-at-20.42.42-1793565856.png?resize=1200%2C675",
-   "ts": 1793566080000,
-   "lang": "en",
-   "top": false,
-   "pt": {
-    "titulo": "Diretor Geral da Al Jazeera elogia 30 anos de notícias inovadoras",
-    "resumo": "A Al Jazeera completou 30 anos desde a sua primeira transmissão em 1996, com uma cerimónia em Doha com a presença do Emir do Qatar.",
-    "diz": "«A Al Jazeera completou 30 anos desde a sua primeira transmissão em 1996, com uma cerimónia em Doha com a presença do Emir do Qatar, Sheikh Tamim bin Hamad Al Thani.» — trecho de: Al Jazeera",
-    "leitura": []
-   },
-   "temas": [],
-   "digest": {
-    "diz": "«Al Jazeera has marked 30 years since its first broadcast in 1996, with a ceremony in Doha attended by Qatar’s Emir Sheikh Tamim bin Hamad Al Thani.» — trecho de: Al Jazeera",
-    "portras": "Evento global com efeito em cadeia potencial: câmbio, commodities, supply chain. Qual das três pontas toca o seu negócio primeiro?",
-    "conexao": "Dialoga com «Senador democrata de alto escalão dos EUA sofre acidente vascular…» (Al Jazeera), nas conexões abaixo — mesmo tabuleiro. Compare os dois movimentos antes de fechar opinião.",
-    "numeros": []
-   },
-   "leitura": [],
-   "correl": [],
-   "rel": [
-    3,
-    5,
-    8
-   ]
-  },
-  {
-   "id": 28,
-   "cat": "mundo",
-   "catLabel": "Mundo",
-   "fonte": "G1 Mundo",
-   "titulo": "VÍDEO: Jatinho cai em área residencial e deixa nove mortos nos EUA",
-   "resumo": "Avião com 9 pessoas a bordo cai em avenida na Flórida Nove pessoas morreram após um avião cair em um bairro residencial de West Palm Beach, na Flórida, nos Estados Unidos, neste domingo (1º). Uma câmera instalada em um carro gravou o momento da queda. Veja acima. ✅ Siga o canal…",
-   "link": "https://g1.globo.com/mundo/noticia/2026/11/01/aviao-caiu-miami.ghtml",
-   "img": "https://s2-g1.glbimg.com/jizq2Jb9aweCHNJD7nJ8DGrDKD4=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/S/3/FyZADKTWiavkR2lmGanw/2026-11-01t214237z-318289359-owanapaavideo2026110142938471-rtrmadp-baseimage-960x540-jet-crash-usa-florida.jpg",
+   "id": 36,
+   "cat": "negocios",
+   "catLabel": "Negócios & Estratégia",
+   "fonte": "Exame",
+   "titulo": "Grêmio faz 2 a 0 no Galo e abre vantagem na semi da Copa do Brasil",
+   "resumo": "Carlos Vinícius e Erick Noriega marcam na Arena; vaga na decisão será definida no próximo sábado, em Belo Horizonte",
+   "link": "https://exame.com/esporte/gremio-faz-2-a-0-no-galo-e-abre-vantagem-na-semi-da-copa-do-brasil/",
+   "img": "https://classic.exame.com/wp-content/uploads/2026/07/55421626716_0efbea5404_o.jpg",
    "imgAlt": "",
-   "ts": 1793565926000,
+   "ts": 1793566609000,
    "lang": "pt",
    "top": false,
    "pt": null,
    "temas": [],
    "digest": {
-    "diz": "«Um jatinho caiu em West Palm Beach, na Flórida, neste domingo (1) e deixou 9 mortos.» — trecho de: G1 Mundo",
-    "portras": "Evento global com efeito em cadeia potencial: câmbio, commodities, supply chain. Qual das três pontas toca o seu negócio primeiro?",
-    "conexao": "Dialoga com «Senador democrata de alto escalão dos EUA sofre acidente vascular…» (Al Jazeera), nas conexões abaixo — mesmo tabuleiro. Compare os dois movimentos antes de fechar opinião.",
+    "diz": "«O Grêmio abriu o placar aos 10 minutos do primeiro tempo, com Carlos Vinícius .» — trecho de: Exame",
+    "portras": "Prática de gestão testada por quem está à frente. Destile uma ideia aplicável à SeeDs ou à sua operação comercial ainda esta semana.",
+    "conexao": "Dialoga com «Novembro começa com previsão de ciclone extratropical e temporais no…» (Exame), nas conexões abaixo — mesmo tabuleiro. Compare os dois movimentos antes de fechar opinião.",
     "numeros": []
    },
    "leitura": [],
    "correl": [],
    "rel": [
-    3,
-    5,
-    8
+    32,
+    38,
+    41
    ]
   },
   {
-   "id": 29,
+   "id": 37,
    "cat": "economia",
    "catLabel": "Economia",
    "fonte": "InfoMoney",
@@ -1289,19 +1621,48 @@
    "digest": {
     "diz": "«O jornal afirma que a operação envolveu pelo menos quatro aeronaves privadas e contou com a coordenação do Departamento de Estado dos Estados Unidos.» — trecho de: InfoMoney",
     "portras": "Sinal macro que altera o ambiente de decisão dos seus clientes. Ajuste timing e argumento ao ciclo — ROI curto em aperto, transformação em afrouxamento.",
-    "conexao": "Dialoga com «Lula precisa encontrar dupla como Palocci e Meirelles e empoderar,…» (InfoMoney), nas conexões abaixo — mesmo tabuleiro. Compare os dois movimentos antes de fechar opinião.",
+    "conexao": "Dialoga com «Usuários da Binance sacam US$ 3,6 bilhões após hack recorde de…» (BBC Business), nas conexões abaixo — mesmo tabuleiro. Compare os dois movimentos antes de fechar opinião.",
     "numeros": []
    },
    "leitura": [],
    "correl": [],
    "rel": [
-    2,
-    7,
-    9
+    5,
+    18,
+    21
    ]
   },
   {
-   "id": 30,
+   "id": 38,
+   "cat": "negocios",
+   "catLabel": "Negócios & Estratégia",
+   "fonte": "Exame",
+   "titulo": "Quanto ganha o campeão da Fórmula 1? Entenda como funciona a premiação",
+   "resumo": "Pilotos podem receber bônus por desempenho, enquanto escuderias têm receitas ligadas ao Mundial de Construtores",
+   "link": "https://exame.com/esporte/quanto-ganha-o-campeao-da-formula-1-entenda-como-funciona-a-premiacao/",
+   "img": "https://classic.exame.com/wp-content/uploads/2026/11/kimi-antonelli-campeao-da-f1.jpg",
+   "imgAlt": "",
+   "ts": 1793565357000,
+   "lang": "pt",
+   "top": false,
+   "pt": null,
+   "temas": [],
+   "digest": {
+    "diz": "«A recompensa esportiva é o Troféu do Campeonato Mundial de Pilotos , entregue na cerimônia anual de premiação da FIA .» — trecho de: Exame",
+    "portras": "Prática de gestão testada por quem está à frente. Destile uma ideia aplicável à SeeDs ou à sua operação comercial ainda esta semana.",
+    "conexao": "Dialoga com «Novembro começa com previsão de ciclone extratropical e temporais no…» (Exame), nas conexões abaixo — mesmo tabuleiro. Compare os dois movimentos antes de fechar opinião.",
+    "numeros": []
+   },
+   "leitura": [],
+   "correl": [],
+   "rel": [
+    32,
+    36,
+    41
+   ]
+  },
+  {
+   "id": 39,
    "cat": "economia",
    "catLabel": "Economia",
    "fonte": "InfoMoney",
@@ -1320,7 +1681,7 @@
    "digest": {
     "diz": "«A OPEP+ é composta pela Organização dos Países Exportadores de Petróleo e por aliados, incluindo Rússia.» — trecho de: InfoMoney",
     "portras": "A transição energética está reprecificando setores inteiros — e o boom de data centers é, no fundo, uma história de eletricidade. Quem lê o mapa de energia lê antes o mapa de investimento.",
-    "conexao": "Leia em par com «Moradores da Ucrânia recebem alertas de risco químico e nuclear;…» (G1 Mundo), nas conexões abaixo: os dois puxam o mesmo fio — petróleo & energia. Eventos climáticos extremos mexem com oferta de energia e commodities agrícolas ao mesmo tempo.",
+    "conexao": "Leia em par com «Os preços do petróleo não acompanham mais as manchetes» (OilPrice), nas conexões abaixo: os dois puxam o mesmo fio — petróleo & energia. Eventos climáticos extremos mexem com oferta de energia e commodities agrícolas ao mesmo tempo.",
     "numeros": [
      "2%",
      "US$118"
@@ -1368,13 +1729,13 @@
     }
    ],
    "rel": [
-    19,
-    36,
-    49
+    17,
+    43,
+    57
    ]
   },
   {
-   "id": 31,
+   "id": 40,
    "cat": "economia",
    "catLabel": "Economia",
    "fonte": "InfoMoney",
@@ -1444,66 +1805,20 @@
     }
    ],
    "rel": [
-    34,
-    2,
-    7
+    42,
+    5,
+    18
    ]
   },
   {
-   "id": 32,
-   "cat": "empreendedorismo",
-   "catLabel": "Empreendedorismo",
-   "fonte": "Agência Brasília",
-   "titulo": "High Tech Course aposta no empreendedorismo e amplia oportunidades de aprendizagem para estudantes",
-   "resumo": "High Tech Course aposta no empreendedorismo e amplia oportunidades de aprendizagem para estudantes Agência Brasília",
-   "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxOUXBXSTBPQUw1bHR2NDJrdncyUnM0UDBnY1puLVoxOHdGa1lQaXI4bVRWMF90S2NLY1NQTWtjWXh2dUV6THEzTVB2SFV2Z1daV0k1OXhDNUFwVnJpckt4SkVZeXNlb2o5ZnZPMmdsMW1RRUtwbHBvSUVRaW5DdFZQeGkxakpYdEdpVkY3MHRLek8yMDdzT1c2Y2J3TDIxbS05cnBuT3hMSzNQbXlEZnE2NllpU28weTVDV3JlRWxsN1VlbTJLVEE3QnRvTEw1U0pCbWxtUmNvb2FqSkx2UWNoWklPUEh5c2ZDREFzVHhjdlJ5bEU?oc=5",
-   "img": "",
-   "imgAlt": "",
-   "ts": 1793564220000,
-   "lang": "pt",
-   "top": false,
-   "pt": null,
-   "temas": [
-    "Startups & empreendedorismo"
-   ],
-   "digest": {
-    "diz": "",
-    "portras": "História de empreendedor é laboratório aberto: modelo de negócio, tração e erro alheio de graça. O exercício útil é extrair o padrão replicável — não a inspiração — e testar uma hipótese dessas na SeeDs ainda este mês.",
-    "conexao": "Leia em par com «Feira de empreendedorismo feminino estreia em Ouro Fino | Diário do…» (Diário do Grande ABC), nas conexões abaixo: os dois puxam o mesmo fio — startups & empreendedorismo. Funding aquecido significa concorrência subsidiada; ciclo seco significa consolidação e clientes órfãos de fornecedor — dois cenários, duas jogadas comerciais.",
-    "numeros": []
-   },
-   "leitura": [],
-   "correl": [
-    {
-     "tema": "Ciclo de funding",
-     "efeito": "Funding aquecido significa concorrência subsidiada; ciclo seco significa consolidação e clientes órfãos de fornecedor — dois cenários, duas jogadas comerciais.",
-     "onde": [
-      {
-       "nome": "Crunchbase News",
-       "url": "https://news.crunchbase.com"
-      },
-      {
-       "nome": "Distrito",
-       "url": "https://distrito.me"
-      }
-     ]
-    }
-   ],
-   "rel": [
-    4,
-    110,
-    75
-   ]
-  },
-  {
-   "id": 33,
+   "id": 41,
    "cat": "negocios",
    "catLabel": "Negócios & Estratégia",
    "fonte": "Exame",
    "titulo": "Antonelli campeão: a trajetória do jovem italiano que cresceu admirando Senna",
    "resumo": "Aos 20 anos, italiano conquistou seu primeiro Mundial e tornou-se o primeiro campeão do país desde Alberto Ascari, em 1953",
    "link": "https://exame.com/esporte/antonelli-campeao-a-trajetoria-do-jovem-italiano-que-cresceu-admirando-senna/",
-   "img": "https://classic.exame.com/wp-content/uploads/2026/04/Kimi-Antonelli.jpg",
+   "img": "https://classic.exame.com/wp-content/uploads/2026/11/kimi.jpg",
    "imgAlt": "",
    "ts": 1793563524000,
    "lang": "pt",
@@ -1513,19 +1828,19 @@
    "digest": {
     "diz": "«Andrea Kimi Antonelli é o mais novo campeão mundial e também o mais jovem da história da Fórmula 1 .» — trecho de: Exame",
     "portras": "Prática de gestão testada por quem está à frente. Destile uma ideia aplicável à SeeDs ou à sua operação comercial ainda esta semana.",
-    "conexao": "Dialoga com «Kimi Antonelli conquista título da F1 e se torna o campeão mais jovem…» (Exame), nas conexões abaixo — mesmo tabuleiro. Compare os dois movimentos antes de fechar opinião.",
+    "conexao": "Dialoga com «Novembro começa com previsão de ciclone extratropical e temporais no…» (Exame), nas conexões abaixo — mesmo tabuleiro. Compare os dois movimentos antes de fechar opinião.",
     "numeros": []
    },
    "leitura": [],
    "correl": [],
    "rel": [
-    39,
-    41,
-    45
+    32,
+    36,
+    38
    ]
   },
   {
-   "id": 34,
+   "id": 42,
    "cat": "tecnologia",
    "catLabel": "Tecnologia",
    "fonte": "Canaltech",
@@ -1597,47 +1912,13 @@
     }
    ],
    "rel": [
-    31,
-    1,
-    10
+    40,
+    20,
+    25
    ]
   },
   {
-   "id": 35,
-   "cat": "energia",
-   "catLabel": "Energia & Clima",
-   "fonte": "Guardian Environment",
-   "titulo": "Northern Territory water plan condemned as ‘blatant and shameless’ attack on nature",
-   "resumo": "Exclusive : Move to scrap legal requirement to set aside water for environment is ‘extreme even for the NT CLP government’, green group says Get our breaking news email , free app or daily news podcast The Northern Territory government has been accused of making a “blatant and…",
-   "link": "https://www.theguardian.com/australia-news/2026/nov/02/northern-territory-water-plan-condemned-as-blatant-and-shameless-attack-on-nature",
-   "img": "https://i.guim.co.uk/img/media/5af2175986fa47f1b85895400bafbb5cd19c208c/217_0_7920_6336/master/7920.jpg?width=1200&quality=85&auto=format&fit=max&s=ababa93e5fdbb2225fd8d196ab2a6c84",
-   "imgAlt": "https://i.guim.co.uk/img/media/5af2175986fa47f1b85895400bafbb5cd19c208c/217_0_7920_6336/master/7920.jpg?width=700&quality=85&auto=format&fit=max&s=ababa93e5fdbb2225fd8d196ab2a6c84",
-   "ts": 1793563377000,
-   "lang": "en",
-   "top": false,
-   "pt": {
-    "titulo": "Plano hídrico do Território do Norte condenado como ataque “flagrante e descarado” à natureza",
-    "resumo": "Exclusivo: Mover-se para eliminar a exigência legal de reservar água para o meio ambiente é 'extremo até mesmo para o governo NT CLP', diz o grupo verde Receba nosso e-mail de notícias de última hora, aplicativo gratuito ou podcast de notícias diárias O governo do Território do Norte foi acusado de fazer um “flagrante e…",
-    "diz": "«O chefe executivo do conselho, Les Turner, disse: “Está minando ativamente as aspirações da comunidade por leis de planejamento hídrico melhores e transparentes.» — trecho de: Guardian Environment",
-    "leitura": []
-   },
-   "temas": [],
-   "digest": {
-    "diz": "«The council’s chief executive, Les Turner, said: “It is actively undermining community aspirations for improved and transparent water planning laws.» — trecho de: Guardian Environment",
-    "portras": "Energia e clima são a camada de custo invisível da economia. Choques aqui chegam via inflação, frete e orçamento de TI.",
-    "conexao": "Dialoga com «Enorme data center de IA provoca reação apesar das promessas de energia…» (OilPrice), nas conexões abaixo — mesmo tabuleiro. Compare os dois movimentos antes de fechar opinião.",
-    "numeros": []
-   },
-   "leitura": [],
-   "correl": [],
-   "rel": [
-    36,
-    49,
-    61
-   ]
-  },
-  {
-   "id": 36,
+   "id": 43,
    "cat": "energia",
    "catLabel": "Energia & Clima",
    "fonte": "OilPrice",
@@ -1662,7 +1943,7 @@
    "digest": {
     "diz": "«Google has proposed an agreement with Xcel Energy to support significant wind, solar and battery storage development alongside its new 780-MW Project Skyway data centre.» — trecho de: OilPrice",
     "portras": "A transição energética está reprecificando setores inteiros — e o boom de data centers é, no fundo, uma história de eletricidade. Quem lê o mapa de energia lê antes o mapa de investimento.",
-    "conexao": "Leia em par com «DARPA apoia projeto para medir o uso de energia de IA em todas as fases…» (OilPrice), nas conexões abaixo: os dois puxam o mesmo fio — semicondutores. Tensão no estreito de Taiwan mexe com toda a cadeia de eletrônicos e com o preço de hardware no Brasil.",
+    "conexao": "Leia em par com «Os preços do petróleo não acompanham mais as manchetes» (OilPrice), nas conexões abaixo: os dois puxam o mesmo fio — petróleo & energia. Eventos climáticos extremos mexem com oferta de energia e commodities agrícolas ao mesmo tempo.",
     "numeros": []
    },
    "leitura": [],
@@ -1721,13 +2002,13 @@
     }
    ],
    "rel": [
-    99,
-    49,
-    61
+    17,
+    57,
+    64
    ]
   },
   {
-   "id": 37,
+   "id": 44,
    "cat": "tecnologia",
    "catLabel": "Tecnologia",
    "fonte": "The Verge",
@@ -1755,13 +2036,13 @@
    "leitura": [],
    "correl": [],
    "rel": [
-    1,
-    10,
-    21
+    20,
+    25,
+    31
    ]
   },
   {
-   "id": 38,
+   "id": 45,
    "cat": "politica",
    "catLabel": "Política",
    "fonte": "BBC Brasil",
@@ -1778,19 +2059,19 @@
    "digest": {
     "diz": "«Em uma terça-feira como outra qualquer, o funcionário público britânico Richard Jackson cometeu o maior erro da sua vida , quando viajava de trem a caminho do trabalho.» — trecho de: BBC Brasil",
     "portras": "Decisão política redesenha regras e orçamentos. Quem ganha mandato ou verba com isso — e o que essa pessoa vai precisar comprar?",
-    "conexao": "Dialoga com «Nove pessoas morrem em acidente de avião na Flórida; veja o que se sabe» (BBC Brasil), nas conexões abaixo — mesmo tabuleiro. Compare os dois movimentos antes de fechar opinião.",
+    "conexao": "Dialoga com «Presidência do Senado: PL deve ter candidato próprio, mesmo com…» (G1 Política), nas conexões abaixo — mesmo tabuleiro. Compare os dois movimentos antes de fechar opinião.",
     "numeros": []
    },
    "leitura": [],
    "correl": [],
    "rel": [
-    6,
-    11,
-    20
+    10,
+    26,
+    30
    ]
   },
   {
-   "id": 39,
+   "id": 46,
    "cat": "negocios",
    "catLabel": "Negócios & Estratégia",
    "fonte": "Exame",
@@ -1807,19 +2088,19 @@
    "digest": {
     "diz": "«O título de Antonelli encerra uma espera de 73 anos por um campeão italiano na Fórmula 1 .» — trecho de: Exame",
     "portras": "Prática de gestão testada por quem está à frente. Destile uma ideia aplicável à SeeDs ou à sua operação comercial ainda esta semana.",
-    "conexao": "Dialoga com «Antonelli campeão: a trajetória do jovem italiano que cresceu admirando…» (Exame), nas conexões abaixo — mesmo tabuleiro. Compare os dois movimentos antes de fechar opinião.",
+    "conexao": "Dialoga com «Novembro começa com previsão de ciclone extratropical e temporais no…» (Exame), nas conexões abaixo — mesmo tabuleiro. Compare os dois movimentos antes de fechar opinião.",
     "numeros": []
    },
    "leitura": [],
    "correl": [],
    "rel": [
-    33,
-    41,
-    45
+    32,
+    36,
+    38
    ]
   },
   {
-   "id": 40,
+   "id": 47,
    "cat": "tecnologia",
    "catLabel": "Tecnologia",
    "fonte": "Canaltech",
@@ -1847,13 +2128,13 @@
    "leitura": [],
    "correl": [],
    "rel": [
-    1,
-    10,
-    21
+    20,
+    25,
+    31
    ]
   },
   {
-   "id": 41,
+   "id": 48,
    "cat": "negocios",
    "catLabel": "Negócios & Estratégia",
    "fonte": "Exame",
@@ -1870,19 +2151,19 @@
    "digest": {
     "diz": "«Hilary Duff revelou que estava esgotada ao encerrar sua trajetória como protagonista de “Lizzie McGuire” .» — trecho de: Exame",
     "portras": "Prática de gestão testada por quem está à frente. Destile uma ideia aplicável à SeeDs ou à sua operação comercial ainda esta semana.",
-    "conexao": "Dialoga com «Antonelli campeão: a trajetória do jovem italiano que cresceu admirando…» (Exame), nas conexões abaixo — mesmo tabuleiro. Compare os dois movimentos antes de fechar opinião.",
+    "conexao": "Dialoga com «Novembro começa com previsão de ciclone extratropical e temporais no…» (Exame), nas conexões abaixo — mesmo tabuleiro. Compare os dois movimentos antes de fechar opinião.",
     "numeros": []
    },
    "leitura": [],
    "correl": [],
    "rel": [
-    33,
-    39,
-    45
+    32,
+    36,
+    38
    ]
   },
   {
-   "id": 42,
+   "id": 49,
    "cat": "economia",
    "catLabel": "Economia",
    "fonte": "G1 Economia",
@@ -1899,19 +2180,19 @@
    "digest": {
     "diz": "«De Milão a Marselha, passando por Madri e muitas outras cidades europeias, as ruas foram tomadas por protestos coloridos e intensos nas últimas semanas.» — trecho de: G1 Economia",
     "portras": "Sinal macro que altera o ambiente de decisão dos seus clientes. Ajuste timing e argumento ao ciclo — ROI curto em aperto, transformação em afrouxamento.",
-    "conexao": "Dialoga com «Lula precisa encontrar dupla como Palocci e Meirelles e empoderar,…» (InfoMoney), nas conexões abaixo — mesmo tabuleiro. Compare os dois movimentos antes de fechar opinião.",
+    "conexao": "Dialoga com «Usuários da Binance sacam US$ 3,6 bilhões após hack recorde de…» (BBC Business), nas conexões abaixo — mesmo tabuleiro. Compare os dois movimentos antes de fechar opinião.",
     "numeros": []
    },
    "leitura": [],
    "correl": [],
    "rel": [
-    2,
-    7,
-    9
+    5,
+    18,
+    21
    ]
   },
   {
-   "id": 43,
+   "id": 50,
    "cat": "empreendedorismo",
    "catLabel": "Empreendedorismo",
    "fonte": "Entrepreneur",
@@ -1942,13 +2223,13 @@
    "leitura": [],
    "correl": [],
    "rel": [
-    4,
-    32,
-    97
+    22,
+    98,
+    107
    ]
   },
   {
-   "id": 44,
+   "id": 51,
    "cat": "tecnologia",
    "catLabel": "Tecnologia",
    "fonte": "Canaltech",
@@ -2018,13 +2299,13 @@
     }
    ],
    "rel": [
-    0,
-    12,
-    66
+    19,
+    27,
+    68
    ]
   },
   {
-   "id": 45,
+   "id": 52,
    "cat": "negocios",
    "catLabel": "Negócios & Estratégia",
    "fonte": "Exame",
@@ -2044,7 +2325,7 @@
    "digest": {
     "diz": "«É nesse vazio que a americana, rival da Starlink na conexão de satélites direto ao celular, acaba de ganhar terreno no país.» — trecho de: Exame",
     "portras": "Conectividade é a camada zero da economia digital — e o seu território. Movimentos em 5G, satélite e fibra redefinem onde nascem os próximos casos de uso de IA; leia como mapa de oportunidade interna na TIM e externa na SeeDs.",
-    "conexao": "Leia em par com «Protestos na França deixam 779 pessoas detidas e 116 agentes feridos no…» (Exame), nas conexões abaixo: os dois puxam o mesmo fio — mercados. Valuation de tech é o ativo mais sensível à curva de juros.",
+    "conexao": "Leia em par com «Japan Airlines: Custos mais elevados de combustível reduziram o EBIT do…» (TradingView), nas conexões abaixo: os dois puxam o mesmo fio — mercados. Valuation de tech é o ativo mais sensível à curva de juros.",
     "numeros": []
    },
    "leitura": [],
@@ -2079,13 +2360,13 @@
     }
    ],
    "rel": [
-    56,
-    4,
-    47
+    7,
+    22,
+    54
    ]
   },
   {
-   "id": 46,
+   "id": 53,
    "cat": "tecnologia",
    "catLabel": "Tecnologia",
    "fonte": "Canaltech",
@@ -2104,7 +2385,7 @@
    "digest": {
     "diz": "«As máquinas lava e seca são uma alternativa prática para quem não tem espaço para estender roupas ou quer reduzir o tempo gasto com tarefas domésticas.» — trecho de: Canaltech",
     "portras": "Clima é variável econômica: seca mexe com energia e alimentos, enchente mexe com logística e seguros. O evento climático de hoje é a linha de custo do próximo trimestre — e bancos já precificam esse risco no crédito.",
-    "conexao": "Leia em par com «O boom das energias renováveis do Azerbaijão está a transformar o seu…» (OilPrice), nas conexões abaixo: os dois puxam o mesmo fio — clima. Hidrologia define preço de energia no Brasil; safra define inflação de alimentos.",
+    "conexao": "Leia em par com «A criosfera enfrenta danos permanentes quando o mundo ultrapassa 1,5°C,…» (Guardian Environment), nas conexões abaixo: os dois puxam o mesmo fio — clima. Hidrologia define preço de energia no Brasil; safra define inflação de alimentos.",
     "numeros": []
    },
    "leitura": [],
@@ -2135,13 +2416,13 @@
     }
    ],
    "rel": [
-    61,
-    99,
-    1
+    16,
+    32,
+    64
    ]
   },
   {
-   "id": 47,
+   "id": 54,
    "cat": "economia",
    "catLabel": "Economia",
    "fonte": "G1 Economia",
@@ -2215,13 +2496,13 @@
     }
    ],
    "rel": [
-    73,
-    62,
-    3
+    76,
+    7,
+    13
    ]
   },
   {
-   "id": 48,
+   "id": 55,
    "cat": "negocios",
    "catLabel": "Negócios & Estratégia",
    "fonte": "Exame",
@@ -2238,19 +2519,84 @@
    "digest": {
     "diz": "«O gol de Maurício , aos 44 minutos do primeiro tempo, garantiu à equipe de Abel Ferreira a vantagem na disputa por uma vaga na decisão.» — trecho de: Exame",
     "portras": "Prática de gestão testada por quem está à frente. Destile uma ideia aplicável à SeeDs ou à sua operação comercial ainda esta semana.",
-    "conexao": "Dialoga com «Antonelli campeão: a trajetória do jovem italiano que cresceu admirando…» (Exame), nas conexões abaixo — mesmo tabuleiro. Compare os dois movimentos antes de fechar opinião.",
+    "conexao": "Dialoga com «Novembro começa com previsão de ciclone extratropical e temporais no…» (Exame), nas conexões abaixo — mesmo tabuleiro. Compare os dois movimentos antes de fechar opinião.",
     "numeros": []
    },
    "leitura": [],
    "correl": [],
    "rel": [
-    33,
-    39,
-    41
+    32,
+    36,
+    38
    ]
   },
   {
-   "id": 49,
+   "id": 56,
+   "cat": "tecnologia",
+   "catLabel": "Tecnologia",
+   "fonte": "Canaltech",
+   "titulo": "PlayStation 5 ou PlayStation 5 Pro: qual comprar na Black Friday 2026?",
+   "resumo": "Muitos esperam pela Black Friday para comprar o tão sonhado videogame. Enquanto o PlayStation 5 continua a ser o objetivo de muitos, alguns acreditam que vale a pena separar um dinheiro a mais para comprar o PS5 Pro . Seja para jogar Marvel’s Wolverine ou Control Resonant , seja…",
+   "link": "https://canaltech.com.br/games/playstation-5-ou-playstation-5-pro-qual-comprar-black-friday-2026/",
+   "img": "https://tl.ctcdn.com.br/uEDnAHJJGHCzz-chf3jB00h992I=/0x0/filters:format(webp):quality(85)/59fd6259-0817-4ab3-9005-a26ee45b71a1.jpg",
+   "imgAlt": "",
+   "ts": 1793556000000,
+   "lang": "pt",
+   "top": true,
+   "pt": null,
+   "temas": [
+    "Vendas & growth"
+   ],
+   "digest": {
+    "diz": "«E uma pergunta recorrente na cabeça de quem escolhe o console da Sony é: entre o PS5 e o PS5 Pro, qual comprar na Black Friday 2026?» — trecho de: Canaltech",
+    "portras": "Crescimento de vendas raramente é sorte: por trás há uma alavanca — canal, preço, proposta ou tecnologia. Identifique qual delas moveu esse resultado e pergunte o que a mesma alavanca faria no seu contexto.",
+    "conexao": "Leia em par com «Japan Airlines: Custos mais elevados de combustível reduziram o EBIT do…» (TradingView), nas conexões abaixo: os dois puxam o mesmo fio — vendas & growth. Os ganhos de conversão atuais vêm de dado + IA no funil, não de mais gente no time.",
+    "numeros": [
+     "R$ 4.599,99",
+     "R$ 5.099,99",
+     "R$ 2.499",
+     "R$ 2.942,10"
+    ]
+   },
+   "leitura": [],
+   "correl": [
+    {
+     "tema": "Tecnologia comercial",
+     "efeito": "Os ganhos de conversão atuais vêm de dado + IA no funil, não de mais gente no time.",
+     "onde": [
+      {
+       "nome": "HubSpot Sales",
+       "url": "https://blog.hubspot.com/sales"
+      },
+      {
+       "nome": "Salesforce Blog",
+       "url": "https://www.salesforce.com/blog/"
+      }
+     ]
+    },
+    {
+     "tema": "Consumo & juros",
+     "efeito": "Resultado de vendas forte sustenta a tese de consumo resiliente — e recalibra a régua de metas do próximo ciclo.",
+     "onde": [
+      {
+       "nome": "InfoMoney",
+       "url": "https://www.infomoney.com.br"
+      },
+      {
+       "nome": "CNC",
+       "url": "https://portaldocomercio.org.br"
+      }
+     ]
+    }
+   ],
+   "rel": [
+    7,
+    61,
+    66
+   ]
+  },
+  {
+   "id": 57,
    "cat": "energia",
    "catLabel": "Energia & Clima",
    "fonte": "OilPrice",
@@ -2275,7 +2621,7 @@
    "digest": {
     "diz": "«China has vastly outspent the United States on nuclear power research and development for years now.» — trecho de: OilPrice",
     "portras": "A transição energética está reprecificando setores inteiros — e o boom de data centers é, no fundo, uma história de eletricidade. Quem lê o mapa de energia lê antes o mapa de investimento.",
-    "conexao": "Leia em par com «Moradores da Ucrânia recebem alertas de risco químico e nuclear;…» (G1 Mundo), nas conexões abaixo: os dois puxam o mesmo fio — geopolítica & comércio. Tensões em rotas de comércio mexem com frete, grãos, metais e petróleo simultaneamente.",
+    "conexao": "Leia em par com «Por que esse metal de terras raras é 346 vezes mais caro na América do…» (OilPrice), nas conexões abaixo: os dois puxam o mesmo fio — geopolítica & comércio. Tensões em rotas de comércio mexem com frete, grãos, metais e petróleo simultaneamente.",
     "numeros": []
    },
    "leitura": [],
@@ -2334,110 +2680,13 @@
     }
    ],
    "rel": [
-    19,
-    36,
-    61
+    15,
+    17,
+    43
    ]
   },
   {
-   "id": 50,
-   "cat": "tecnologia",
-   "catLabel": "Tecnologia",
-   "fonte": "Canaltech",
-   "titulo": "PlayStation 5 ou PlayStation 5 Pro: qual comprar na Black Friday 2026?",
-   "resumo": "Muitos esperam pela Black Friday para comprar o tão sonhado videogame. Enquanto o PlayStation 5 continua a ser o objetivo de muitos, alguns acreditam que vale a pena separar um dinheiro a mais para comprar o PS5 Pro . Seja para jogar Marvel’s Wolverine ou Control Resonant , seja…",
-   "link": "https://canaltech.com.br/games/playstation-5-ou-playstation-5-pro-qual-comprar-black-friday-2026/",
-   "img": "https://tl.ctcdn.com.br/uEDnAHJJGHCzz-chf3jB00h992I=/0x0/filters:format(webp):quality(85)/59fd6259-0817-4ab3-9005-a26ee45b71a1.jpg",
-   "imgAlt": "",
-   "ts": 1793556000000,
-   "lang": "pt",
-   "top": true,
-   "pt": null,
-   "temas": [
-    "Vendas & growth"
-   ],
-   "digest": {
-    "diz": "«E uma pergunta recorrente na cabeça de quem escolhe o console da Sony é: entre o PS5 e o PS5 Pro, qual comprar na Black Friday 2026?» — trecho de: Canaltech",
-    "portras": "Crescimento de vendas raramente é sorte: por trás há uma alavanca — canal, preço, proposta ou tecnologia. Identifique qual delas moveu esse resultado e pergunte o que a mesma alavanca faria no seu contexto.",
-    "conexao": "Leia em par com «Reddit x The Trade Desk: o crescimento da receita de um superou a…» (Yahoo Finance), nas conexões abaixo: os dois puxam o mesmo fio — vendas & growth. Os ganhos de conversão atuais vêm de dado + IA no funil, não de mais gente no time.",
-    "numeros": [
-     "R$ 4.599,99",
-     "R$ 5.099,99",
-     "R$ 2.499",
-     "R$ 2.942,10"
-    ]
-   },
-   "leitura": [],
-   "correl": [
-    {
-     "tema": "Tecnologia comercial",
-     "efeito": "Os ganhos de conversão atuais vêm de dado + IA no funil, não de mais gente no time.",
-     "onde": [
-      {
-       "nome": "HubSpot Sales",
-       "url": "https://blog.hubspot.com/sales"
-      },
-      {
-       "nome": "Salesforce Blog",
-       "url": "https://www.salesforce.com/blog/"
-      }
-     ]
-    },
-    {
-     "tema": "Consumo & juros",
-     "efeito": "Resultado de vendas forte sustenta a tese de consumo resiliente — e recalibra a régua de metas do próximo ciclo.",
-     "onde": [
-      {
-       "nome": "InfoMoney",
-       "url": "https://www.infomoney.com.br"
-      },
-      {
-       "nome": "CNC",
-       "url": "https://portaldocomercio.org.br"
-      }
-     ]
-    }
-   ],
-   "rel": [
-    58,
-    64,
-    70
-   ]
-  },
-  {
-   "id": 51,
-   "cat": "negocios",
-   "catLabel": "Negócios & Estratégia",
-   "fonte": "Exame",
-   "titulo": "Reese Witherspoon recompra produtora e empresa demite 50% do time",
-   "resumo": "Cortes ocorrem semanas após atriz retomar o controle da Hello Sunshine com a francesa Mediawan; filmes, séries e clube do livro serão prioridades",
-   "link": "https://exame.com/pop/reese-witherspoon-recompra-produtora-e-empresa-demite-50-do-time/",
-   "img": "https://classic.exame.com/wp-content/uploads/2021/08/urn_newsml_afp.com_20210802_3faf0f8e-109b-4eb5-9bcc-215dc5457a5e_ipad.jpg",
-   "imgAlt": "",
-   "ts": 1793555600000,
-   "lang": "pt",
-   "top": false,
-   "pt": null,
-   "temas": [],
-   "digest": {
-    "diz": "«Os cortes foram revelados na sexta-feira, 30, semanas após a atriz recomprar a empresa em parceria com o grupo francês Mediawan.» — trecho de: Exame",
-    "portras": "Prática de gestão testada por quem está à frente. Destile uma ideia aplicável à SeeDs ou à sua operação comercial ainda esta semana.",
-    "conexao": "Dialoga com «Antonelli campeão: a trajetória do jovem italiano que cresceu admirando…» (Exame), nas conexões abaixo — mesmo tabuleiro. Compare os dois movimentos antes de fechar opinião.",
-    "numeros": [
-     "50%",
-     "US$ 900 milhões"
-    ]
-   },
-   "leitura": [],
-   "correl": [],
-   "rel": [
-    33,
-    39,
-    41
-   ]
-  },
-  {
-   "id": 52,
+   "id": 58,
    "cat": "politica",
    "catLabel": "Política",
    "fonte": "Politico",
@@ -2459,79 +2708,19 @@
    "digest": {
     "diz": "",
     "portras": "Decisão política redesenha regras e orçamentos. Quem ganha mandato ou verba com isso — e o que essa pessoa vai precisar comprar?",
-    "conexao": "Dialoga com «Nove pessoas morrem em acidente de avião na Flórida; veja o que se sabe» (BBC Brasil), nas conexões abaixo — mesmo tabuleiro. Compare os dois movimentos antes de fechar opinião.",
+    "conexao": "Dialoga com «Presidência do Senado: PL deve ter candidato próprio, mesmo com…» (G1 Política), nas conexões abaixo — mesmo tabuleiro. Compare os dois movimentos antes de fechar opinião.",
     "numeros": []
    },
    "leitura": [],
    "correl": [],
    "rel": [
-    6,
-    11,
-    20
+    10,
+    26,
+    30
    ]
   },
   {
-   "id": 53,
-   "cat": "negocios",
-   "catLabel": "Negócios & Estratégia",
-   "fonte": "Exame",
-   "titulo": "Polêmica com Mbappé leva TV chinesa a suspender transmissão de jogo do Real Madrid",
-   "resumo": "Comentário do atacante sobre Mao Tsé-Tung levou à suspensão de jogos de LaLiga na TV pública chinesa e ao rompimento de patrocínios",
-   "link": "https://exame.com/esporte/polemica-com-mbappe-leva-tv-chinesa-a-suspender-transmissao-de-jogo-do-real-madrid/",
-   "img": "https://classic.exame.com/wp-content/uploads/2026/11/mbappe-real-madrid.jpg",
-   "imgAlt": "",
-   "ts": 1793555056000,
-   "lang": "pt",
-   "top": false,
-   "pt": null,
-   "temas": [
-    "Geopolítica & comércio"
-   ],
-   "digest": {
-    "diz": "«A CCTV , televisão pública da China , deixou de exibir neste domingo, 1º, a partida entre Racing Santander e Real Madrid , pela 11ª rodada de LaLiga .» — trecho de: Exame",
-    "portras": "Cada movimento EUA–China reprecifica tecnologia, chips e commodities. Ler o tabuleiro é ler o custo futuro da sua cadeia — e a agenda de risco que vai dominar a mesa do seu cliente no próximo trimestre.",
-    "conexao": "Leia em par com «Senador democrata de alto escalão dos EUA sofre acidente vascular…» (Al Jazeera), nas conexões abaixo: os dois puxam o mesmo fio — geopolítica & comércio. Tensões em rotas de comércio mexem com frete, grãos, metais e petróleo simultaneamente.",
-    "numeros": []
-   },
-   "leitura": [],
-   "correl": [
-    {
-     "tema": "Commodities",
-     "efeito": "Tensões em rotas de comércio mexem com frete, grãos, metais e petróleo simultaneamente.",
-     "onde": [
-      {
-       "nome": "Trading Economics",
-       "url": "https://tradingeconomics.com/commodities"
-      },
-      {
-       "nome": "Al Jazeera",
-       "url": "https://www.aljazeera.com"
-      }
-     ]
-    },
-    {
-     "tema": "Semicondutores",
-     "efeito": "Restrições de exportação de chips definem quem consegue treinar IA de fronteira.",
-     "onde": [
-      {
-       "nome": "CSIS",
-       "url": "https://www.csis.org"
-      },
-      {
-       "nome": "Reuters Tech",
-       "url": "https://www.reuters.com/technology/"
-      }
-     ]
-    }
-   ],
-   "rel": [
-    3,
-    8,
-    13
-   ]
-  },
-  {
-   "id": 54,
+   "id": 59,
    "cat": "tecnologia",
    "catLabel": "Tecnologia",
    "fonte": "The Verge",
@@ -2555,7 +2744,7 @@
    "digest": {
     "diz": "«Some wondered why Apple did not allow HomeView to double as a security camera at launch, and the company hasn’t said anything to suggest the features are coming.» — trecho de: The Verge",
     "portras": "Big techs definem a infraestrutura sobre a qual todo mundo vende — mudança de plataforma, preço ou política delas é mudança no seu campo de jogo. O que elas cortam ou dobram hoje vira tendência de orçamento corporativo em dois trimestres.",
-    "conexao": "Leia em par com «O Google quer que a IA de vídeo entenda o que as pessoas precisam…» (The Decoder), nas conexões abaixo: os dois puxam o mesmo fio — big techs. Decisões nos EUA e na UE podem abrir (ou fechar) espaço para players menores.",
+    "conexao": "Leia em par com «Google inaugura centro de dados no espaço e testa inteligência…» (CartaCapital), nas conexões abaixo: os dois puxam o mesmo fio — big techs. Decisões nos EUA e na UE podem abrir (ou fechar) espaço para players menores.",
     "numeros": []
    },
    "leitura": [],
@@ -2586,13 +2775,13 @@
     }
    ],
    "rel": [
-    74,
-    87,
-    90
+    71,
+    77,
+    89
    ]
   },
   {
-   "id": 55,
+   "id": 60,
    "cat": "ia",
    "catLabel": "Inteligência Artificial",
    "fonte": "CNN Brasil",
@@ -2615,93 +2804,13 @@
    "leitura": [],
    "correl": [],
    "rel": [
-    12,
-    26,
-    75
+    27,
+    35,
+    71
    ]
   },
   {
-   "id": 56,
-   "cat": "negocios",
-   "catLabel": "Negócios & Estratégia",
-   "fonte": "Exame",
-   "titulo": "Protestos na França deixam 779 pessoas detidas e 116 agentes feridos no fim de semana",
-   "resumo": "Balanço do Ministério do Interior aponta queda nas detenções em relação à semana anterior; 116 agentes de segurança ficaram feridos nos protestos",
-   "link": "https://exame.com/mundo/protestos-na-franca-deixam-779-pessoas-detidas-e-116-agentes-feridos-no-fim-de-semana/",
-   "img": "https://classic.exame.com/wp-content/uploads/2026/10/bicicletas-queimadas-paris-protestos.jpg",
-   "imgAlt": "",
-   "ts": 1793552396000,
-   "lang": "pt",
-   "top": false,
-   "pt": null,
-   "temas": [
-    "Mercados"
-   ],
-   "digest": {
-    "diz": "«Segundo dados divulgados pelo Ministério do Interior no sábado, 320 mil pessoas foram às ruas, contra 550 mil na semana anterior.» — trecho de: Exame",
-    "portras": "Temporada de balanços é inteligência competitiva gratuita: as calls de resultados dos seus clientes — e dos concorrentes deles — revelam prioridades de investimento antes de qualquer RFP.",
-    "conexao": "Leia em par com «Rival da Starlink avança no Brasil e quer levar satélite a 200 milhões…» (Exame), nas conexões abaixo: os dois puxam o mesmo fio — mercados. Valuation de tech é o ativo mais sensível à curva de juros.",
-    "numeros": []
-   },
-   "leitura": [],
-   "correl": [
-    {
-     "tema": "Juros",
-     "efeito": "Valuation de tech é o ativo mais sensível à curva de juros.",
-     "onde": [
-      {
-       "nome": "Investing",
-       "url": "https://br.investing.com"
-      },
-      {
-       "nome": "Status Invest",
-       "url": "https://statusinvest.com.br"
-      }
-     ]
-    }
-   ],
-   "rel": [
-    45,
-    4,
-    47
-   ]
-  },
-  {
-   "id": 57,
-   "cat": "economia",
-   "catLabel": "Economia",
-   "fonte": "BBC Business",
-   "titulo": "Thousands of jobs at Virgin Media O2 to be cut",
-   "resumo": "The broadband provider has not finalised the number of roles to be axed but it will likely be a sizeable chunk of its workforce, the BBC understands.",
-   "link": "https://www.bbc.co.uk/news/articles/c6rry8x9d9qko?at_medium=RSS&at_campaign=rss",
-   "img": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/ac17/live/9ec7c8b0-d610-11f1-bdc5-33a5057f63d4.jpg",
-   "imgAlt": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ac17/live/9ec7c8b0-d610-11f1-bdc5-33a5057f63d4.jpg",
-   "ts": 1793552234000,
-   "lang": "en",
-   "top": false,
-   "pt": {
-    "titulo": "Milhares de empregos na Virgin Media O2 serão cortados",
-    "resumo": "O provedor de banda larga não finalizou o número de funções a serem eliminadas, mas provavelmente representará uma parte considerável de sua força de trabalho, entende a BBC.",
-    "diz": "«Milhares de funcionários da Virgin Media O2 enfrentam risco de demissão enquanto a empresa de telecomunicações busca economizar dinheiro diante de bilhões de libras em dívidas e de uma concorrência mais acirrada.» — trecho de: BBC Business",
-    "leitura": []
-   },
-   "temas": [],
-   "digest": {
-    "diz": "«Thousands of Virgin Media O2 staff face redundancy risk as the telecoms firm looks to save money in the face of billions of pounds of debt and tougher competition.» — trecho de: BBC Business",
-    "portras": "Sinal macro que altera o ambiente de decisão dos seus clientes. Ajuste timing e argumento ao ciclo — ROI curto em aperto, transformação em afrouxamento.",
-    "conexao": "Dialoga com «Lula precisa encontrar dupla como Palocci e Meirelles e empoderar,…» (InfoMoney), nas conexões abaixo — mesmo tabuleiro. Compare os dois movimentos antes de fechar opinião.",
-    "numeros": []
-   },
-   "leitura": [],
-   "correl": [],
-   "rel": [
-    2,
-    7,
-    9
-   ]
-  },
-  {
-   "id": 58,
+   "id": 61,
    "cat": "vendas",
    "catLabel": "Vendas & Growth",
    "fonte": "Yahoo Finance",
@@ -2725,7 +2834,7 @@
    "digest": {
     "diz": "",
     "portras": "Crescimento de vendas raramente é sorte: por trás há uma alavanca — canal, preço, proposta ou tecnologia. Identifique qual delas moveu esse resultado e pergunte o que a mesma alavanca faria no seu contexto.",
-    "conexao": "Leia em par com «Lily do Acarajé bate recorde de vendas em Beltrão após xenofobia» (Jornal de Beltrão), nas conexões abaixo: os dois puxam o mesmo fio — vendas & growth. Os ganhos de conversão atuais vêm de dado + IA no funil, não de mais gente no time.",
+    "conexao": "Leia em par com «Japan Airlines: Custos mais elevados de combustível reduziram o EBIT do…» (TradingView), nas conexões abaixo: os dois puxam o mesmo fio — vendas & growth. Os ganhos de conversão atuais vêm de dado + IA no funil, não de mais gente no time.",
     "numeros": []
    },
    "leitura": [],
@@ -2760,13 +2869,13 @@
     }
    ],
    "rel": [
-    64,
-    71,
-    72
+    7,
+    66,
+    74
    ]
   },
   {
-   "id": 59,
+   "id": 62,
    "cat": "tecnologia",
    "catLabel": "Tecnologia",
    "fonte": "The Verge",
@@ -2794,13 +2903,13 @@
    "leitura": [],
    "correl": [],
    "rel": [
-    1,
-    10,
-    21
+    20,
+    25,
+    31
    ]
   },
   {
-   "id": 60,
+   "id": 63,
    "cat": "politica",
    "catLabel": "Política",
    "fonte": "BBC Brasil",
@@ -2817,19 +2926,19 @@
    "digest": {
     "diz": "«Durante 85 anos funcionou como uma temida prisão a céu aberto onde foram registados tortura, trabalhos forçados e um massacre brutal.» — trecho de: BBC Brasil",
     "portras": "Decisão política redesenha regras e orçamentos. Quem ganha mandato ou verba com isso — e o que essa pessoa vai precisar comprar?",
-    "conexao": "Dialoga com «Nove pessoas morrem em acidente de avião na Flórida; veja o que se sabe» (BBC Brasil), nas conexões abaixo — mesmo tabuleiro. Compare os dois movimentos antes de fechar opinião.",
+    "conexao": "Dialoga com «Presidência do Senado: PL deve ter candidato próprio, mesmo com…» (G1 Política), nas conexões abaixo — mesmo tabuleiro. Compare os dois movimentos antes de fechar opinião.",
     "numeros": []
    },
    "leitura": [],
    "correl": [],
    "rel": [
-    6,
-    11,
-    20
+    10,
+    26,
+    30
    ]
   },
   {
-   "id": 61,
+   "id": 64,
    "cat": "energia",
    "catLabel": "Energia & Clima",
    "fonte": "OilPrice",
@@ -2854,7 +2963,7 @@
    "digest": {
     "diz": "«Azerbaijan, long known as a major oil and gas power, has ventured into renewable energy in recent years and is rapidly ramping up its capacity.» — trecho de: OilPrice",
     "portras": "A transição energética está reprecificando setores inteiros — e o boom de data centers é, no fundo, uma história de eletricidade. Quem lê o mapa de energia lê antes o mapa de investimento.",
-    "conexao": "Leia em par com «DARPA apoia projeto para medir o uso de energia de IA em todas as fases…» (OilPrice), nas conexões abaixo: os dois puxam o mesmo fio — clima. Hidrologia define preço de energia no Brasil; safra define inflação de alimentos.",
+    "conexao": "Leia em par com «A criosfera enfrenta danos permanentes quando o mundo ultrapassa 1,5°C,…» (Guardian Environment), nas conexões abaixo: os dois puxam o mesmo fio — clima. Hidrologia define preço de energia no Brasil; safra define inflação de alimentos.",
     "numeros": [
      "$500 million"
     ]
@@ -2915,78 +3024,13 @@
     }
    ],
    "rel": [
-    99,
-    36,
-    49
+    16,
+    17,
+    43
    ]
   },
   {
-   "id": 62,
-   "cat": "economia",
-   "catLabel": "Economia",
-   "fonte": "G1 Economia",
-   "titulo": "Petrobras aumenta preço do querosene de aviação em novembro",
-   "resumo": "Petrobras Foto Divulgação A Petrobras anunciou um novo aumento no preço de venda do querosene de aviação (QAV) para as distribuidoras a partir deste domingo (1º). O reajuste será de 7,2%, o equivalente a R$ 0,45 por litro em relação ao mês anterior. Este é mais um aumento…",
-   "link": "https://g1.globo.com/economia/noticia/2026/11/01/petrobras-querosene-aviacao-novembro.ghtml",
-   "img": "https://s2-g1.glbimg.com/Mf76M76bqJVWuKm0oyupbxHDQYE=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/n/B/WqfClHTueLtcJGzJSCNA/agro-petrobras-diesel-02ago22-paulowhitaker.webp",
-   "imgAlt": "",
-   "ts": 1793546320000,
-   "lang": "pt",
-   "top": false,
-   "pt": null,
-   "temas": [
-    "Geopolítica & comércio"
-   ],
-   "digest": {
-    "diz": "«A Petrobras anunciou um novo aumento no preço de venda do querosene de aviação (QAV) para as distribuidoras a partir deste domingo (1º).» — trecho de: G1 Economia",
-    "portras": "Geopolítica virou variável de supply chain: tarifa, sanção e conflito redesenham rotas e custos — e criam janela para quem vende resiliência e eficiência. A pergunta é qual cadeia do seu cliente passa pelo ponto de tensão da manchete.",
-    "conexao": "Leia em par com «Acordo Mercosul-UE completa 6 meses com alta de 14,8% nas exportações…» (G1 Economia), nas conexões abaixo: os dois puxam o mesmo fio — geopolítica & comércio. Tensões em rotas de comércio mexem com frete, grãos, metais e petróleo simultaneamente.",
-    "numeros": [
-     "7,2%",
-     "R$ 0,45",
-     "12%",
-     "13,9%"
-    ]
-   },
-   "leitura": [],
-   "correl": [
-    {
-     "tema": "Commodities",
-     "efeito": "Tensões em rotas de comércio mexem com frete, grãos, metais e petróleo simultaneamente.",
-     "onde": [
-      {
-       "nome": "Trading Economics",
-       "url": "https://tradingeconomics.com/commodities"
-      },
-      {
-       "nome": "Al Jazeera",
-       "url": "https://www.aljazeera.com"
-      }
-     ]
-    },
-    {
-     "tema": "Semicondutores",
-     "efeito": "Restrições de exportação de chips definem quem consegue treinar IA de fronteira.",
-     "onde": [
-      {
-       "nome": "CSIS",
-       "url": "https://www.csis.org"
-      },
-      {
-       "nome": "Reuters Tech",
-       "url": "https://www.reuters.com/technology/"
-      }
-     ]
-    }
-   ],
-   "rel": [
-    47,
-    3,
-    8
-   ]
-  },
-  {
-   "id": 63,
+   "id": 65,
    "cat": "politica",
    "catLabel": "Política",
    "fonte": "Politico",
@@ -3008,19 +3052,19 @@
    "digest": {
     "diz": "",
     "portras": "Decisão política redesenha regras e orçamentos. Quem ganha mandato ou verba com isso — e o que essa pessoa vai precisar comprar?",
-    "conexao": "Dialoga com «Nove pessoas morrem em acidente de avião na Flórida; veja o que se sabe» (BBC Brasil), nas conexões abaixo — mesmo tabuleiro. Compare os dois movimentos antes de fechar opinião.",
+    "conexao": "Dialoga com «Presidência do Senado: PL deve ter candidato próprio, mesmo com…» (G1 Política), nas conexões abaixo — mesmo tabuleiro. Compare os dois movimentos antes de fechar opinião.",
     "numeros": []
    },
    "leitura": [],
    "correl": [],
    "rel": [
-    6,
-    11,
-    20
+    10,
+    26,
+    30
    ]
   },
   {
-   "id": 64,
+   "id": 66,
    "cat": "vendas",
    "catLabel": "Vendas & Growth",
    "fonte": "Jornal de Beltrão",
@@ -3039,7 +3083,7 @@
    "digest": {
     "diz": "",
     "portras": "Quando um player anuncia recorde de vendas, o mercado inteiro herda o benchmark. Seus clientes vão se perguntar 'por que nós não?' — chegue antes com a resposta e o método.",
-    "conexao": "Leia em par com «Reddit x The Trade Desk: o crescimento da receita de um superou a…» (Yahoo Finance), nas conexões abaixo: os dois puxam o mesmo fio — vendas & growth. Os ganhos de conversão atuais vêm de dado + IA no funil, não de mais gente no time.",
+    "conexao": "Leia em par com «Japan Airlines: Custos mais elevados de combustível reduziram o EBIT do…» (TradingView), nas conexões abaixo: os dois puxam o mesmo fio — vendas & growth. Os ganhos de conversão atuais vêm de dado + IA no funil, não de mais gente no time.",
     "numeros": []
    },
    "leitura": [],
@@ -3074,13 +3118,13 @@
     }
    ],
    "rel": [
-    58,
-    71,
-    72
+    7,
+    61,
+    74
    ]
   },
   {
-   "id": 65,
+   "id": 67,
    "cat": "politica",
    "catLabel": "Política",
    "fonte": "Politico",
@@ -3102,19 +3146,19 @@
    "digest": {
     "diz": "",
     "portras": "Decisão política redesenha regras e orçamentos. Quem ganha mandato ou verba com isso — e o que essa pessoa vai precisar comprar?",
-    "conexao": "Dialoga com «Nove pessoas morrem em acidente de avião na Flórida; veja o que se sabe» (BBC Brasil), nas conexões abaixo — mesmo tabuleiro. Compare os dois movimentos antes de fechar opinião.",
+    "conexao": "Dialoga com «Presidência do Senado: PL deve ter candidato próprio, mesmo com…» (G1 Política), nas conexões abaixo — mesmo tabuleiro. Compare os dois movimentos antes de fechar opinião.",
     "numeros": []
    },
    "leitura": [],
    "correl": [],
    "rel": [
-    6,
-    11,
-    20
+    10,
+    26,
+    30
    ]
   },
   {
-   "id": 66,
+   "id": 68,
    "cat": "ia_negocios",
    "catLabel": "Empresas de IA",
    "fonte": "The Decoder",
@@ -3187,13 +3231,13 @@
     }
    ],
    "rel": [
-    0,
-    67,
-    69
+    19,
+    69,
+    72
    ]
   },
   {
-   "id": 67,
+   "id": 69,
    "cat": "ia_negocios",
    "catLabel": "Empresas de IA",
    "fonte": "The Decoder",
@@ -3266,13 +3310,13 @@
     }
    ],
    "rel": [
-    0,
-    66,
-    69
+    19,
+    68,
+    72
    ]
   },
   {
-   "id": 68,
+   "id": 70,
    "cat": "energia",
    "catLabel": "Energia & Clima",
    "fonte": "Guardian Environment",
@@ -3294,19 +3338,109 @@
    "digest": {
     "diz": "«But any day now, hundreds of acres of Red Hill are set to become the target for drone spraying of a chemical herbicide that some researchers warn come with concerns.» — trecho de: Guardian Environment",
     "portras": "Energia e clima são a camada de custo invisível da economia. Choques aqui chegam via inflação, frete e orçamento de TI.",
-    "conexao": "Dialoga com «Plano hídrico do Território do Norte condenado como ataque “flagrante e…» (Guardian Environment), nas conexões abaixo — mesmo tabuleiro. Compare os dois movimentos antes de fechar opinião.",
+    "conexao": "Dialoga com «Por que esse metal de terras raras é 346 vezes mais caro na América do…» (OilPrice), nas conexões abaixo — mesmo tabuleiro. Compare os dois movimentos antes de fechar opinião.",
     "numeros": []
    },
    "leitura": [],
    "correl": [],
    "rel": [
-    35,
-    36,
-    49
+    15,
+    16,
+    17
    ]
   },
   {
-   "id": 69,
+   "id": 71,
+   "cat": "ia",
+   "catLabel": "Inteligência Artificial",
+   "fonte": "CartaCapital",
+   "titulo": "Google inaugura centro de dados no espaço e testa inteligência artificial em órbita",
+   "resumo": "Google inaugura centro de dados no espaço e testa inteligência artificial em órbita CartaCapital",
+   "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNSWo0SlF2NjVRcXExN2RDd3kwTEdTYjZDVlZkRHA5aXowZWMyODllQkVVOGdnQmNxSWsyZmpjc0o2Z2o1UVhLa2swLUc5RTFQMVVXYS0tcTJnWGM3Z2ZvOUJ4VklKYkU0ODhEbk1qTThKY29oR0d1b0FIcmFnLUZCcmlnWjBpX0VhVkRuVlV3MDZWMmtpUElFNHFnRzlVelJ4SW5Nc0JpWE1JeW85NVV5Y1djd2tIXzFzNWktRjNyNk8zR0U?oc=5",
+   "img": "",
+   "imgAlt": "",
+   "ts": 1793538060000,
+   "lang": "pt",
+   "top": false,
+   "pt": null,
+   "temas": [
+    "IA generativa",
+    "Semicondutores",
+    "Big techs"
+   ],
+   "digest": {
+    "diz": "",
+    "portras": "Por trás do anúncio, o que muda é o custo de produzir trabalho intelectual — inclusive proposta, atendimento e prospecção. Quem redesenha o funil com IA compra vantagem de margem antes do concorrente; o resto paga para alcançar depois.",
+    "conexao": "Leia em par com «OpenAI pode renomear seus data centers como ‘campi de computação de IA’» (TechCrunch AI), nas conexões abaixo: os dois puxam o mesmo fio — semicondutores. Tensão no estreito de Taiwan mexe com toda a cadeia de eletrônicos e com o preço de hardware no Brasil.",
+    "numeros": []
+   },
+   "leitura": [],
+   "correl": [
+    {
+     "tema": "Semicondutores & data centers",
+     "efeito": "Modelos maiores puxam GPUs, energia e capex de nuvem — Nvidia e TSMC antecipam o ritmo do setor em meses.",
+     "onde": [
+      {
+       "nome": "SemiAnalysis",
+       "url": "https://semianalysis.com"
+      },
+      {
+       "nome": "TechCrunch AI",
+       "url": "https://techcrunch.com/category/artificial-intelligence/"
+      }
+     ]
+    },
+    {
+     "tema": "Mercado de trabalho",
+     "efeito": "Funções comerciais e de atendimento são redesenhadas antes das demais — vagas e demissões em tech contam essa história primeiro.",
+     "onde": [
+      {
+       "nome": "LinkedIn Economic Graph",
+       "url": "https://economicgraph.linkedin.com"
+      },
+      {
+       "nome": "Layoffs.fyi",
+       "url": "https://layoffs.fyi"
+      }
+     ]
+    },
+    {
+     "tema": "Regulação de IA",
+     "efeito": "AI Act na Europa e PL 2338 no Brasil definem o custo de compliance de quem vende IA.",
+     "onde": [
+      {
+       "nome": "MIT Tech Review",
+       "url": "https://www.technologyreview.com"
+      },
+      {
+       "nome": "Senado · PL 2338",
+       "url": "https://www25.senado.leg.br/web/atividade/materias/-/materia/157233"
+      }
+     ]
+    },
+    {
+     "tema": "Geopolítica Taiwan–EUA–China",
+     "efeito": "Tensão no estreito de Taiwan mexe com toda a cadeia de eletrônicos e com o preço de hardware no Brasil.",
+     "onde": [
+      {
+       "nome": "Reuters Tech",
+       "url": "https://www.reuters.com/technology/"
+      },
+      {
+       "nome": "CSIS",
+       "url": "https://www.csis.org"
+      }
+     ]
+    }
+   ],
+   "rel": [
+    27,
+    78,
+    83
+   ]
+  },
+  {
+   "id": 72,
    "cat": "ia_negocios",
    "catLabel": "Empresas de IA",
    "fonte": "The Decoder",
@@ -3379,13 +3513,13 @@
     }
    ],
    "rel": [
-    0,
-    66,
-    67
+    19,
+    68,
+    69
    ]
   },
   {
-   "id": 70,
+   "id": 73,
    "cat": "ia_negocios",
    "catLabel": "Empresas de IA",
    "fonte": "The Decoder",
@@ -3475,12 +3609,12 @@
    ],
    "rel": [
     101,
-    0,
-    79
+    19,
+    81
    ]
   },
   {
-   "id": 71,
+   "id": 74,
    "cat": "vendas",
    "catLabel": "Vendas & Growth",
    "fonte": "Investing.com",
@@ -3568,13 +3702,13 @@
     }
    ],
    "rel": [
-    72,
-    73,
-    88
+    75,
+    76,
+    7
    ]
   },
   {
-   "id": 72,
+   "id": 75,
    "cat": "vendas",
    "catLabel": "Vendas & Growth",
    "fonte": "Reuters",
@@ -3662,13 +3796,13 @@
     }
    ],
    "rel": [
-    71,
-    73,
-    88
+    74,
+    76,
+    7
    ]
   },
   {
-   "id": 73,
+   "id": 76,
    "cat": "vendas",
    "catLabel": "Vendas & Growth",
    "fonte": "Gazeta Digital",
@@ -3689,7 +3823,7 @@
    "digest": {
     "diz": "",
     "portras": "Quando um player anuncia recorde de vendas, o mercado inteiro herda o benchmark. Seus clientes vão se perguntar 'por que nós não?' — chegue antes com a resposta e o método.",
-    "conexao": "Leia em par com «Chinesa BYD amplia série de crescimento de vendas com fortes…» (Investing.com), nas conexões abaixo: os dois puxam o mesmo fio — geopolítica & comércio. Tensões em rotas de comércio mexem com frete, grãos, metais e petróleo simultaneamente.",
+    "conexao": "Leia em par com «Japan Airlines: Custos mais elevados de combustível reduziram o EBIT do…» (TradingView), nas conexões abaixo: os dois puxam o mesmo fio — mercados. Valuation de tech é o ativo mais sensível à curva de juros.",
     "numeros": [
      "21%",
      "421%"
@@ -3755,13 +3889,13 @@
     }
    ],
    "rel": [
-    71,
-    72,
-    88
+    7,
+    74,
+    75
    ]
   },
   {
-   "id": 74,
+   "id": 77,
    "cat": "ia_negocios",
    "catLabel": "Empresas de IA",
    "fonte": "The Decoder",
@@ -3816,13 +3950,13 @@
     }
    ],
    "rel": [
-    54,
-    87,
-    90
+    59,
+    71,
+    89
    ]
   },
   {
-   "id": 75,
+   "id": 78,
    "cat": "ia",
    "catLabel": "Inteligência Artificial",
    "fonte": "VEJA",
@@ -3906,13 +4040,13 @@
     }
    ],
    "rel": [
-    12,
-    78,
-    81
+    27,
+    71,
+    83
    ]
   },
   {
-   "id": 76,
+   "id": 79,
    "cat": "vendas",
    "catLabel": "Vendas & Growth",
    "fonte": "O Liberal",
@@ -3931,7 +4065,7 @@
    "digest": {
     "diz": "",
     "portras": "Quando um player anuncia recorde de vendas, o mercado inteiro herda o benchmark. Seus clientes vão se perguntar 'por que nós não?' — chegue antes com a resposta e o método.",
-    "conexao": "Leia em par com «Reddit x The Trade Desk: o crescimento da receita de um superou a…» (Yahoo Finance), nas conexões abaixo: os dois puxam o mesmo fio — vendas & growth. Os ganhos de conversão atuais vêm de dado + IA no funil, não de mais gente no time.",
+    "conexao": "Leia em par com «Japan Airlines: Custos mais elevados de combustível reduziram o EBIT do…» (TradingView), nas conexões abaixo: os dois puxam o mesmo fio — vendas & growth. Os ganhos de conversão atuais vêm de dado + IA no funil, não de mais gente no time.",
     "numeros": []
    },
    "leitura": [],
@@ -3966,13 +4100,13 @@
     }
    ],
    "rel": [
-    58,
-    64,
-    71
+    7,
+    61,
+    66
    ]
   },
   {
-   "id": 77,
+   "id": 80,
    "cat": "politica",
    "catLabel": "Política",
    "fonte": "Politico",
@@ -3994,108 +4128,19 @@
    "digest": {
     "diz": "",
     "portras": "Decisão política redesenha regras e orçamentos. Quem ganha mandato ou verba com isso — e o que essa pessoa vai precisar comprar?",
-    "conexao": "Dialoga com «Nove pessoas morrem em acidente de avião na Flórida; veja o que se sabe» (BBC Brasil), nas conexões abaixo — mesmo tabuleiro. Compare os dois movimentos antes de fechar opinião.",
+    "conexao": "Dialoga com «Presidência do Senado: PL deve ter candidato próprio, mesmo com…» (G1 Política), nas conexões abaixo — mesmo tabuleiro. Compare os dois movimentos antes de fechar opinião.",
     "numeros": []
    },
    "leitura": [],
    "correl": [],
    "rel": [
-    6,
-    11,
-    20
+    10,
+    26,
+    30
    ]
   },
   {
-   "id": 78,
-   "cat": "ia",
-   "catLabel": "Inteligência Artificial",
-   "fonte": "LANCE!",
-   "titulo": "Inteligência artificial projeta vencedor em Grêmio x Atlético na Copa do Brasil",
-   "resumo": "Inteligência artificial projeta vencedor em Grêmio x Atlético na Copa do Brasil LANCE!",
-   "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPZ0dIMjVDWmpBeWQ2ZlhkUWNwcFpxay0tRlNmXzVBY3ZzUXlxb3luWnZFcFN4Z3lTd3pBM2xOVmxYeS1PdlpEZG1zUS1HbF9PZzFnSFpKUTdHZDVqRV95dVFKSVAwVWFINGZVZFFjekYwRjYwUjY5WDJtVkJPdVFtbDBjcXpKMi1jdEdEejhsRUlfdWp5Rm5nZmxDMkJ6Mm5Ecnc2WnJxLVhzX3dQbjJOUG9fTjZkYjBmblVleVVBMXk?oc=5",
-   "img": "",
-   "imgAlt": "",
-   "ts": 1793529600000,
-   "lang": "pt",
-   "top": false,
-   "pt": null,
-   "temas": [
-    "IA generativa",
-    "Semicondutores"
-   ],
-   "digest": {
-    "diz": "",
-    "portras": "Por trás do anúncio, o que muda é o custo de produzir trabalho intelectual — inclusive proposta, atendimento e prospecção. Quem redesenha o funil com IA compra vantagem de margem antes do concorrente; o resto paga para alcançar depois.",
-    "conexao": "Leia em par com «OpenAI pode renomear seus data centers como ‘campi de computação de IA’» (TechCrunch AI), nas conexões abaixo: os dois puxam o mesmo fio — semicondutores. Tensão no estreito de Taiwan mexe com toda a cadeia de eletrônicos e com o preço de hardware no Brasil.",
-    "numeros": []
-   },
-   "leitura": [],
-   "correl": [
-    {
-     "tema": "Semicondutores & data centers",
-     "efeito": "Modelos maiores puxam GPUs, energia e capex de nuvem — Nvidia e TSMC antecipam o ritmo do setor em meses.",
-     "onde": [
-      {
-       "nome": "SemiAnalysis",
-       "url": "https://semianalysis.com"
-      },
-      {
-       "nome": "TechCrunch AI",
-       "url": "https://techcrunch.com/category/artificial-intelligence/"
-      }
-     ]
-    },
-    {
-     "tema": "Mercado de trabalho",
-     "efeito": "Funções comerciais e de atendimento são redesenhadas antes das demais — vagas e demissões em tech contam essa história primeiro.",
-     "onde": [
-      {
-       "nome": "LinkedIn Economic Graph",
-       "url": "https://economicgraph.linkedin.com"
-      },
-      {
-       "nome": "Layoffs.fyi",
-       "url": "https://layoffs.fyi"
-      }
-     ]
-    },
-    {
-     "tema": "Regulação de IA",
-     "efeito": "AI Act na Europa e PL 2338 no Brasil definem o custo de compliance de quem vende IA.",
-     "onde": [
-      {
-       "nome": "MIT Tech Review",
-       "url": "https://www.technologyreview.com"
-      },
-      {
-       "nome": "Senado · PL 2338",
-       "url": "https://www25.senado.leg.br/web/atividade/materias/-/materia/157233"
-      }
-     ]
-    },
-    {
-     "tema": "Geopolítica Taiwan–EUA–China",
-     "efeito": "Tensão no estreito de Taiwan mexe com toda a cadeia de eletrônicos e com o preço de hardware no Brasil.",
-     "onde": [
-      {
-       "nome": "Reuters Tech",
-       "url": "https://www.reuters.com/technology/"
-      },
-      {
-       "nome": "CSIS",
-       "url": "https://www.csis.org"
-      }
-     ]
-    }
-   ],
-   "rel": [
-    12,
-    75,
-    81
-   ]
-  },
-  {
-   "id": 79,
+   "id": 81,
    "cat": "ia_negocios",
    "catLabel": "Empresas de IA",
    "fonte": "The Decoder",
@@ -4184,13 +4229,13 @@
     }
    ],
    "rel": [
-    0,
-    70,
-    94
+    19,
+    73,
+    95
    ]
   },
   {
-   "id": 80,
+   "id": 82,
    "cat": "negocios",
    "catLabel": "Negócios & Estratégia",
    "fonte": "Fast Company",
@@ -4212,19 +4257,19 @@
    "digest": {
     "diz": "",
     "portras": "Prática de gestão testada por quem está à frente. Destile uma ideia aplicável à SeeDs ou à sua operação comercial ainda esta semana.",
-    "conexao": "Dialoga com «Antonelli campeão: a trajetória do jovem italiano que cresceu admirando…» (Exame), nas conexões abaixo — mesmo tabuleiro. Compare os dois movimentos antes de fechar opinião.",
+    "conexao": "Dialoga com «Novembro começa com previsão de ciclone extratropical e temporais no…» (Exame), nas conexões abaixo — mesmo tabuleiro. Compare os dois movimentos antes de fechar opinião.",
     "numeros": []
    },
    "leitura": [],
    "correl": [],
    "rel": [
-    33,
-    39,
-    41
+    32,
+    36,
+    38
    ]
   },
   {
-   "id": 81,
+   "id": 83,
    "cat": "ia",
    "catLabel": "Inteligência Artificial",
    "fonte": "Poder360",
@@ -4308,13 +4353,13 @@
     }
    ],
    "rel": [
-    12,
-    75,
+    27,
+    71,
     78
    ]
   },
   {
-   "id": 82,
+   "id": 84,
    "cat": "negocios",
    "catLabel": "Negócios & Estratégia",
    "fonte": "Fast Company",
@@ -4336,19 +4381,19 @@
    "digest": {
     "diz": "",
     "portras": "Prática de gestão testada por quem está à frente. Destile uma ideia aplicável à SeeDs ou à sua operação comercial ainda esta semana.",
-    "conexao": "Dialoga com «Antonelli campeão: a trajetória do jovem italiano que cresceu admirando…» (Exame), nas conexões abaixo — mesmo tabuleiro. Compare os dois movimentos antes de fechar opinião.",
+    "conexao": "Dialoga com «Novembro começa com previsão de ciclone extratropical e temporais no…» (Exame), nas conexões abaixo — mesmo tabuleiro. Compare os dois movimentos antes de fechar opinião.",
     "numeros": []
    },
    "leitura": [],
    "correl": [],
    "rel": [
-    33,
-    39,
-    41
+    32,
+    36,
+    38
    ]
   },
   {
-   "id": 83,
+   "id": 85,
    "cat": "ia",
    "catLabel": "Inteligência Artificial",
    "fonte": "InfoMoney",
@@ -4389,12 +4434,12 @@
    ],
    "rel": [
     102,
-    4,
-    45
+    7,
+    22
    ]
   },
   {
-   "id": 84,
+   "id": 86,
    "cat": "politica",
    "catLabel": "Política",
    "fonte": "G1 Política",
@@ -4411,19 +4456,19 @@
    "digest": {
     "diz": "«Duas pessoas assistem ao mesmo debate eleitoral, ouvem os mesmos candidatos e acompanham as mesmas notícias.» — trecho de: G1 Política",
     "portras": "Decisão política redesenha regras e orçamentos. Quem ganha mandato ou verba com isso — e o que essa pessoa vai precisar comprar?",
-    "conexao": "Dialoga com «Nove pessoas morrem em acidente de avião na Flórida; veja o que se sabe» (BBC Brasil), nas conexões abaixo — mesmo tabuleiro. Compare os dois movimentos antes de fechar opinião.",
+    "conexao": "Dialoga com «Presidência do Senado: PL deve ter candidato próprio, mesmo com…» (G1 Política), nas conexões abaixo — mesmo tabuleiro. Compare os dois movimentos antes de fechar opinião.",
     "numeros": []
    },
    "leitura": [],
    "correl": [],
    "rel": [
-    6,
-    11,
-    20
+    10,
+    26,
+    30
    ]
   },
   {
-   "id": 85,
+   "id": 87,
    "cat": "politica",
    "catLabel": "Política",
    "fonte": "G1 Política",
@@ -4440,19 +4485,19 @@
    "digest": {
     "diz": "«A internação na véspera da posse – e a morte inesperada do presidente eleito Tancredo Neves em 21 de abril de 1985 – mudou novamente os rumos da política nacional.» — trecho de: G1 Política",
     "portras": "Decisão política redesenha regras e orçamentos. Quem ganha mandato ou verba com isso — e o que essa pessoa vai precisar comprar?",
-    "conexao": "Dialoga com «Nove pessoas morrem em acidente de avião na Flórida; veja o que se sabe» (BBC Brasil), nas conexões abaixo — mesmo tabuleiro. Compare os dois movimentos antes de fechar opinião.",
+    "conexao": "Dialoga com «Presidência do Senado: PL deve ter candidato próprio, mesmo com…» (G1 Política), nas conexões abaixo — mesmo tabuleiro. Compare os dois movimentos antes de fechar opinião.",
     "numeros": []
    },
    "leitura": [],
    "correl": [],
    "rel": [
-    6,
-    11,
-    20
+    10,
+    26,
+    30
    ]
   },
   {
-   "id": 86,
+   "id": 88,
    "cat": "negocios",
    "catLabel": "Negócios & Estratégia",
    "fonte": "Fast Company",
@@ -4474,19 +4519,19 @@
    "digest": {
     "diz": "",
     "portras": "Prática de gestão testada por quem está à frente. Destile uma ideia aplicável à SeeDs ou à sua operação comercial ainda esta semana.",
-    "conexao": "Dialoga com «Antonelli campeão: a trajetória do jovem italiano que cresceu admirando…» (Exame), nas conexões abaixo — mesmo tabuleiro. Compare os dois movimentos antes de fechar opinião.",
+    "conexao": "Dialoga com «Novembro começa com previsão de ciclone extratropical e temporais no…» (Exame), nas conexões abaixo — mesmo tabuleiro. Compare os dois movimentos antes de fechar opinião.",
     "numeros": []
    },
    "leitura": [],
    "correl": [],
    "rel": [
-    33,
-    39,
-    41
+    32,
+    36,
+    38
    ]
   },
   {
-   "id": 87,
+   "id": 89,
    "cat": "negocios",
    "catLabel": "Negócios & Estratégia",
    "fonte": "Fast Company",
@@ -4541,107 +4586,13 @@
     }
    ],
    "rel": [
-    54,
-    74,
-    90
-   ]
-  },
-  {
-   "id": 88,
-   "cat": "vendas",
-   "catLabel": "Vendas & Growth",
-   "fonte": "Forbes",
-   "titulo": "Anatomy Of Unilever’s FIFA Power Play And Its Sales Growth Impact",
-   "resumo": "Anatomy Of Unilever’s FIFA Power Play And Its Sales Growth Impact Forbes",
-   "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOdHFxWExYTXNkUVY5MGJxZkdCaGU0TmhYc283clNIQ2dfcUE4dzcwVG9IVmtXQ3N3dTZBdGJPc1JmM2dIalktVTNuODdmelg1aGh2Ull1N2N4dGtqNE5OdjZ4X2ozbHQtWVg2QnRqektzX0ItYTNON0pIaEpXRDhFR3Y5M1NZVEpzc0RmMm55UmpOeWthb19DdmV6aGNOVmxOMURIRE80VDBKS3pLS1owOE9GLXFsdjQ?oc=5",
-   "img": "",
-   "imgAlt": "",
-   "ts": 1793504040000,
-   "lang": "en",
-   "top": false,
-   "pt": {
-    "titulo": "Anatomia do FIFA Power Play da Unilever e seu impacto no crescimento das vendas",
-    "resumo": "Anatomia do FIFA Power Play da Unilever e seu impacto no crescimento das vendas Forbes",
-    "diz": "",
-    "leitura": []
-   },
-   "temas": [
-    "Vendas & growth",
-    "Geopolítica & comércio"
-   ],
-   "digest": {
-    "diz": "",
-    "portras": "Crescimento de vendas raramente é sorte: por trás há uma alavanca — canal, preço, proposta ou tecnologia. Identifique qual delas moveu esse resultado e pergunte o que a mesma alavanca faria no seu contexto.",
-    "conexao": "Leia em par com «Chinesa BYD amplia série de crescimento de vendas com fortes…» (Investing.com), nas conexões abaixo: os dois puxam o mesmo fio — geopolítica & comércio. Tensões em rotas de comércio mexem com frete, grãos, metais e petróleo simultaneamente.",
-    "numeros": []
-   },
-   "leitura": [],
-   "correl": [
-    {
-     "tema": "Tecnologia comercial",
-     "efeito": "Os ganhos de conversão atuais vêm de dado + IA no funil, não de mais gente no time.",
-     "onde": [
-      {
-       "nome": "HubSpot Sales",
-       "url": "https://blog.hubspot.com/sales"
-      },
-      {
-       "nome": "Salesforce Blog",
-       "url": "https://www.salesforce.com/blog/"
-      }
-     ]
-    },
-    {
-     "tema": "Consumo & juros",
-     "efeito": "Resultado de vendas forte sustenta a tese de consumo resiliente — e recalibra a régua de metas do próximo ciclo.",
-     "onde": [
-      {
-       "nome": "InfoMoney",
-       "url": "https://www.infomoney.com.br"
-      },
-      {
-       "nome": "CNC",
-       "url": "https://portaldocomercio.org.br"
-      }
-     ]
-    },
-    {
-     "tema": "Commodities",
-     "efeito": "Tensões em rotas de comércio mexem com frete, grãos, metais e petróleo simultaneamente.",
-     "onde": [
-      {
-       "nome": "Trading Economics",
-       "url": "https://tradingeconomics.com/commodities"
-      },
-      {
-       "nome": "Al Jazeera",
-       "url": "https://www.aljazeera.com"
-      }
-     ]
-    },
-    {
-     "tema": "Semicondutores",
-     "efeito": "Restrições de exportação de chips definem quem consegue treinar IA de fronteira.",
-     "onde": [
-      {
-       "nome": "CSIS",
-       "url": "https://www.csis.org"
-      },
-      {
-       "nome": "Reuters Tech",
-       "url": "https://www.reuters.com/technology/"
-      }
-     ]
-    }
-   ],
-   "rel": [
+    59,
     71,
-    72,
-    73
+    77
    ]
   },
   {
-   "id": 89,
+   "id": 90,
    "cat": "energia",
    "catLabel": "Energia & Clima",
    "fonte": "OilPrice",
@@ -4666,7 +4617,7 @@
    "digest": {
     "diz": "«Chevron, specifically, is raising its exploration budget this year by 50% compared to last year, McLachlan told the Financial Times in an interview in September.» — trecho de: OilPrice",
     "portras": "Por trás da rodada há uma tese de receita: qual cliente paga, por qual dor, com que ticket. Decodificar isso vale mais que o valuation da manchete — é benchmarking de modelo de negócio de graça.",
-    "conexao": "Leia em par com «Enorme data center de IA provoca reação apesar das promessas de energia…» (OilPrice), nas conexões abaixo: os dois puxam o mesmo fio — petróleo & energia. Eventos climáticos extremos mexem com oferta de energia e commodities agrícolas ao mesmo tempo.",
+    "conexao": "Leia em par com «Os preços do petróleo não acompanham mais as manchetes» (OilPrice), nas conexões abaixo: os dois puxam o mesmo fio — petróleo & energia. Eventos climáticos extremos mexem com oferta de energia e commodities agrícolas ao mesmo tempo.",
     "numeros": [
      "50%",
      "$1.5 billion",
@@ -4734,13 +4685,13 @@
     }
    ],
    "rel": [
-    36,
-    49,
-    61
+    17,
+    43,
+    57
    ]
   },
   {
-   "id": 90,
+   "id": 91,
    "cat": "ia",
    "catLabel": "Inteligência Artificial",
    "fonte": "TechCrunch AI",
@@ -4764,7 +4715,7 @@
    "digest": {
     "diz": "«During a recent interview with Wired’s Steven Levy , Apple CEO John Ternus defended the company’s current position in the AI landscape.» — trecho de: TechCrunch AI",
     "portras": "Big techs definem a infraestrutura sobre a qual todo mundo vende — mudança de plataforma, preço ou política delas é mudança no seu campo de jogo. O que elas cortam ou dobram hoje vira tendência de orçamento corporativo em dois trimestres.",
-    "conexao": "Leia em par com «O HomeView da Apple pode adicionar recursos de câmera de segurança» (The Verge), nas conexões abaixo: os dois puxam o mesmo fio — big techs. Decisões nos EUA e na UE podem abrir (ou fechar) espaço para players menores.",
+    "conexao": "Leia em par com «Google inaugura centro de dados no espaço e testa inteligência…» (CartaCapital), nas conexões abaixo: os dois puxam o mesmo fio — big techs. Decisões nos EUA e na UE podem abrir (ou fechar) espaço para players menores.",
     "numeros": []
    },
    "leitura": [],
@@ -4795,13 +4746,13 @@
     }
    ],
    "rel": [
-    54,
-    74,
-    87
+    71,
+    59,
+    77
    ]
   },
   {
-   "id": 91,
+   "id": 92,
    "cat": "ia",
    "catLabel": "Inteligência Artificial",
    "fonte": "TechCrunch AI",
@@ -4848,13 +4799,13 @@
     }
    ],
    "rel": [
-    75,
-    4,
-    32
+    78,
+    22,
+    109
    ]
   },
   {
-   "id": 92,
+   "id": 93,
    "cat": "ia",
    "catLabel": "Inteligência Artificial",
    "fonte": "TechCrunch AI",
@@ -4913,13 +4864,13 @@
     }
    ],
    "rel": [
-    12,
-    75,
+    27,
+    71,
     78
    ]
   },
   {
-   "id": 93,
+   "id": 94,
    "cat": "energia",
    "catLabel": "Energia & Clima",
    "fonte": "OilPrice",
@@ -4944,7 +4895,7 @@
    "digest": {
     "diz": "«I would be very surprised if China fielded space-based laser weapons by the late 2020s,\" she said.» — trecho de: OilPrice",
     "portras": "Semicondutor é o petróleo da economia digital: quem controla chip controla o ritmo da IA. O que acontece aqui chega ao mercado de software e serviços com seis meses de atraso — é vantagem de leitura para quem acompanha.",
-    "conexao": "Leia em par com «Enorme data center de IA provoca reação apesar das promessas de energia…» (OilPrice), nas conexões abaixo: os dois puxam o mesmo fio — semicondutores. Tensão no estreito de Taiwan mexe com toda a cadeia de eletrônicos e com o preço de hardware no Brasil.",
+    "conexao": "Leia em par com «Por que esse metal de terras raras é 346 vezes mais caro na América do…» (OilPrice), nas conexões abaixo: os dois puxam o mesmo fio — geopolítica & comércio. Tensões em rotas de comércio mexem com frete, grãos, metais e petróleo simultaneamente.",
     "numeros": []
    },
    "leitura": [],
@@ -5007,13 +4958,13 @@
     }
    ],
    "rel": [
-    36,
-    49,
-    99
+    15,
+    43,
+    57
    ]
   },
   {
-   "id": 94,
+   "id": 95,
    "cat": "ia_negocios",
    "catLabel": "Empresas de IA",
    "fonte": "CNBC",
@@ -5103,13 +5054,13 @@
     }
    ],
    "rel": [
-    0,
-    70,
-    79
+    19,
+    73,
+    81
    ]
   },
   {
-   "id": 95,
+   "id": 96,
    "cat": "ia_negocios",
    "catLabel": "Empresas de IA",
    "fonte": "The Decoder",
@@ -5197,13 +5148,13 @@
     }
    ],
    "rel": [
-    0,
-    70,
-    79
+    19,
+    73,
+    81
    ]
   },
   {
-   "id": 96,
+   "id": 97,
    "cat": "energia",
    "catLabel": "Energia & Clima",
    "fonte": "OilPrice",
@@ -5227,7 +5178,7 @@
    "digest": {
     "diz": "«Jackdaw's operators resubmitted applications for environmental approval earlier this year and, in October, Labour approved its development.» — trecho de: OilPrice",
     "portras": "Energia é a variável que conecta clima, geopolítica e inflação. Choque no barril chega ao frete, do frete ao preço, do preço ao juro — e do juro ao orçamento do seu cliente. É essa cadeia que vale mapear, não o preço do dia.",
-    "conexao": "Leia em par com «Enorme data center de IA provoca reação apesar das promessas de energia…» (OilPrice), nas conexões abaixo: os dois puxam o mesmo fio — petróleo & energia. Eventos climáticos extremos mexem com oferta de energia e commodities agrícolas ao mesmo tempo.",
+    "conexao": "Leia em par com «Os preços do petróleo não acompanham mais as manchetes» (OilPrice), nas conexões abaixo: os dois puxam o mesmo fio — petróleo & energia. Eventos climáticos extremos mexem com oferta de energia e commodities agrícolas ao mesmo tempo.",
     "numeros": []
    },
    "leitura": [],
@@ -5272,13 +5223,13 @@
     }
    ],
    "rel": [
-    36,
-    49,
-    61
+    17,
+    43,
+    57
    ]
   },
   {
-   "id": 97,
+   "id": 98,
    "cat": "empreendedorismo",
    "catLabel": "Empreendedorismo",
    "fonte": "Entrepreneur",
@@ -5309,13 +5260,13 @@
    "leitura": [],
    "correl": [],
    "rel": [
-    4,
-    32,
-    43
+    22,
+    50,
+    107
    ]
   },
   {
-   "id": 98,
+   "id": 99,
    "cat": "ia",
    "catLabel": "Inteligência Artificial",
    "fonte": "Estadão",
@@ -5338,106 +5289,9 @@
    "leitura": [],
    "correl": [],
    "rel": [
-    12,
-    26,
-    55
-   ]
-  },
-  {
-   "id": 99,
-   "cat": "energia",
-   "catLabel": "Energia & Clima",
-   "fonte": "OilPrice",
-   "titulo": "DARPA Backs Project to Measure AI Energy Use at Every Stage of the Workflow",
-   "resumo": "The artificial intelligence boom is creating an energy monster. The indiscriminate integration of machine learning into everything from from our energy grids to our electric toothbrushes – no, really – has created a global race to build up data center capacity as quickly as…",
-   "link": "https://oilprice.com/Energy/Energy-General/DARPA-Backs-Project-to-Measure-AI-Energy-Use-at-Every-Stage-of-the-Workflow.html",
-   "img": "https://d32r1sh890xpii.cloudfront.net/article/1200x675/2026-10-30_uyw3wnnmtd.jpg",
-   "imgAlt": "",
-   "ts": 1793466000000,
-   "lang": "en",
-   "top": false,
-   "pt": {
-    "titulo": "DARPA apoia projeto para medir o uso de energia de IA em todas as fases do fluxo de trabalho",
-    "resumo": "O boom da inteligência artificial está criando um monstro energético. A integração indiscriminada da aprendizagem automática em tudo, desde as nossas redes de energia até às nossas escovas de dentes eléctricas – não, na verdade – criou uma corrida global para aumentar a capacidade dos centros de dados o mais rapidamente possível…",
-    "diz": "«O novo conceito proposto aumentaria a capacidade de rastrear o uso de energia com o objetivo de aumentar a eficiência.» — trecho de: OilPrice",
-    "leitura": []
-   },
-   "temas": [
-    "Semicondutores",
-    "Petróleo & energia",
-    "Clima"
-   ],
-   "digest": {
-    "diz": "«The new concept being proposed would enhance the ability to track energy use with the aim of increasing efficiency.» — trecho de: OilPrice",
-    "portras": "Capex em chips e data centers é o indicador antecedente mais honesto do ciclo de IA. Investimento acelerando significa demanda por soluções digitais chegando — prepare o pipeline antes.",
-    "conexao": "Leia em par com «Enorme data center de IA provoca reação apesar das promessas de energia…» (OilPrice), nas conexões abaixo: os dois puxam o mesmo fio — semicondutores. Tensão no estreito de Taiwan mexe com toda a cadeia de eletrônicos e com o preço de hardware no Brasil.",
-    "numeros": [
-     "30%"
-    ]
-   },
-   "leitura": [],
-   "correl": [
-    {
-     "tema": "Geopolítica Taiwan–EUA–China",
-     "efeito": "Tensão no estreito de Taiwan mexe com toda a cadeia de eletrônicos e com o preço de hardware no Brasil.",
-     "onde": [
-      {
-       "nome": "Reuters Tech",
-       "url": "https://www.reuters.com/technology/"
-      },
-      {
-       "nome": "CSIS",
-       "url": "https://www.csis.org"
-      }
-     ]
-    },
-    {
-     "tema": "Energia",
-     "efeito": "Data centers de IA disputam eletricidade com indústria e consumo — energia vira variável de custo de IA.",
-     "onde": [
-      {
-       "nome": "IEA",
-       "url": "https://www.iea.org"
-      },
-      {
-       "nome": "OilPrice",
-       "url": "https://oilprice.com"
-      }
-     ]
-    },
-    {
-     "tema": "Clima",
-     "efeito": "Eventos climáticos extremos mexem com oferta de energia e commodities agrícolas ao mesmo tempo.",
-     "onde": [
-      {
-       "nome": "NOAA",
-       "url": "https://www.noaa.gov"
-      },
-      {
-       "nome": "Guardian Environment",
-       "url": "https://www.theguardian.com/environment"
-      }
-     ]
-    },
-    {
-     "tema": "Inflação & juros",
-     "efeito": "Petróleo caro pressiona inflação global e adia cortes de juros.",
-     "onde": [
-      {
-       "nome": "OilPrice",
-       "url": "https://oilprice.com"
-      },
-      {
-       "nome": "Trading Economics",
-       "url": "https://tradingeconomics.com"
-      }
-     ]
-    }
-   ],
-   "rel": [
-    36,
-    61,
-    49
+    27,
+    35,
+    60
    ]
   },
   {
@@ -5529,9 +5383,9 @@
     }
    ],
    "rel": [
-    0,
-    70,
-    79
+    19,
+    73,
+    81
    ]
   },
   {
@@ -5628,9 +5482,9 @@
     }
    ],
    "rel": [
-    70,
-    0,
-    79
+    73,
+    19,
+    81
    ]
   },
   {
@@ -5728,88 +5582,13 @@
     }
    ],
    "rel": [
-    12,
-    0,
-    70
+    27,
+    19,
+    73
    ]
   },
   {
    "id": 103,
-   "cat": "energia",
-   "catLabel": "Energia & Clima",
-   "fonte": "OilPrice",
-   "titulo": "Senegal’s Ambitious Plan to Slash Electricity Costs and Boost Energy Security",
-   "resumo": "The government of Senegal has ambitious energy diversification aims, with plans to develop both the country’s oil and gas sector and grow its renewable energy capacity. As part of its Vision 2050 plan, the government aims to reduce energy costs and enhance energy security by…",
-   "link": "https://oilprice.com/Energy/Energy-General/Senegals-Ambitious-Plan-to-Slash-Electricity-Costs-and-Boost-Energy-Security.html",
-   "img": "https://d32r1sh890xpii.cloudfront.net/article/1200x675/2026-10-30_d2mcnqpxa8.jpg",
-   "imgAlt": "",
-   "ts": 1793458800000,
-   "lang": "en",
-   "top": false,
-   "pt": {
-    "titulo": "Plano ambicioso do Senegal para reduzir custos de eletricidade e aumentar a segurança energética",
-    "resumo": "O governo do Senegal tem objectivos ambiciosos de diversificação energética, com planos para desenvolver o sector do petróleo e do gás do país e aumentar a sua capacidade de energia renovável. Como parte do seu plano Visão 2050, o governo pretende reduzir os custos de energia e melhorar a segurança energética…",
-    "diz": "«Como parte do seu plano Visão 2050, o governo pretende reduzir os custos de energia e aumentar a segurança energética através da diversificação das fontes de energia.» — trecho de: OilPrice",
-    "leitura": []
-   },
-   "temas": [
-    "Petróleo & energia"
-   ],
-   "digest": {
-    "diz": "«As part of its Vision 2050 plan, the government aims to reduce energy costs and enhance energy security by diversifying energy sources.» — trecho de: OilPrice",
-    "portras": "A transição energética está reprecificando setores inteiros — e o boom de data centers é, no fundo, uma história de eletricidade. Quem lê o mapa de energia lê antes o mapa de investimento.",
-    "conexao": "Leia em par com «Enorme data center de IA provoca reação apesar das promessas de energia…» (OilPrice), nas conexões abaixo: os dois puxam o mesmo fio — petróleo & energia. Eventos climáticos extremos mexem com oferta de energia e commodities agrícolas ao mesmo tempo.",
-    "numeros": []
-   },
-   "leitura": [],
-   "correl": [
-    {
-     "tema": "Clima",
-     "efeito": "Eventos climáticos extremos mexem com oferta de energia e commodities agrícolas ao mesmo tempo.",
-     "onde": [
-      {
-       "nome": "NOAA",
-       "url": "https://www.noaa.gov"
-      },
-      {
-       "nome": "Guardian Environment",
-       "url": "https://www.theguardian.com/environment"
-      }
-     ]
-    },
-    {
-     "tema": "Inflação & juros",
-     "efeito": "Petróleo caro pressiona inflação global e adia cortes de juros.",
-     "onde": [
-      {
-       "nome": "OilPrice",
-       "url": "https://oilprice.com"
-      },
-      {
-       "nome": "Trading Economics",
-       "url": "https://tradingeconomics.com"
-      }
-     ]
-    },
-    {
-     "tema": "Data centers de IA",
-     "efeito": "A conta de energia da IA já disputa capacidade de geração em vários países.",
-     "onde": [
-      {
-       "nome": "IEA",
-       "url": "https://www.iea.org/topics/data-centres-and-data-transmission-networks"
-      }
-     ]
-    }
-   ],
-   "rel": [
-    36,
-    49,
-    61
-   ]
-  },
-  {
-   "id": 104,
    "cat": "vendas",
    "catLabel": "Vendas & Growth",
    "fonte": "Jornal de Brasília",
@@ -5828,7 +5607,7 @@
    "digest": {
     "diz": "",
     "portras": "Crescimento de vendas raramente é sorte: por trás há uma alavanca — canal, preço, proposta ou tecnologia. Identifique qual delas moveu esse resultado e pergunte o que a mesma alavanca faria no seu contexto.",
-    "conexao": "Leia em par com «Reddit x The Trade Desk: o crescimento da receita de um superou a…» (Yahoo Finance), nas conexões abaixo: os dois puxam o mesmo fio — vendas & growth. Os ganhos de conversão atuais vêm de dado + IA no funil, não de mais gente no time.",
+    "conexao": "Leia em par com «Japan Airlines: Custos mais elevados de combustível reduziram o EBIT do…» (TradingView), nas conexões abaixo: os dois puxam o mesmo fio — vendas & growth. Os ganhos de conversão atuais vêm de dado + IA no funil, não de mais gente no time.",
     "numeros": [
      "351%"
     ]
@@ -5865,13 +5644,13 @@
     }
    ],
    "rel": [
-    58,
-    64,
-    71
+    7,
+    61,
+    66
    ]
   },
   {
-   "id": 105,
+   "id": 104,
    "cat": "energia",
    "catLabel": "Energia & Clima",
    "fonte": "Guardian Environment",
@@ -5895,7 +5674,7 @@
    "digest": {
     "diz": "«It’s extending the life of these coal plants,” said Surbhi Sarang, director and senior attorney at the Environmental Defense Fund.» — trecho de: Guardian Environment",
     "portras": "Câmbio é o tradutor entre a notícia global e o caixa local. Dólar alto encarece nuvem, licença e hardware — e fortalece o argumento de soluções nacionais e de eficiência. Acompanhe como quem acompanha a própria tabela de custos.",
-    "conexao": "Dialoga com «Plano hídrico do Território do Norte condenado como ataque “flagrante e…» (Guardian Environment), nas conexões abaixo — mesmo tabuleiro. Compare os dois movimentos antes de fechar opinião.",
+    "conexao": "Dialoga com «Por que esse metal de terras raras é 346 vezes mais caro na América do…» (OilPrice), nas conexões abaixo — mesmo tabuleiro. Compare os dois movimentos antes de fechar opinião.",
     "numeros": [
      "$950",
      "90%"
@@ -5929,13 +5708,13 @@
     }
    ],
    "rel": [
-    35,
-    36,
-    49
+    15,
+    16,
+    17
    ]
   },
   {
-   "id": 106,
+   "id": 105,
    "cat": "energia",
    "catLabel": "Energia & Clima",
    "fonte": "Guardian Environment",
@@ -5957,19 +5736,19 @@
    "digest": {
     "diz": "",
     "portras": "Energia e clima são a camada de custo invisível da economia. Choques aqui chegam via inflação, frete e orçamento de TI.",
-    "conexao": "Dialoga com «Plano hídrico do Território do Norte condenado como ataque “flagrante e…» (Guardian Environment), nas conexões abaixo — mesmo tabuleiro. Compare os dois movimentos antes de fechar opinião.",
+    "conexao": "Dialoga com «Por que esse metal de terras raras é 346 vezes mais caro na América do…» (OilPrice), nas conexões abaixo — mesmo tabuleiro. Compare os dois movimentos antes de fechar opinião.",
     "numeros": []
    },
    "leitura": [],
    "correl": [],
    "rel": [
-    35,
-    36,
-    49
+    15,
+    16,
+    17
    ]
   },
   {
-   "id": 107,
+   "id": 106,
    "cat": "ia_negocios",
    "catLabel": "Empresas de IA",
    "fonte": "WSJ",
@@ -6059,13 +5838,13 @@
     }
    ],
    "rel": [
-    0,
-    70,
-    79
+    19,
+    73,
+    81
    ]
   },
   {
-   "id": 108,
+   "id": 107,
    "cat": "empreendedorismo",
    "catLabel": "Empreendedorismo",
    "fonte": "Entrepreneur",
@@ -6093,13 +5872,13 @@
    "leitura": [],
    "correl": [],
    "rel": [
-    4,
-    32,
-    43
+    22,
+    50,
+    98
    ]
   },
   {
-   "id": 109,
+   "id": 108,
    "cat": "empreendedorismo",
    "catLabel": "Empreendedorismo",
    "fonte": "Entrepreneur",
@@ -6130,13 +5909,13 @@
    "leitura": [],
    "correl": [],
    "rel": [
-    4,
-    32,
-    43
+    22,
+    50,
+    98
    ]
   },
   {
-   "id": 110,
+   "id": 109,
    "cat": "empreendedorismo",
    "catLabel": "Empreendedorismo",
    "fonte": "TechCrunch Startups",
@@ -6215,13 +5994,13 @@
     }
    ],
    "rel": [
-    4,
-    32,
-    50
+    22,
+    7,
+    56
    ]
   },
   {
-   "id": 111,
+   "id": 110,
    "cat": "empreendedorismo",
    "catLabel": "Empreendedorismo",
    "fonte": "Entrepreneur",
@@ -6249,13 +6028,13 @@
    "leitura": [],
    "correl": [],
    "rel": [
-    4,
-    32,
-    43
+    22,
+    50,
+    98
    ]
   },
   {
-   "id": 112,
+   "id": 111,
    "cat": "empreendedorismo",
    "catLabel": "Empreendedorismo",
    "fonte": "Entrepreneur",
@@ -6283,13 +6062,13 @@
    "leitura": [],
    "correl": [],
    "rel": [
-    4,
-    32,
-    43
+    22,
+    50,
+    98
    ]
   },
   {
-   "id": 113,
+   "id": 112,
    "cat": "empreendedorismo",
    "catLabel": "Empreendedorismo",
    "fonte": "Entrepreneur",
@@ -6317,13 +6096,13 @@
    "leitura": [],
    "correl": [],
    "rel": [
-    4,
-    32,
-    43
+    22,
+    50,
+    98
    ]
   },
   {
-   "id": 114,
+   "id": 113,
    "cat": "empreendedorismo",
    "catLabel": "Empreendedorismo",
    "fonte": "Startups.com.br",
@@ -6348,13 +6127,13 @@
    "leitura": [],
    "correl": [],
    "rel": [
-    4,
-    32,
-    43
+    22,
+    50,
+    98
    ]
   },
   {
-   "id": 115,
+   "id": 114,
    "cat": "empreendedorismo",
    "catLabel": "Empreendedorismo",
    "fonte": "TechCrunch Startups",
@@ -6386,9 +6165,65 @@
    "leitura": [],
    "correl": [],
    "rel": [
-    4,
-    32,
-    43
+    22,
+    50,
+    98
+   ]
+  },
+  {
+   "id": 115,
+   "cat": "empreendedorismo",
+   "catLabel": "Empreendedorismo",
+   "fonte": "Startups.com.br",
+   "titulo": "A continuação de A Rede Social podia ser um bom filme, mas passou longe",
+   "resumo": "Jeremy Strong, como Mark Zuckerberg, em O Outro Lado das Redes | Foto: divulgação Com um assunto maior e mais relevante que o do primeiro filme, O Outro Lado das Redes esbarra na direção pouco inspirada de Aaron Sorkin O post A continuação de A Rede Social podia ser um bom…",
+   "link": "https://startups.com.br/free-time/a-continuacao-de-a-rede-social-podia-ser-um-bom-filme-mas-passou-longe/",
+   "img": "https://uploads.startups.com.br/2026/10/1320-X-768-63.jpg",
+   "imgAlt": "",
+   "ts": 1793388923000,
+   "lang": "pt",
+   "top": false,
+   "pt": null,
+   "temas": [
+    "Big techs"
+   ],
+   "digest": {
+    "diz": "«Diferente de A Rede Social, que no fundo era uma trama sobre ambição, amizade e traição entre um punhado de universitários, aqui o assunto é de interesse geral.» — trecho de: Startups.com.br",
+    "portras": "Big techs definem a infraestrutura sobre a qual todo mundo vende — mudança de plataforma, preço ou política delas é mudança no seu campo de jogo. O que elas cortam ou dobram hoje vira tendência de orçamento corporativo em dois trimestres.",
+    "conexao": "Leia em par com «O HomeView da Apple pode adicionar recursos de câmera de segurança» (The Verge), nas conexões abaixo: os dois puxam o mesmo fio — big techs. Decisões nos EUA e na UE podem abrir (ou fechar) espaço para players menores.",
+    "numeros": []
+   },
+   "leitura": [],
+   "correl": [
+    {
+     "tema": "Antitruste & regulação",
+     "efeito": "Decisões nos EUA e na UE podem abrir (ou fechar) espaço para players menores.",
+     "onde": [
+      {
+       "nome": "The Verge",
+       "url": "https://www.theverge.com/tech"
+      },
+      {
+       "nome": "Politico Tech",
+       "url": "https://www.politico.com/technology"
+      }
+     ]
+    },
+    {
+     "tema": "Capex de IA",
+     "efeito": "O investimento em data centers das big techs é o principal motor do ciclo atual de IA.",
+     "onde": [
+      {
+       "nome": "CNBC Tech",
+       "url": "https://www.cnbc.com/technology/"
+      }
+     ]
+    }
+   ],
+   "rel": [
+    59,
+    71,
+    77
    ]
   },
   {
@@ -6414,15 +6249,15 @@
    "digest": {
     "diz": "«That tension is the biggest question for anyone working with AI right now: how do you get the lift without losing the skill?» — trecho de: Salesforce Blog",
     "portras": "Resultado comercial que virou notícia carrega um método por trás. Identifique a alavanca — canal, preço, proposta ou tecnologia — e traga a lição para o seu funil.",
-    "conexao": "Dialoga com «Reddit x The Trade Desk: o crescimento da receita de um superou a…» (Yahoo Finance), nas conexões abaixo — mesmo tabuleiro. Compare os dois movimentos antes de fechar opinião.",
+    "conexao": "Dialoga com «Japan Airlines: Custos mais elevados de combustível reduziram o EBIT do…» (TradingView), nas conexões abaixo — mesmo tabuleiro. Compare os dois movimentos antes de fechar opinião.",
     "numeros": []
    },
    "leitura": [],
    "correl": [],
    "rel": [
-    58,
-    64,
-    71
+    7,
+    61,
+    66
    ]
   },
   {
@@ -6499,9 +6334,9 @@
     }
    ],
    "rel": [
-    0,
-    12,
-    44
+    19,
+    27,
+    51
    ]
   },
   {
@@ -6524,7 +6359,7 @@
    "digest": {
     "diz": "",
     "portras": "Crescimento de vendas raramente é sorte: por trás há uma alavanca — canal, preço, proposta ou tecnologia. Identifique qual delas moveu esse resultado e pergunte o que a mesma alavanca faria no seu contexto.",
-    "conexao": "Leia em par com «Reddit x The Trade Desk: o crescimento da receita de um superou a…» (Yahoo Finance), nas conexões abaixo: os dois puxam o mesmo fio — vendas & growth. Os ganhos de conversão atuais vêm de dado + IA no funil, não de mais gente no time.",
+    "conexao": "Leia em par com «Japan Airlines: Custos mais elevados de combustível reduziram o EBIT do…» (TradingView), nas conexões abaixo: os dois puxam o mesmo fio — vendas & growth. Os ganhos de conversão atuais vêm de dado + IA no funil, não de mais gente no time.",
     "numeros": []
    },
    "leitura": [],
@@ -6559,9 +6394,9 @@
     }
    ],
    "rel": [
-    58,
-    64,
-    71
+    7,
+    61,
+    66
    ]
   },
   {
@@ -6590,7 +6425,7 @@
    "digest": {
     "diz": "",
     "portras": "Crescimento de vendas raramente é sorte: por trás há uma alavanca — canal, preço, proposta ou tecnologia. Identifique qual delas moveu esse resultado e pergunte o que a mesma alavanca faria no seu contexto.",
-    "conexao": "Leia em par com «Reddit x The Trade Desk: o crescimento da receita de um superou a…» (Yahoo Finance), nas conexões abaixo: os dois puxam o mesmo fio — vendas & growth. Os ganhos de conversão atuais vêm de dado + IA no funil, não de mais gente no time.",
+    "conexao": "Leia em par com «Japan Airlines: Custos mais elevados de combustível reduziram o EBIT do…» (TradingView), nas conexões abaixo: os dois puxam o mesmo fio — vendas & growth. Os ganhos de conversão atuais vêm de dado + IA no funil, não de mais gente no time.",
     "numeros": []
    },
    "leitura": [],
@@ -6649,9 +6484,9 @@
     }
    ],
    "rel": [
-    58,
-    64,
-    71
+    7,
+    61,
+    66
    ]
   }
  ]
